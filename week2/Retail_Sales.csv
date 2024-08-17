@@ -1,0 +1,2001 @@
+Date,Product Category,Region,Product,Sales,Profit,Quantity Sold
+2022-01-01,Electronics,West,Century,736.56,175.03,25
+2022-01-02,Accessories,North,Moment,1447.76,270.06,31
+2022-01-03,Electronics,South,Down,1501.3,216.56,20
+2022-01-04,Accessories,West,Trip,667.31,147.05,39
+2022-01-05,Electronics,East,There,952.86,119.39,18
+2022-01-06,Clothing,East,Thousand,1019.71,227.29,21
+2022-01-07,Furniture,North,Science,654.91,89.52,10
+2022-01-08,Electronics,East,May,443.85,102.58,20
+2022-01-09,Furniture,Central,Behavior,1270.6,377.29,29
+2022-01-10,Clothing,West,Forward,742.23,131.21,47
+2022-01-11,Office Supplies,South,Special,1117.65,325.73,36
+2022-01-12,Accessories,North,Face,599.87,109.65,15
+2022-01-13,Electronics,Central,Child,1077.62,240.78,7
+2022-01-14,Office Supplies,North,Room,939.17,228.8,11
+2022-01-15,Furniture,East,History,1311.42,237.29,42
+2022-01-16,Electronics,North,Voice,951.21,169.69,36
+2022-01-17,Electronics,Central,Really,952.32,285.56,15
+2022-01-18,Electronics,South,Economy,1314.35,305.06,17
+2022-01-19,Clothing,South,Community,1534.69,417.2,9
+2022-01-20,Furniture,Central,Statement,1057.68,226.95,6
+2022-01-21,Furniture,West,Attack,1068.46,313.41,22
+2022-01-22,Furniture,South,Hair,256.86,37.82,14
+2022-01-23,Clothing,North,Tonight,994.87,179.29,7
+2022-01-24,Furniture,East,Thought,961.84,284.05,12
+2022-01-25,Accessories,South,Very,751.18,139.38,11
+2022-01-26,Accessories,North,Recognize,1296.8,183.04,40
+2022-01-27,Clothing,Central,Course,1419.94,382.1,28
+2022-01-28,Accessories,South,Program,1470.35,425.49,37
+2022-01-29,Accessories,East,Call,779.22,161.52,10
+2022-01-30,Furniture,South,Green,1047.17,283.25,11
+2022-01-31,Office Supplies,North,Military,1370.49,265.38,48
+2022-02-01,Accessories,East,Democratic,846.99,184.4,47
+2022-02-02,Accessories,North,Risk,1332.21,230.5,6
+2022-02-03,Clothing,South,Management,700.55,113.35,14
+2022-02-04,Clothing,North,Degree,1138.64,150.49,26
+2022-02-05,Accessories,Central,Ahead,683.9,131.45,16
+2022-02-06,Clothing,North,Law,791.31,141.05,2
+2022-02-07,Electronics,North,Modern,1421.79,191.02,12
+2022-02-08,Accessories,East,Even,728.9,175.68,42
+2022-02-09,Electronics,East,Student,751.53,97.05,6
+2022-02-10,Electronics,West,Move,862.34,191.93,27
+2022-02-11,Electronics,South,With,1055.47,282.79,20
+2022-02-12,Accessories,East,Push,929.89,109.8,20
+2022-02-13,Electronics,East,Share,1168.99,168.47,1
+2022-02-14,Clothing,East,Might,1079.96,133.17,9
+2022-02-15,Furniture,North,Attack,871.34,142.33,41
+2022-02-16,Accessories,West,Beat,1480.08,335.95,42
+2022-02-17,Clothing,West,Teach,988.88,212.21,28
+2022-02-18,Office Supplies,Central,Artist,1274.97,332.0,23
+2022-02-19,Accessories,Central,Read,1459.49,212.41,10
+2022-02-20,Furniture,East,Debate,812.74,179.1,4
+2022-02-21,Clothing,West,Apply,968.18,167.93,42
+2022-02-22,Electronics,North,Present,423.56,126.44,38
+2022-02-23,Clothing,Central,Six,1043.89,123.75,35
+2022-02-24,Office Supplies,South,Gas,1049.04,131.47,7
+2022-02-25,Office Supplies,East,Fall,1091.96,139.71,7
+2022-02-26,Furniture,North,Left,1062.08,189.43,40
+2022-02-27,Accessories,South,When,785.39,193.5,37
+2022-02-28,Furniture,South,Water,1014.57,301.58,19
+2022-03-01,Clothing,East,Should,899.54,207.11,13
+2022-03-02,Accessories,West,Inside,607.97,81.4,3
+2022-03-03,Office Supplies,East,Create,936.15,161.76,3
+2022-03-04,Furniture,North,Me,1108.34,223.29,16
+2022-03-05,Office Supplies,North,Collection,1217.51,314.87,1
+2022-03-06,Office Supplies,East,Per,1404.97,206.22,3
+2022-03-07,Electronics,East,Table,1059.61,304.32,48
+2022-03-08,Accessories,South,Participant,1086.08,313.55,29
+2022-03-09,Furniture,Central,Term,1379.82,152.5,3
+2022-03-10,Clothing,East,Analysis,742.49,170.25,25
+2022-03-11,Electronics,South,Consumer,1282.64,370.58,9
+2022-03-12,Clothing,Central,Religious,835.84,108.18,46
+2022-03-13,Furniture,East,Rate,1007.27,251.9,19
+2022-03-14,Clothing,Central,Instead,844.79,236.97,44
+2022-03-15,Electronics,North,Sit,1184.49,225.36,45
+2022-03-16,Furniture,East,Artist,1046.96,234.7,48
+2022-03-17,Accessories,Central,Walk,770.4,174.55,47
+2022-03-18,Electronics,South,Mission,1580.99,339.73,14
+2022-03-19,Office Supplies,South,Vote,1077.4,153.15,46
+2022-03-20,Office Supplies,South,Sing,557.17,143.43,4
+2022-03-21,Accessories,North,Money,1073.89,194.01,7
+2022-03-22,Furniture,Central,Region,1156.96,285.56,23
+2022-03-23,Clothing,West,Year,997.96,144.83,49
+2022-03-24,Electronics,Central,Individual,1074.93,180.85,21
+2022-03-25,Accessories,West,Be,1182.3,202.45,42
+2022-03-26,Clothing,North,Quite,1249.89,190.25,3
+2022-03-27,Accessories,North,Knowledge,741.46,105.19,26
+2022-03-28,Electronics,West,Tell,958.22,201.07,39
+2022-03-29,Furniture,South,Prove,1025.02,254.07,34
+2022-03-30,Accessories,Central,Bank,1198.67,328.28,12
+2022-03-31,Accessories,Central,Remain,1331.6,173.19,6
+2022-04-01,Electronics,West,Give,1242.58,265.37,23
+2022-04-02,Accessories,Central,Common,1405.1,161.47,22
+2022-04-03,Clothing,West,Bit,677.23,142.43,25
+2022-04-04,Furniture,West,Of,1616.44,255.36,38
+2022-04-05,Accessories,West,Indicate,1043.46,292.24,13
+2022-04-06,Clothing,East,Hear,910.89,149.63,39
+2022-04-07,Clothing,North,Campaign,1087.43,241.99,41
+2022-04-08,Clothing,West,Maybe,575.79,115.36,14
+2022-04-09,Office Supplies,South,Even,1298.91,291.0,29
+2022-04-10,Electronics,Central,Table,806.55,106.91,8
+2022-04-11,Clothing,East,Yet,1075.49,312.91,1
+2022-04-12,Office Supplies,South,Arrive,1186.72,152.94,24
+2022-04-13,Clothing,West,This,1271.25,351.33,39
+2022-04-14,Electronics,Central,Space,775.41,150.32,45
+2022-04-15,Clothing,West,Management,1146.1,319.26,49
+2022-04-16,Office Supplies,West,Soon,994.16,136.47,6
+2022-04-17,Electronics,West,Address,1602.71,345.4,4
+2022-04-18,Accessories,South,Report,1378.53,270.99,28
+2022-04-19,Clothing,South,Natural,1255.78,163.42,44
+2022-04-20,Electronics,North,Worker,925.42,257.67,22
+2022-04-21,Clothing,West,Pattern,470.39,85.41,18
+2022-04-22,Electronics,East,Any,1287.69,156.14,49
+2022-04-23,Furniture,West,Bar,975.59,211.19,3
+2022-04-24,Electronics,East,Describe,563.54,116.61,5
+2022-04-25,Accessories,Central,Black,1245.66,140.37,27
+2022-04-26,Electronics,East,Apply,897.29,93.31,18
+2022-04-27,Office Supplies,South,At,627.86,156.78,35
+2022-04-28,Accessories,East,Beautiful,987.81,277.47,27
+2022-04-29,Furniture,East,Beat,655.44,103.17,26
+2022-04-30,Furniture,North,Dinner,1362.08,272.76,20
+2022-05-01,Accessories,North,Same,1129.11,181.94,33
+2022-05-02,Furniture,East,See,1440.07,277.57,10
+2022-05-03,Office Supplies,East,Environment,938.56,225.03,8
+2022-05-04,Clothing,North,College,1121.6,333.75,44
+2022-05-05,Electronics,North,Decide,1068.75,116.12,4
+2022-05-06,Furniture,West,End,1289.22,176.94,7
+2022-05-07,Accessories,South,Television,435.53,124.78,15
+2022-05-08,Electronics,North,Themselves,1101.14,326.42,49
+2022-05-09,Accessories,Central,Face,938.35,208.88,34
+2022-05-10,Accessories,West,Evening,650.74,145.76,38
+2022-05-11,Clothing,South,Stop,1483.04,438.75,25
+2022-05-12,Electronics,North,Fish,1788.64,370.94,10
+2022-05-13,Furniture,North,Never,1438.04,332.33,48
+2022-05-14,Office Supplies,North,Deal,961.88,173.99,13
+2022-05-15,Accessories,West,New,1221.6,173.49,32
+2022-05-16,Accessories,North,Nothing,1003.97,117.28,49
+2022-05-17,Furniture,Central,Once,972.63,226.45,19
+2022-05-18,Accessories,North,General,1303.02,195.76,37
+2022-05-19,Accessories,Central,Fall,923.61,206.84,27
+2022-05-20,Electronics,Central,Machine,1109.54,242.99,23
+2022-05-21,Furniture,East,Issue,928.9,218.94,3
+2022-05-22,Clothing,West,Image,1044.2,113.29,2
+2022-05-23,Accessories,North,Camera,1192.83,199.57,19
+2022-05-24,Clothing,North,Different,1000.33,201.89,28
+2022-05-25,Clothing,South,Democrat,1033.91,111.48,44
+2022-05-26,Furniture,West,Fight,460.02,126.54,20
+2022-05-27,Accessories,North,Body,785.51,122.44,23
+2022-05-28,Office Supplies,East,Make,1160.95,162.32,42
+2022-05-29,Furniture,West,Work,955.53,160.29,30
+2022-05-30,Furniture,East,Must,1429.72,176.76,29
+2022-05-31,Clothing,East,Large,1523.27,402.82,36
+2022-06-01,Office Supplies,South,Chair,385.19,47.87,9
+2022-06-02,Accessories,West,Increase,853.62,101.46,14
+2022-06-03,Electronics,Central,Position,1198.46,263.72,24
+2022-06-04,Accessories,East,Need,854.63,162.12,32
+2022-06-05,Accessories,South,President,609.72,152.56,42
+2022-06-06,Accessories,Central,Material,1430.27,377.38,31
+2022-06-07,Accessories,North,Arm,1609.46,409.82,26
+2022-06-08,Clothing,West,Would,486.48,127.29,42
+2022-06-09,Electronics,Central,Food,1063.76,115.28,7
+2022-06-10,Electronics,North,Early,753.22,206.07,34
+2022-06-11,Office Supplies,Central,Police,808.56,231.12,12
+2022-06-12,Office Supplies,Central,However,701.1,157.82,5
+2022-06-13,Electronics,West,Including,627.95,154.19,1
+2022-06-14,Clothing,South,Human,1387.29,333.5,21
+2022-06-15,Clothing,Central,Have,688.59,139.69,46
+2022-06-16,Clothing,North,Issue,1053.15,141.02,49
+2022-06-17,Office Supplies,West,Wide,968.23,253.3,45
+2022-06-18,Clothing,West,Return,1278.87,288.79,34
+2022-06-19,Clothing,North,Need,825.85,102.47,47
+2022-06-20,Furniture,South,Method,1039.21,182.07,39
+2022-06-21,Accessories,West,Your,253.51,34.8,5
+2022-06-22,Office Supplies,North,Always,801.28,99.36,3
+2022-06-23,Office Supplies,South,Education,849.15,198.57,26
+2022-06-24,Clothing,North,Soldier,899.67,169.19,37
+2022-06-25,Electronics,East,Car,1132.37,277.17,17
+2022-06-26,Electronics,Central,Save,1060.2,307.8,14
+2022-06-27,Accessories,East,Remain,931.12,168.27,9
+2022-06-28,Office Supplies,Central,Yeah,1367.53,322.07,19
+2022-06-29,Office Supplies,West,Growth,1582.83,346.5,9
+2022-06-30,Office Supplies,East,Start,1406.2,410.12,22
+2022-07-01,Accessories,Central,He,1185.8,352.21,45
+2022-07-02,Electronics,Central,Current,867.77,216.99,46
+2022-07-03,Clothing,North,Less,877.73,149.08,29
+2022-07-04,Accessories,Central,When,1103.83,236.2,43
+2022-07-05,Accessories,West,Next,842.57,231.13,43
+2022-07-06,Accessories,Central,Page,847.61,181.35,35
+2022-07-07,Electronics,South,Behind,884.81,214.61,48
+2022-07-08,Clothing,East,Direction,949.8,232.47,28
+2022-07-09,Electronics,West,Worker,1413.47,355.85,4
+2022-07-10,Furniture,North,Front,1276.98,178.01,27
+2022-07-11,Office Supplies,West,Account,1384.3,157.79,27
+2022-07-12,Electronics,West,Explain,864.34,104.38,12
+2022-07-13,Clothing,North,Sister,638.36,177.84,8
+2022-07-14,Electronics,North,Daughter,650.41,98.59,43
+2022-07-15,Clothing,East,Significant,1525.12,208.39,26
+2022-07-16,Clothing,Central,I,1061.33,119.78,42
+2022-07-17,Office Supplies,East,Available,799.27,199.93,48
+2022-07-18,Furniture,South,Authority,641.3,178.72,36
+2022-07-19,Clothing,South,Body,520.2,146.65,43
+2022-07-20,Clothing,Central,Seat,1503.93,200.46,37
+2022-07-21,Office Supplies,South,Size,1498.91,150.76,38
+2022-07-22,Clothing,East,Another,1163.68,219.02,26
+2022-07-23,Accessories,Central,Visit,1201.34,303.87,31
+2022-07-24,Clothing,Central,Painting,843.63,135.65,11
+2022-07-25,Electronics,West,Wish,1440.57,385.02,13
+2022-07-26,Furniture,West,Station,1101.41,299.78,6
+2022-07-27,Furniture,South,Old,941.42,201.36,34
+2022-07-28,Furniture,South,Space,904.24,93.53,44
+2022-07-29,Clothing,West,Catch,1365.53,382.74,27
+2022-07-30,Electronics,South,The,1110.02,254.09,42
+2022-07-31,Electronics,North,Church,1005.42,253.25,48
+2022-08-01,Office Supplies,South,Court,1249.76,162.3,47
+2022-08-02,Office Supplies,East,Young,1163.69,307.24,13
+2022-08-03,Electronics,West,Tax,752.34,95.77,3
+2022-08-04,Furniture,West,Whole,747.26,156.12,46
+2022-08-05,Accessories,South,Most,1241.82,219.79,24
+2022-08-06,Accessories,East,Whose,1034.52,109.98,22
+2022-08-07,Accessories,East,Loss,1100.07,170.61,39
+2022-08-08,Electronics,North,Reduce,553.61,125.28,26
+2022-08-09,Furniture,Central,Church,1060.21,232.82,36
+2022-08-10,Electronics,North,Professional,663.48,149.9,9
+2022-08-11,Accessories,East,Oil,1042.39,147.16,26
+2022-08-12,Furniture,Central,On,1389.71,373.98,22
+2022-08-13,Furniture,East,Weight,992.13,175.04,21
+2022-08-14,Clothing,East,Along,1022.64,141.96,1
+2022-08-15,Office Supplies,North,Loss,1246.36,257.42,5
+2022-08-16,Accessories,East,Rate,1024.98,260.47,6
+2022-08-17,Clothing,South,Senior,566.8,109.94,17
+2022-08-18,Clothing,Central,White,865.91,214.84,13
+2022-08-19,Clothing,South,Participant,389.46,97.56,20
+2022-08-20,Office Supplies,Central,Once,1224.05,286.42,13
+2022-08-21,Clothing,East,Enjoy,1022.25,304.05,8
+2022-08-22,Electronics,East,Return,955.61,188.67,40
+2022-08-23,Furniture,East,Field,1275.16,205.75,33
+2022-08-24,Clothing,South,Away,1356.04,277.99,44
+2022-08-25,Clothing,South,Debate,957.37,138.97,36
+2022-08-26,Electronics,South,Either,1183.97,297.79,48
+2022-08-27,Furniture,East,Even,908.23,255.38,9
+2022-08-28,Accessories,West,Identify,795.2,202.36,8
+2022-08-29,Accessories,South,Trouble,892.86,259.11,44
+2022-08-30,Office Supplies,West,Hear,992.55,194.66,39
+2022-08-31,Clothing,South,Group,1278.96,358.94,29
+2022-09-01,Furniture,East,Value,1354.99,167.95,10
+2022-09-02,Accessories,East,See,652.48,67.31,23
+2022-09-03,Electronics,North,Southern,885.55,95.33,23
+2022-09-04,Clothing,West,Painting,1273.4,250.49,40
+2022-09-05,Accessories,South,Lose,794.39,206.95,43
+2022-09-06,Furniture,North,Upon,1038.08,282.72,44
+2022-09-07,Furniture,North,Republican,1477.55,412.37,23
+2022-09-08,Clothing,East,Business,954.31,236.58,9
+2022-09-09,Accessories,West,Manage,1094.24,162.2,34
+2022-09-10,Clothing,South,High,1084.77,161.28,49
+2022-09-11,Clothing,South,Accept,598.28,118.97,3
+2022-09-12,Office Supplies,East,Chair,1088.69,196.95,32
+2022-09-13,Office Supplies,West,Evening,1052.96,222.13,21
+2022-09-14,Furniture,Central,Several,1198.96,255.94,38
+2022-09-15,Furniture,South,Form,1389.18,355.56,35
+2022-09-16,Electronics,North,Race,973.7,258.14,32
+2022-09-17,Accessories,East,Soldier,483.33,107.18,22
+2022-09-18,Office Supplies,North,Inside,795.92,188.31,34
+2022-09-19,Accessories,Central,Management,1530.72,370.19,2
+2022-09-20,Clothing,Central,Affect,1361.06,387.0,3
+2022-09-21,Office Supplies,South,Huge,1211.62,290.42,36
+2022-09-22,Office Supplies,East,Oil,920.82,197.35,41
+2022-09-23,Electronics,North,Catch,1013.45,119.48,42
+2022-09-24,Office Supplies,Central,Home,769.11,206.8,13
+2022-09-25,Furniture,East,Customer,524.91,142.13,43
+2022-09-26,Accessories,Central,Now,774.38,111.31,4
+2022-09-27,Office Supplies,South,Today,543.47,76.67,49
+2022-09-28,Accessories,Central,Skin,907.07,152.69,36
+2022-09-29,Accessories,North,Standard,1205.69,279.94,14
+2022-09-30,Office Supplies,West,Machine,1263.83,320.47,45
+2022-10-01,Office Supplies,West,Check,1086.78,280.8,1
+2022-10-02,Electronics,East,Present,881.44,196.43,32
+2022-10-03,Furniture,West,Trip,1790.31,446.24,28
+2022-10-04,Office Supplies,North,Series,1709.89,372.31,1
+2022-10-05,Office Supplies,South,Guy,1155.55,287.21,17
+2022-10-06,Furniture,Central,Economy,994.31,100.86,23
+2022-10-07,Office Supplies,Central,Quality,1060.79,197.7,5
+2022-10-08,Furniture,East,Detail,1517.62,444.97,11
+2022-10-09,Clothing,South,When,664.82,196.78,45
+2022-10-10,Office Supplies,West,Guess,989.58,169.87,1
+2022-10-11,Electronics,North,Rule,964.92,236.63,20
+2022-10-12,Furniture,East,Technology,1036.59,252.52,39
+2022-10-13,Furniture,East,Congress,998.4,181.62,30
+2022-10-14,Clothing,East,Garden,918.74,240.89,26
+2022-10-15,Electronics,North,Another,1026.54,111.14,18
+2022-10-16,Furniture,East,Another,1302.03,346.11,26
+2022-10-17,Clothing,South,One,1144.51,192.69,25
+2022-10-18,Clothing,East,Sit,555.32,80.16,5
+2022-10-19,Clothing,Central,Them,1531.76,404.95,30
+2022-10-20,Electronics,West,Movie,1396.18,153.12,36
+2022-10-21,Furniture,South,Second,1035.09,215.08,37
+2022-10-22,Clothing,East,Throw,801.15,162.98,36
+2022-10-23,Accessories,West,Later,824.33,239.21,41
+2022-10-24,Accessories,East,Black,737.46,138.67,37
+2022-10-25,Furniture,West,Add,1100.67,161.8,22
+2022-10-26,Accessories,West,Language,796.83,195.05,47
+2022-10-27,Electronics,Central,Lead,960.2,129.02,16
+2022-10-28,Accessories,West,Pm,838.36,167.26,31
+2022-10-29,Electronics,South,Box,1124.73,250.39,17
+2022-10-30,Electronics,East,Its,1096.43,219.45,1
+2022-10-31,Office Supplies,Central,Day,970.29,137.97,22
+2022-11-01,Clothing,South,Either,446.6,118.76,42
+2022-11-02,Clothing,East,Tonight,1496.86,182.46,13
+2022-11-03,Office Supplies,Central,Or,612.08,62.46,31
+2022-11-04,Furniture,West,Specific,849.02,136.01,39
+2022-11-05,Accessories,South,Today,1110.83,310.67,1
+2022-11-06,Furniture,West,Approach,508.76,85.9,36
+2022-11-07,Office Supplies,West,Indeed,989.33,213.66,26
+2022-11-08,Furniture,East,Either,1109.77,152.98,29
+2022-11-09,Office Supplies,West,Leader,897.39,141.85,9
+2022-11-10,Electronics,East,Risk,1082.31,267.99,26
+2022-11-11,Office Supplies,East,Draw,850.65,209.26,31
+2022-11-12,Electronics,South,Movie,922.29,135.98,10
+2022-11-13,Clothing,South,Happen,895.01,211.38,32
+2022-11-14,Electronics,South,Marriage,436.22,120.81,27
+2022-11-15,Electronics,East,Indeed,1441.13,282.11,48
+2022-11-16,Accessories,North,One,1565.97,448.5,38
+2022-11-17,Furniture,South,Likely,1218.84,330.11,1
+2022-11-18,Furniture,Central,Safe,486.07,62.17,38
+2022-11-19,Accessories,North,Pass,513.41,90.85,26
+2022-11-20,Electronics,East,Rock,1215.44,258.65,45
+2022-11-21,Furniture,West,Set,670.42,181.84,33
+2022-11-22,Accessories,West,Even,979.43,204.3,3
+2022-11-23,Clothing,South,I,1742.84,213.91,22
+2022-11-24,Furniture,Central,Do,1020.97,174.08,49
+2022-11-25,Office Supplies,Central,Happy,1182.2,203.14,6
+2022-11-26,Electronics,South,Clear,1497.5,217.81,19
+2022-11-27,Accessories,West,Last,951.83,126.8,47
+2022-11-28,Office Supplies,South,Loss,1027.69,257.66,13
+2022-11-29,Clothing,East,Deep,793.7,184.06,37
+2022-11-30,Clothing,South,Hard,837.49,171.77,24
+2022-12-01,Office Supplies,South,Full,625.12,187.43,32
+2022-12-02,Accessories,North,Specific,591.11,84.92,4
+2022-12-03,Furniture,Central,Various,978.33,269.48,43
+2022-12-04,Furniture,Central,Image,799.44,150.3,46
+2022-12-05,Electronics,North,Of,696.11,125.27,9
+2022-12-06,Electronics,Central,Remain,748.51,154.42,23
+2022-12-07,Clothing,South,Great,901.8,169.68,24
+2022-12-08,Accessories,Central,Performance,903.35,266.07,13
+2022-12-09,Accessories,East,Your,837.95,124.8,5
+2022-12-10,Electronics,West,None,1240.53,246.81,46
+2022-12-11,Clothing,North,Within,749.26,90.03,26
+2022-12-12,Clothing,West,Claim,1081.25,226.01,49
+2022-12-13,Accessories,South,Much,1554.61,243.72,15
+2022-12-14,Furniture,North,Reality,704.85,196.47,26
+2022-12-15,Office Supplies,South,Whether,876.76,166.32,33
+2022-12-16,Electronics,Central,Nothing,1261.35,144.36,33
+2022-12-17,Furniture,Central,Drive,1069.88,188.98,22
+2022-12-18,Furniture,Central,Meeting,484.43,83.26,30
+2022-12-19,Electronics,East,Thousand,1151.05,238.03,40
+2022-12-20,Furniture,Central,Drug,1409.9,353.27,7
+2022-12-21,Accessories,Central,Country,555.9,123.85,29
+2022-12-22,Accessories,South,At,1207.64,182.09,23
+2022-12-23,Office Supplies,Central,Necessary,842.48,99.81,1
+2022-12-24,Clothing,South,Tough,1224.03,193.39,2
+2022-12-25,Accessories,West,Anything,1200.72,357.79,9
+2022-12-26,Office Supplies,North,Study,910.05,123.63,39
+2022-12-27,Accessories,South,Age,962.99,132.3,15
+2022-12-28,Office Supplies,West,Study,992.11,241.68,33
+2022-12-29,Furniture,East,Four,454.23,120.93,45
+2022-12-30,Accessories,East,College,1196.96,205.45,11
+2022-12-31,Clothing,North,Poor,1332.69,207.2,36
+2023-01-01,Clothing,North,Black,899.63,122.44,20
+2023-01-02,Electronics,South,World,588.11,80.02,35
+2023-01-03,Furniture,Central,Continue,1891.36,272.72,4
+2023-01-04,Furniture,East,Hair,1129.2,305.12,6
+2023-01-05,Furniture,North,Build,758.31,205.95,3
+2023-01-06,Office Supplies,Central,Standard,1285.33,369.48,27
+2023-01-07,Office Supplies,North,Consumer,1124.49,207.62,2
+2023-01-08,Clothing,South,Hard,902.78,125.83,41
+2023-01-09,Office Supplies,South,Laugh,832.81,178.83,12
+2023-01-10,Accessories,North,Pull,693.69,78.23,26
+2023-01-11,Electronics,East,Notice,515.04,81.6,20
+2023-01-12,Electronics,West,Head,962.7,167.68,1
+2023-01-13,Office Supplies,Central,Other,932.41,234.5,46
+2023-01-14,Furniture,Central,Mouth,763.16,173.92,5
+2023-01-15,Furniture,South,Probably,512.01,53.83,37
+2023-01-16,Clothing,North,Right,1506.26,403.16,15
+2023-01-17,Furniture,East,Until,649.42,154.97,13
+2023-01-18,Furniture,North,Shake,1275.95,234.47,27
+2023-01-19,Office Supplies,West,Argue,1226.53,313.46,16
+2023-01-20,Clothing,West,Market,893.04,206.99,45
+2023-01-21,Furniture,North,Boy,886.3,122.21,38
+2023-01-22,Accessories,South,Letter,964.25,174.73,16
+2023-01-23,Accessories,East,Collection,426.91,84.22,44
+2023-01-24,Office Supplies,North,He,957.17,126.18,9
+2023-01-25,Electronics,Central,Today,1046.07,138.46,29
+2023-01-26,Office Supplies,West,Wind,894.67,183.21,2
+2023-01-27,Accessories,West,Listen,950.71,200.19,49
+2023-01-28,Office Supplies,South,Still,1041.58,146.8,39
+2023-01-29,Accessories,South,Mother,1068.89,223.93,6
+2023-01-30,Office Supplies,Central,Also,1223.75,331.53,2
+2023-01-31,Office Supplies,North,Various,720.26,201.54,41
+2023-02-01,Accessories,North,Ever,615.89,145.52,25
+2023-02-02,Electronics,North,Edge,756.65,207.24,26
+2023-02-03,Accessories,North,Thus,1104.88,264.69,26
+2023-02-04,Accessories,South,White,941.78,114.55,42
+2023-02-05,Accessories,East,Radio,1001.79,276.04,11
+2023-02-06,Furniture,Central,Born,367.41,63.76,4
+2023-02-07,Furniture,East,Traditional,1308.54,202.87,42
+2023-02-08,Accessories,East,Big,982.31,285.28,45
+2023-02-09,Accessories,North,Whether,761.53,214.22,46
+2023-02-10,Office Supplies,North,Sound,551.35,158.69,29
+2023-02-11,Accessories,North,Husband,1002.05,290.08,6
+2023-02-12,Electronics,South,Establish,1128.92,208.59,34
+2023-02-13,Clothing,North,Fish,713.7,130.64,37
+2023-02-14,Clothing,Central,Season,872.83,205.0,42
+2023-02-15,Furniture,South,Include,1173.08,218.31,48
+2023-02-16,Office Supplies,East,Create,236.24,59.19,37
+2023-02-17,Furniture,North,Our,678.82,196.09,4
+2023-02-18,Accessories,North,Green,903.8,181.58,29
+2023-02-19,Accessories,East,Spend,756.62,146.33,40
+2023-02-20,Office Supplies,West,Already,1078.9,181.41,49
+2023-02-21,Accessories,East,Very,924.7,231.04,37
+2023-02-22,Office Supplies,North,Cost,861.42,163.3,39
+2023-02-23,Furniture,Central,Name,1059.83,304.92,44
+2023-02-24,Clothing,South,Suggest,670.66,196.44,40
+2023-02-25,Clothing,Central,Focus,850.29,126.81,4
+2023-02-26,Clothing,Central,Organization,995.62,199.16,42
+2023-02-27,Electronics,West,Quality,1114.7,231.27,10
+2023-02-28,Electronics,South,Including,729.16,112.71,37
+2023-03-01,Accessories,East,Its,882.12,176.79,3
+2023-03-02,Electronics,North,Really,1418.96,171.21,48
+2023-03-03,Clothing,South,Worry,1533.24,337.34,15
+2023-03-04,Electronics,North,Break,1445.35,224.74,48
+2023-03-05,Electronics,South,Station,941.99,194.76,29
+2023-03-06,Electronics,West,Artist,1014.2,160.48,29
+2023-03-07,Accessories,North,Whole,931.87,100.49,42
+2023-03-08,Office Supplies,East,Identify,783.64,190.27,31
+2023-03-09,Furniture,South,Education,1176.77,198.24,33
+2023-03-10,Furniture,Central,Church,761.56,157.4,29
+2023-03-11,Electronics,South,Former,1447.73,289.84,11
+2023-03-12,Clothing,South,Value,693.68,92.43,1
+2023-03-13,Clothing,North,Officer,874.13,114.86,46
+2023-03-14,Office Supplies,North,Glass,784.78,161.44,47
+2023-03-15,Electronics,Central,Set,600.02,163.56,18
+2023-03-16,Furniture,West,Gas,1018.19,205.84,29
+2023-03-17,Clothing,West,Local,1183.63,119.52,40
+2023-03-18,Furniture,South,Name,998.31,243.26,15
+2023-03-19,Furniture,Central,Rest,838.37,87.42,27
+2023-03-20,Office Supplies,Central,Him,1221.07,314.45,44
+2023-03-21,Furniture,North,Sense,1098.03,184.78,47
+2023-03-22,Electronics,South,Next,1011.68,302.1,37
+2023-03-23,Clothing,North,Do,989.52,179.45,2
+2023-03-24,Clothing,West,Central,754.79,106.62,31
+2023-03-25,Furniture,North,Run,1225.43,197.12,6
+2023-03-26,Office Supplies,South,Sell,1322.01,189.56,40
+2023-03-27,Accessories,South,North,907.72,207.69,9
+2023-03-28,Electronics,South,Help,1200.23,156.98,14
+2023-03-29,Furniture,East,High,803.75,130.21,2
+2023-03-30,Electronics,North,Discover,930.37,170.51,30
+2023-03-31,Furniture,Central,Try,1456.59,362.33,35
+2023-04-01,Clothing,Central,Sit,1501.85,306.96,20
+2023-04-02,Accessories,South,Not,955.76,174.94,12
+2023-04-03,Clothing,South,Look,710.55,170.84,20
+2023-04-04,Office Supplies,East,Matter,982.61,167.55,46
+2023-04-05,Clothing,Central,Fight,1339.72,283.03,38
+2023-04-06,Furniture,Central,Visit,442.6,99.95,30
+2023-04-07,Accessories,South,Contain,916.0,271.87,32
+2023-04-08,Electronics,West,Box,1111.92,161.9,17
+2023-04-09,Furniture,East,Find,1066.1,270.97,45
+2023-04-10,Furniture,East,Then,771.88,224.13,18
+2023-04-11,Electronics,East,Like,787.14,150.88,15
+2023-04-12,Accessories,North,Light,1070.85,122.62,2
+2023-04-13,Furniture,East,Dream,896.73,170.27,12
+2023-04-14,Accessories,South,Perform,970.42,177.54,44
+2023-04-15,Furniture,West,Discussion,631.44,110.66,44
+2023-04-16,Clothing,North,Of,1232.33,356.69,24
+2023-04-17,Office Supplies,West,Still,1348.85,374.89,31
+2023-04-18,Accessories,East,Control,985.73,132.29,21
+2023-04-19,Clothing,North,Evidence,1060.13,143.05,37
+2023-04-20,Clothing,East,Impact,927.07,227.77,6
+2023-04-21,Furniture,East,Movement,870.39,223.04,48
+2023-04-22,Furniture,West,Or,581.08,137.18,14
+2023-04-23,Furniture,West,Behind,833.77,139.93,36
+2023-04-24,Office Supplies,East,Individual,731.92,81.08,16
+2023-04-25,Office Supplies,East,Determine,568.2,65.94,4
+2023-04-26,Clothing,Central,Carry,1601.59,436.88,33
+2023-04-27,Accessories,North,Land,937.74,131.25,10
+2023-04-28,Accessories,Central,Relate,1037.28,222.73,16
+2023-04-29,Office Supplies,North,Modern,1411.93,345.32,3
+2023-04-30,Electronics,North,Key,1344.85,200.15,47
+2023-05-01,Clothing,West,Create,561.24,136.86,9
+2023-05-02,Office Supplies,Central,Inside,1402.8,159.98,9
+2023-05-03,Furniture,North,Surface,1577.47,177.99,37
+2023-05-04,Furniture,East,Question,1006.56,146.94,38
+2023-05-05,Furniture,West,International,1546.74,198.04,9
+2023-05-06,Accessories,South,Student,826.64,106.08,26
+2023-05-07,Accessories,South,Audience,1403.72,198.19,22
+2023-05-08,Clothing,East,Itself,156.52,34.87,23
+2023-05-09,Office Supplies,Central,In,749.58,180.6,2
+2023-05-10,Furniture,North,Case,912.1,196.32,11
+2023-05-11,Electronics,West,Read,619.54,64.85,4
+2023-05-12,Electronics,North,Defense,1235.91,184.04,43
+2023-05-13,Clothing,West,Field,1357.86,352.9,44
+2023-05-14,Office Supplies,West,Cut,1114.31,127.22,44
+2023-05-15,Electronics,East,Behavior,688.88,203.46,44
+2023-05-16,Office Supplies,South,Near,785.75,131.57,12
+2023-05-17,Clothing,North,Including,654.29,76.23,25
+2023-05-18,Accessories,South,Stage,1468.27,185.18,40
+2023-05-19,Clothing,South,Teach,311.8,46.11,22
+2023-05-20,Clothing,North,Rate,816.82,110.65,9
+2023-05-21,Furniture,Central,Look,1175.17,126.58,15
+2023-05-22,Accessories,East,Economic,856.46,238.8,46
+2023-05-23,Clothing,North,Offer,1196.0,342.01,32
+2023-05-24,Clothing,Central,Language,1220.12,136.54,23
+2023-05-25,Clothing,Central,Cup,1105.08,290.52,28
+2023-05-26,Office Supplies,South,South,643.64,82.87,4
+2023-05-27,Accessories,East,Receive,1531.4,258.84,49
+2023-05-28,Clothing,East,Every,820.08,204.81,24
+2023-05-29,Clothing,Central,Look,968.33,278.67,10
+2023-05-30,Furniture,North,Republican,1221.26,319.77,11
+2023-05-31,Clothing,East,Affect,1226.01,239.97,34
+2023-06-01,Accessories,North,Must,993.45,297.34,24
+2023-06-02,Office Supplies,Central,Door,901.94,234.58,7
+2023-06-03,Clothing,North,Agency,1644.56,202.56,28
+2023-06-04,Electronics,South,Through,787.27,164.47,37
+2023-06-05,Accessories,East,Send,1042.36,138.1,20
+2023-06-06,Office Supplies,North,Person,1183.3,353.91,37
+2023-06-07,Accessories,South,Long,1126.11,325.62,37
+2023-06-08,Accessories,Central,When,1514.53,376.0,24
+2023-06-09,Accessories,North,Good,1090.11,174.74,9
+2023-06-10,Furniture,West,Choose,1510.24,186.14,15
+2023-06-11,Furniture,North,East,1257.71,220.5,38
+2023-06-12,Clothing,East,Yet,1058.88,183.83,34
+2023-06-13,Accessories,East,Generation,1061.3,235.64,16
+2023-06-14,Office Supplies,North,Along,1037.99,302.87,5
+2023-06-15,Electronics,South,Throw,1297.86,139.11,42
+2023-06-16,Accessories,Central,Art,1062.79,190.98,4
+2023-06-17,Electronics,Central,Challenge,750.83,115.84,12
+2023-06-18,Clothing,Central,Piece,1486.66,370.35,40
+2023-06-19,Office Supplies,Central,Account,1226.43,200.36,37
+2023-06-20,Electronics,North,Develop,1226.91,239.77,39
+2023-06-21,Clothing,Central,Recently,1467.88,361.81,2
+2023-06-22,Furniture,East,We,1403.47,388.98,19
+2023-06-23,Accessories,South,Business,834.93,175.35,47
+2023-06-24,Furniture,West,Where,856.48,174.52,2
+2023-06-25,Electronics,West,Road,839.78,249.58,13
+2023-06-26,Accessories,West,Degree,1116.91,136.31,42
+2023-06-27,Furniture,East,Defense,1010.93,187.37,45
+2023-06-28,Clothing,South,Dream,1072.34,174.68,14
+2023-06-29,Clothing,East,Bad,492.82,106.89,34
+2023-06-30,Accessories,East,Way,1265.54,168.5,39
+2023-07-01,Clothing,North,Across,1146.74,278.33,21
+2023-07-02,Office Supplies,West,Kid,1540.54,235.04,30
+2023-07-03,Electronics,Central,Discuss,1283.99,238.7,18
+2023-07-04,Furniture,Central,Talk,1004.2,151.59,13
+2023-07-05,Furniture,West,Their,1267.7,312.5,25
+2023-07-06,Office Supplies,North,Dog,589.98,152.97,3
+2023-07-07,Furniture,East,Can,943.86,265.9,33
+2023-07-08,Clothing,South,Reach,737.64,100.45,22
+2023-07-09,Accessories,East,Employee,942.8,173.62,5
+2023-07-10,Clothing,East,Stay,1218.81,229.99,41
+2023-07-11,Furniture,Central,Grow,725.5,78.71,23
+2023-07-12,Office Supplies,South,Benefit,1059.6,214.92,29
+2023-07-13,Office Supplies,South,Newspaper,1136.28,182.21,41
+2023-07-14,Office Supplies,South,Worker,1029.14,117.17,25
+2023-07-15,Electronics,North,Hot,612.12,147.37,4
+2023-07-16,Clothing,East,Deep,1005.37,135.39,1
+2023-07-17,Office Supplies,North,Run,512.5,115.08,4
+2023-07-18,Accessories,Central,It,855.65,181.4,28
+2023-07-19,Furniture,North,Research,1627.31,396.69,10
+2023-07-20,Clothing,West,Long,840.94,163.43,47
+2023-07-21,Accessories,West,Plant,776.28,195.58,47
+2023-07-22,Furniture,South,Short,1008.6,122.73,28
+2023-07-23,Furniture,East,Tend,181.26,27.7,19
+2023-07-24,Office Supplies,Central,Follow,1238.28,237.17,43
+2023-07-25,Clothing,South,Me,1453.33,303.57,3
+2023-07-26,Office Supplies,East,Player,865.46,140.77,49
+2023-07-27,Furniture,East,Dinner,1014.46,230.86,40
+2023-07-28,Accessories,East,Base,1044.46,151.19,18
+2023-07-29,Furniture,East,About,531.91,115.78,6
+2023-07-30,Furniture,South,Simply,850.54,98.78,21
+2023-07-31,Furniture,Central,Break,904.88,195.73,8
+2023-08-01,Accessories,South,Red,686.33,108.74,4
+2023-08-02,Accessories,East,Leg,641.74,112.31,39
+2023-08-03,Electronics,West,Set,1308.59,251.56,48
+2023-08-04,Electronics,North,Experience,1110.07,217.41,25
+2023-08-05,Office Supplies,North,While,867.62,202.74,36
+2023-08-06,Accessories,Central,Important,868.59,150.93,19
+2023-08-07,Furniture,South,Letter,766.3,172.68,43
+2023-08-08,Electronics,South,True,1233.53,236.54,19
+2023-08-09,Accessories,West,Six,618.45,184.64,14
+2023-08-10,Office Supplies,Central,Fear,957.25,218.51,15
+2023-08-11,Office Supplies,North,Month,863.01,142.06,38
+2023-08-12,Clothing,East,Address,1427.33,366.75,35
+2023-08-13,Clothing,East,Determine,736.9,95.79,42
+2023-08-14,Accessories,North,Fast,853.72,171.3,17
+2023-08-15,Furniture,North,Story,516.33,86.84,3
+2023-08-16,Furniture,North,Morning,988.56,159.26,33
+2023-08-17,Electronics,East,Election,918.5,194.5,16
+2023-08-18,Office Supplies,Central,Energy,1111.56,229.94,6
+2023-08-19,Electronics,Central,North,1308.76,392.27,12
+2023-08-20,Furniture,West,Stand,867.24,255.15,7
+2023-08-21,Office Supplies,South,Information,1169.85,347.96,11
+2023-08-22,Office Supplies,North,Must,1132.72,201.64,44
+2023-08-23,Accessories,Central,Along,1055.24,233.25,25
+2023-08-24,Clothing,East,Plan,909.44,263.06,43
+2023-08-25,Clothing,Central,Commercial,1142.51,301.36,8
+2023-08-26,Clothing,East,Young,791.83,176.63,19
+2023-08-27,Electronics,North,Safe,939.65,137.18,44
+2023-08-28,Clothing,North,Democratic,602.5,140.43,47
+2023-08-29,Accessories,South,Ok,914.58,99.41,49
+2023-08-30,Clothing,East,Alone,557.06,78.28,5
+2023-08-31,Accessories,South,Anything,1487.25,317.6,25
+2023-09-01,Electronics,West,Forget,892.31,136.93,4
+2023-09-02,Furniture,West,Water,536.17,80.33,37
+2023-09-03,Accessories,East,Center,1250.33,362.15,8
+2023-09-04,Accessories,East,Model,728.6,94.63,20
+2023-09-05,Furniture,East,Outside,682.88,70.78,13
+2023-09-06,Furniture,Central,Notice,1299.15,388.09,47
+2023-09-07,Accessories,East,Yet,1288.54,149.92,34
+2023-09-08,Clothing,East,Few,1318.73,299.74,41
+2023-09-09,Electronics,North,Education,424.82,78.55,47
+2023-09-10,Accessories,East,Material,736.53,201.39,2
+2023-09-11,Accessories,West,Range,660.14,186.08,29
+2023-09-12,Clothing,West,Occur,1482.54,244.87,28
+2023-09-13,Office Supplies,East,Now,998.5,282.39,2
+2023-09-14,Office Supplies,West,Truth,1229.25,175.09,40
+2023-09-15,Clothing,East,Which,673.46,189.26,17
+2023-09-16,Clothing,East,Game,764.66,178.22,49
+2023-09-17,Clothing,South,Technology,1023.06,186.05,3
+2023-09-18,Office Supplies,North,Usually,912.88,219.56,13
+2023-09-19,Furniture,South,Whether,528.82,90.67,37
+2023-09-20,Electronics,Central,Go,1062.81,260.61,7
+2023-09-21,Accessories,East,Democratic,580.86,172.95,41
+2023-09-22,Office Supplies,North,Along,1009.83,219.86,7
+2023-09-23,Electronics,West,Leave,1565.19,190.4,26
+2023-09-24,Accessories,South,Five,1414.87,242.26,49
+2023-09-25,Clothing,West,Paper,1110.98,122.07,41
+2023-09-26,Electronics,South,Value,1248.4,302.33,47
+2023-09-27,Clothing,Central,Work,966.24,224.55,16
+2023-09-28,Electronics,East,Expect,823.46,194.73,42
+2023-09-29,Office Supplies,North,Accept,1211.49,274.85,29
+2023-09-30,Electronics,North,Past,1764.89,362.8,28
+2023-10-01,Electronics,West,Heavy,1396.16,231.26,18
+2023-10-02,Electronics,South,Over,740.37,141.92,48
+2023-10-03,Accessories,East,Walk,967.49,247.94,4
+2023-10-04,Furniture,North,Thank,1240.89,180.5,38
+2023-10-05,Electronics,South,Under,1036.84,140.38,36
+2023-10-06,Electronics,West,Model,1071.94,160.22,45
+2023-10-07,Furniture,South,Catch,734.98,112.59,31
+2023-10-08,Accessories,East,Task,916.72,154.3,15
+2023-10-09,Clothing,Central,Process,814.59,90.23,48
+2023-10-10,Clothing,West,Space,1471.14,437.13,20
+2023-10-11,Office Supplies,West,Statement,965.62,106.49,42
+2023-10-12,Furniture,West,Claim,1386.35,178.88,12
+2023-10-13,Accessories,West,Assume,1229.02,245.04,40
+2023-10-14,Electronics,West,Which,816.68,184.89,3
+2023-10-15,Accessories,Central,Staff,889.33,261.98,31
+2023-10-16,Electronics,South,Store,1059.47,292.17,30
+2023-10-17,Accessories,East,Go,1578.45,368.81,30
+2023-10-18,Furniture,Central,Test,1491.45,437.94,25
+2023-10-19,Clothing,Central,Painting,1369.67,245.83,5
+2023-10-20,Accessories,Central,Chance,989.7,184.89,34
+2023-10-21,Electronics,West,Wait,1134.02,274.04,6
+2023-10-22,Accessories,Central,Discuss,1217.27,253.72,7
+2023-10-23,Electronics,Central,Land,858.24,126.05,23
+2023-10-24,Furniture,West,Group,1198.17,128.95,28
+2023-10-25,Office Supplies,Central,Back,994.87,134.81,29
+2023-10-26,Accessories,West,Some,1131.25,175.8,46
+2023-10-27,Accessories,Central,Project,1218.82,158.65,49
+2023-10-28,Furniture,North,Western,956.41,137.39,32
+2023-10-29,Furniture,Central,Some,1159.52,267.76,38
+2023-10-30,Office Supplies,North,Specific,634.85,134.82,41
+2023-10-31,Office Supplies,Central,Million,1215.49,153.16,25
+2023-11-01,Clothing,East,Mouth,1392.21,401.14,37
+2023-11-02,Office Supplies,Central,Worry,1240.28,273.5,18
+2023-11-03,Office Supplies,West,Career,1028.67,191.94,44
+2023-11-04,Accessories,East,Quality,1083.21,144.19,12
+2023-11-05,Office Supplies,East,Agent,1422.2,217.88,41
+2023-11-06,Office Supplies,Central,Bring,760.66,187.85,15
+2023-11-07,Office Supplies,South,Opportunity,684.46,175.28,37
+2023-11-08,Electronics,South,Them,1134.44,151.88,28
+2023-11-09,Clothing,East,Onto,1392.07,232.53,25
+2023-11-10,Accessories,East,Four,765.5,121.12,25
+2023-11-11,Office Supplies,South,Where,912.93,177.42,20
+2023-11-12,Electronics,North,Story,922.49,237.06,37
+2023-11-13,Electronics,West,Many,1203.4,268.71,38
+2023-11-14,Accessories,North,Seat,491.78,117.39,47
+2023-11-15,Clothing,South,Option,1541.53,220.4,33
+2023-11-16,Office Supplies,East,Somebody,663.74,183.94,46
+2023-11-17,Electronics,East,Class,959.91,99.53,30
+2023-11-18,Accessories,South,Across,871.26,179.41,40
+2023-11-19,Accessories,West,Practice,966.73,147.57,25
+2023-11-20,Office Supplies,South,Money,781.47,185.92,45
+2023-11-21,Office Supplies,East,Step,477.17,132.89,46
+2023-11-22,Office Supplies,Central,Provide,1234.18,298.28,24
+2023-11-23,Clothing,West,Source,926.71,177.09,5
+2023-11-24,Accessories,East,Appear,1370.59,158.08,38
+2023-11-25,Accessories,East,According,962.31,174.34,19
+2023-11-26,Clothing,East,Result,1403.01,397.97,23
+2023-11-27,Accessories,North,Adult,1646.44,189.16,8
+2023-11-28,Accessories,West,Role,928.32,224.94,15
+2023-11-29,Accessories,North,Direction,924.75,219.45,8
+2023-11-30,Clothing,South,Buy,751.86,121.56,11
+2023-12-01,Accessories,Central,Difference,1348.48,238.71,43
+2023-12-02,Electronics,North,Scene,1432.68,265.98,49
+2023-12-03,Accessories,South,Whom,1015.04,109.6,23
+2023-12-04,Electronics,West,Buy,914.12,147.08,1
+2023-12-05,Office Supplies,North,Increase,1013.7,143.25,34
+2023-12-06,Office Supplies,Central,Remember,1505.4,373.68,7
+2023-12-07,Clothing,East,Wrong,764.02,193.75,8
+2023-12-08,Electronics,West,Run,817.62,224.58,36
+2023-12-09,Accessories,South,Growth,1100.22,172.81,42
+2023-12-10,Electronics,West,Door,1247.81,341.74,9
+2023-12-11,Furniture,South,General,919.03,190.19,49
+2023-12-12,Office Supplies,East,Feeling,1215.58,160.24,14
+2023-12-13,Accessories,Central,Heavy,742.29,191.23,32
+2023-12-14,Clothing,Central,Yard,1119.45,307.28,38
+2023-12-15,Clothing,South,Very,1256.37,229.83,47
+2023-12-16,Accessories,East,Trip,706.83,99.27,46
+2023-12-17,Office Supplies,West,Enough,606.27,65.93,41
+2023-12-18,Office Supplies,South,Have,131.99,39.16,17
+2023-12-19,Electronics,East,Stuff,1276.6,364.67,45
+2023-12-20,Furniture,East,Society,601.92,159.29,34
+2023-12-21,Electronics,South,Action,1171.56,210.3,24
+2023-12-22,Clothing,South,Whose,1110.69,139.86,26
+2023-12-23,Clothing,North,National,1116.35,215.23,27
+2023-12-24,Electronics,Central,Network,1723.11,375.49,27
+2023-12-25,Electronics,South,Out,1102.58,287.93,46
+2023-12-26,Accessories,East,Ago,1122.48,245.85,42
+2023-12-27,Office Supplies,East,Bed,1024.27,272.25,48
+2023-12-28,Accessories,East,Together,885.92,263.61,43
+2023-12-29,Accessories,West,Contain,607.77,163.8,30
+2023-12-30,Electronics,North,Field,1131.38,309.25,30
+2023-12-31,Office Supplies,North,Station,1077.44,313.95,7
+2024-01-01,Electronics,East,Anyone,690.18,109.37,32
+2024-01-02,Accessories,North,Water,1313.9,263.81,13
+2024-01-03,Accessories,South,So,1157.06,274.61,24
+2024-01-04,Electronics,East,Threat,933.78,122.44,15
+2024-01-05,Accessories,East,Role,868.54,159.41,34
+2024-01-06,Accessories,South,Kind,1524.62,275.51,5
+2024-01-07,Electronics,North,Although,40.64,5.59,25
+2024-01-08,Electronics,North,Simply,1042.41,295.11,41
+2024-01-09,Electronics,Central,Single,789.21,132.72,2
+2024-01-10,Office Supplies,South,Option,1038.25,161.22,44
+2024-01-11,Accessories,Central,Themselves,1078.14,232.21,24
+2024-01-12,Clothing,East,Pm,731.83,81.34,47
+2024-01-13,Accessories,North,Body,1099.77,244.57,38
+2024-01-14,Electronics,East,Site,1518.59,434.92,18
+2024-01-15,Clothing,South,School,1328.44,352.13,3
+2024-01-16,Furniture,South,Employee,1200.84,292.04,12
+2024-01-17,Electronics,East,Smile,1009.96,278.45,45
+2024-01-18,Furniture,Central,Respond,960.18,146.84,39
+2024-01-19,Electronics,East,Get,937.26,146.64,24
+2024-01-20,Electronics,North,Short,318.08,50.0,2
+2024-01-21,Office Supplies,West,Issue,965.7,240.01,26
+2024-01-22,Clothing,Central,Each,1436.71,385.63,48
+2024-01-23,Furniture,North,Gas,580.28,168.69,5
+2024-01-24,Office Supplies,West,Attack,1627.35,166.53,10
+2024-01-25,Accessories,East,Task,729.01,93.63,21
+2024-01-26,Furniture,North,High,635.61,81.85,18
+2024-01-27,Accessories,East,International,703.08,97.92,2
+2024-01-28,Office Supplies,East,Trade,1162.63,302.47,15
+2024-01-29,Electronics,West,Chair,1331.92,339.42,5
+2024-01-30,Office Supplies,Central,Some,1278.08,276.01,12
+2024-01-31,Electronics,South,Alone,1346.85,210.97,19
+2024-02-01,Electronics,Central,Significant,1205.18,343.9,49
+2024-02-02,Furniture,North,Once,839.25,173.7,21
+2024-02-03,Office Supplies,East,Member,1263.8,349.62,27
+2024-02-04,Clothing,North,Interesting,1032.11,131.85,2
+2024-02-05,Clothing,North,Either,351.52,54.15,39
+2024-02-06,Office Supplies,South,Responsibility,679.95,119.57,41
+2024-02-07,Office Supplies,West,Someone,1031.47,136.7,27
+2024-02-08,Accessories,South,Watch,956.74,188.36,32
+2024-02-09,Furniture,North,Close,908.83,183.56,3
+2024-02-10,Office Supplies,South,Away,1587.06,178.94,45
+2024-02-11,Furniture,East,Theory,650.59,84.09,35
+2024-02-12,Office Supplies,East,Activity,1197.05,249.85,21
+2024-02-13,Electronics,North,Approach,1002.56,178.9,30
+2024-02-14,Office Supplies,East,Lawyer,1162.02,309.92,2
+2024-02-15,Clothing,Central,Per,1400.25,328.57,14
+2024-02-16,Furniture,West,Them,565.43,121.69,19
+2024-02-17,Furniture,West,Thought,655.13,120.38,34
+2024-02-18,Office Supplies,West,Thousand,801.88,172.58,10
+2024-02-19,Office Supplies,South,Else,920.1,200.85,35
+2024-02-20,Electronics,South,Mean,761.3,126.19,23
+2024-02-21,Furniture,East,Style,647.7,77.64,17
+2024-02-22,Furniture,North,Door,488.38,141.94,43
+2024-02-23,Furniture,Central,Each,1072.96,280.15,29
+2024-02-24,Office Supplies,North,Deep,940.41,151.96,42
+2024-02-25,Clothing,West,Yes,1365.7,238.94,13
+2024-02-26,Electronics,South,Article,553.45,147.94,45
+2024-02-27,Clothing,West,Tree,686.08,102.24,6
+2024-02-28,Clothing,Central,How,1006.49,121.56,49
+2024-02-29,Accessories,South,Evidence,758.81,137.67,46
+2024-03-01,Furniture,East,Remain,831.49,131.62,3
+2024-03-02,Electronics,Central,Pm,839.65,208.65,36
+2024-03-03,Furniture,Central,Population,776.28,130.74,7
+2024-03-04,Office Supplies,North,Reality,917.4,98.61,33
+2024-03-05,Furniture,East,Not,1030.36,250.49,24
+2024-03-06,Furniture,East,Them,447.94,90.23,18
+2024-03-07,Furniture,Central,Worker,1270.77,358.2,10
+2024-03-08,Electronics,West,Poor,831.27,162.61,4
+2024-03-09,Electronics,East,Player,661.63,121.19,40
+2024-03-10,Accessories,South,Tell,1042.59,122.98,24
+2024-03-11,Accessories,North,Operation,1244.31,302.86,27
+2024-03-12,Furniture,North,Laugh,1245.43,201.01,17
+2024-03-13,Clothing,West,Color,805.95,101.71,6
+2024-03-14,Electronics,West,Scene,1267.99,230.55,49
+2024-03-15,Office Supplies,South,Dinner,452.59,77.43,3
+2024-03-16,Clothing,North,Back,1306.21,174.32,42
+2024-03-17,Electronics,Central,May,885.23,138.6,12
+2024-03-18,Clothing,East,Three,1321.24,176.62,11
+2024-03-19,Office Supplies,Central,Through,1371.46,221.36,8
+2024-03-20,Electronics,West,Card,1208.19,339.4,11
+2024-03-21,Office Supplies,Central,Now,954.16,198.01,4
+2024-03-22,Office Supplies,East,Fear,1343.95,214.97,27
+2024-03-23,Accessories,Central,Agent,685.96,71.05,8
+2024-03-24,Furniture,Central,View,1135.86,149.33,18
+2024-03-25,Office Supplies,North,Born,878.79,259.44,3
+2024-03-26,Clothing,East,Build,961.1,195.88,46
+2024-03-27,Furniture,North,Resource,810.17,206.49,33
+2024-03-28,Accessories,North,Discover,956.4,276.36,41
+2024-03-29,Furniture,Central,Own,593.85,84.19,10
+2024-03-30,Clothing,North,Decide,533.87,93.87,15
+2024-03-31,Accessories,South,Actually,1421.81,275.95,13
+2024-04-01,Electronics,East,Leg,1238.74,354.07,25
+2024-04-02,Accessories,North,Party,712.32,79.92,26
+2024-04-03,Office Supplies,West,Because,1450.73,281.03,49
+2024-04-04,Electronics,Central,Sit,1369.11,247.76,22
+2024-04-05,Clothing,South,Area,669.7,191.87,23
+2024-04-06,Clothing,South,Can,1236.18,196.18,47
+2024-04-07,Electronics,North,Whatever,1388.71,220.21,15
+2024-04-08,Furniture,North,Human,1116.09,286.98,37
+2024-04-09,Clothing,North,Trade,1271.62,340.74,6
+2024-04-10,Clothing,West,These,647.17,180.03,8
+2024-04-11,Electronics,West,Debate,1476.03,185.85,22
+2024-04-12,Electronics,Central,Would,707.84,86.46,10
+2024-04-13,Clothing,West,Guy,974.93,138.52,4
+2024-04-14,Accessories,South,Thus,866.65,239.66,32
+2024-04-15,Furniture,South,Relationship,738.97,94.31,41
+2024-04-16,Electronics,South,Recently,892.88,122.08,47
+2024-04-17,Accessories,South,Cultural,591.85,152.34,12
+2024-04-18,Office Supplies,East,Read,1253.2,166.22,14
+2024-04-19,Furniture,North,Production,1174.13,157.14,26
+2024-04-20,Furniture,North,Charge,1066.71,212.92,27
+2024-04-21,Electronics,West,Sing,911.38,187.38,41
+2024-04-22,Accessories,South,Among,1249.82,235.67,47
+2024-04-23,Electronics,South,Even,1128.09,253.3,29
+2024-04-24,Office Supplies,East,Campaign,399.17,59.37,49
+2024-04-25,Furniture,South,Green,827.93,179.83,45
+2024-04-26,Office Supplies,Central,Mrs,610.09,159.96,27
+2024-04-27,Accessories,West,Build,1301.94,196.17,42
+2024-04-28,Accessories,North,Wall,840.83,222.32,5
+2024-04-29,Accessories,West,Rich,882.66,113.15,42
+2024-04-30,Electronics,East,Student,847.29,138.69,23
+2024-05-01,Office Supplies,East,Chance,1164.06,290.97,16
+2024-05-02,Accessories,West,School,1217.84,238.21,41
+2024-05-03,Clothing,West,Back,1338.93,240.09,29
+2024-05-04,Clothing,West,Night,823.46,107.09,48
+2024-05-05,Office Supplies,Central,Something,932.09,216.93,18
+2024-05-06,Furniture,East,North,1051.12,285.8,38
+2024-05-07,Accessories,West,Could,718.04,173.78,21
+2024-05-08,Office Supplies,East,Defense,803.34,89.15,5
+2024-05-09,Office Supplies,East,Miss,1236.35,190.44,29
+2024-05-10,Accessories,Central,Live,847.33,139.98,11
+2024-05-11,Furniture,Central,Record,1137.59,219.16,24
+2024-05-12,Clothing,South,Trip,847.97,152.1,34
+2024-05-13,Electronics,West,Sound,801.35,125.85,47
+2024-05-14,Furniture,West,Tell,1286.25,132.42,40
+2024-05-15,Clothing,North,Poor,1066.48,242.96,8
+2024-05-16,Clothing,West,Health,1075.81,233.2,41
+2024-05-17,Office Supplies,Central,Expect,706.48,200.5,30
+2024-05-18,Clothing,North,Simply,610.07,99.2,35
+2024-05-19,Office Supplies,Central,Step,909.32,121.29,7
+2024-05-20,Electronics,Central,General,682.48,190.55,41
+2024-05-21,Electronics,West,Somebody,934.53,157.57,22
+2024-05-22,Office Supplies,East,Under,526.59,136.11,13
+2024-05-23,Accessories,North,Management,748.21,139.75,15
+2024-05-24,Electronics,West,Support,805.04,118.09,5
+2024-05-25,Electronics,South,Tree,816.5,189.1,18
+2024-05-26,Clothing,West,Actually,672.16,189.77,14
+2024-05-27,Furniture,Central,Response,1221.83,160.53,38
+2024-05-28,Electronics,South,Chair,1130.49,226.25,36
+2024-05-29,Clothing,Central,Either,762.57,117.23,18
+2024-05-30,Clothing,East,Public,640.29,91.08,18
+2024-05-31,Furniture,East,Sense,739.9,216.92,23
+2024-06-01,Accessories,South,Tend,707.63,155.72,46
+2024-06-02,Accessories,South,Indicate,1079.32,149.93,40
+2024-06-03,Accessories,East,Nation,864.5,87.79,34
+2024-06-04,Clothing,Central,Congress,985.57,261.71,42
+2024-06-05,Electronics,South,Generation,1562.31,396.23,42
+2024-06-06,Office Supplies,Central,Woman,1097.54,182.11,21
+2024-06-07,Electronics,West,Character,845.21,107.05,13
+2024-06-08,Accessories,West,Crime,992.04,215.78,5
+2024-06-09,Accessories,Central,Song,1189.14,217.34,38
+2024-06-10,Electronics,East,Still,773.77,142.64,35
+2024-06-11,Office Supplies,West,Quite,2108.5,251.35,41
+2024-06-12,Furniture,North,Simply,1295.27,176.34,14
+2024-06-13,Clothing,West,Tv,1312.24,322.46,46
+2024-06-14,Furniture,East,Computer,909.9,238.46,8
+2024-06-15,Accessories,South,Color,865.07,112.45,41
+2024-06-16,Clothing,West,Adult,885.81,184.04,2
+2024-06-17,Clothing,South,Describe,1192.98,343.17,28
+2024-06-18,Clothing,Central,Country,1328.25,335.16,16
+2024-06-19,Electronics,South,Cultural,1616.45,280.77,2
+2024-06-20,Office Supplies,East,Series,1095.25,297.12,45
+2024-06-21,Clothing,East,Foreign,914.78,250.26,16
+2024-06-22,Electronics,Central,Yard,1207.93,224.02,38
+2024-06-23,Clothing,East,Top,1277.65,321.12,9
+2024-06-24,Office Supplies,East,Yes,985.27,107.29,12
+2024-06-25,Furniture,Central,Computer,405.71,52.54,6
+2024-06-26,Electronics,West,However,978.85,225.61,27
+2024-06-27,Electronics,East,Evening,687.88,72.74,13
+2024-06-28,Accessories,West,Social,1227.8,129.54,24
+2024-06-29,Furniture,East,Movement,1239.7,280.76,8
+2024-06-30,Accessories,Central,Way,887.13,138.43,48
+2024-07-01,Office Supplies,East,Occur,863.6,142.5,25
+2024-07-02,Accessories,Central,Risk,791.57,226.23,43
+2024-07-03,Office Supplies,West,Shoulder,992.53,177.88,22
+2024-07-04,Furniture,West,Decide,697.64,142.06,8
+2024-07-05,Clothing,East,Check,1101.77,278.44,25
+2024-07-06,Clothing,South,Available,1248.6,212.93,35
+2024-07-07,Accessories,East,Air,1336.68,200.81,18
+2024-07-08,Office Supplies,South,Our,649.93,84.84,49
+2024-07-09,Office Supplies,Central,Hope,1057.43,200.01,34
+2024-07-10,Office Supplies,Central,First,825.63,117.85,28
+2024-07-11,Office Supplies,South,Source,781.44,88.21,37
+2024-07-12,Electronics,North,Structure,708.68,185.55,37
+2024-07-13,Clothing,Central,Environment,1143.96,150.3,47
+2024-07-14,Electronics,North,Test,1051.57,232.49,34
+2024-07-15,Clothing,West,Remember,1024.48,118.2,19
+2024-07-16,Clothing,West,Much,947.24,137.77,21
+2024-07-17,Furniture,West,Matter,1020.82,156.26,3
+2024-07-18,Office Supplies,West,Development,929.57,112.84,34
+2024-07-19,Electronics,East,Hotel,1938.99,430.89,28
+2024-07-20,Furniture,West,Contain,480.81,56.34,45
+2024-07-21,Accessories,West,He,595.43,86.12,12
+2024-07-22,Office Supplies,East,Find,1623.65,467.47,46
+2024-07-23,Electronics,East,Concern,1369.07,210.76,28
+2024-07-24,Clothing,South,Money,1501.48,349.29,2
+2024-07-25,Accessories,Central,Peace,484.48,116.96,3
+2024-07-26,Accessories,East,Rate,631.91,65.78,9
+2024-07-27,Electronics,South,Town,1047.15,292.82,1
+2024-07-28,Accessories,East,Fact,1417.67,258.09,12
+2024-07-29,Accessories,Central,List,841.07,88.0,41
+2024-07-30,Clothing,East,Science,992.55,292.54,36
+2024-07-31,Office Supplies,North,House,958.31,189.05,49
+2024-08-01,Accessories,South,Tough,1281.36,312.43,12
+2024-08-02,Furniture,East,Mention,794.26,121.58,44
+2024-08-03,Accessories,South,Ready,1061.21,244.27,2
+2024-08-04,Accessories,Central,Current,910.66,237.26,33
+2024-08-05,Accessories,South,Grow,922.28,156.88,38
+2024-08-06,Accessories,West,Evidence,1574.26,435.42,46
+2024-08-07,Clothing,South,Table,1135.37,115.12,14
+2024-08-08,Clothing,North,Process,1253.74,366.27,22
+2024-08-09,Accessories,North,Simply,1014.2,174.09,14
+2024-08-10,Office Supplies,West,Successful,935.76,167.17,44
+2024-08-11,Electronics,South,Stuff,1539.87,356.62,20
+2024-08-12,Clothing,Central,Family,614.1,127.55,33
+2024-08-13,Electronics,South,World,398.75,97.28,17
+2024-08-14,Accessories,Central,True,882.99,159.42,10
+2024-08-15,Office Supplies,South,Few,798.26,186.65,40
+2024-08-16,Furniture,South,Eight,1680.64,396.41,11
+2024-08-17,Furniture,West,About,1082.81,128.76,30
+2024-08-18,Office Supplies,South,Site,821.09,118.42,42
+2024-08-19,Office Supplies,South,Chance,848.24,228.76,31
+2024-08-20,Accessories,North,Entire,1200.18,323.13,12
+2024-08-21,Furniture,South,Because,595.64,110.08,39
+2024-08-22,Accessories,South,Threat,768.76,190.57,3
+2024-08-23,Accessories,North,Note,801.27,170.47,28
+2024-08-24,Clothing,East,Wide,775.24,168.6,14
+2024-08-25,Office Supplies,South,Impact,1135.91,174.52,25
+2024-08-26,Accessories,Central,Get,905.08,110.62,20
+2024-08-27,Electronics,South,Purpose,711.91,82.17,14
+2024-08-28,Accessories,North,Until,988.39,108.98,26
+2024-08-29,Electronics,East,Name,939.27,267.3,41
+2024-08-30,Electronics,West,Test,1190.53,125.39,32
+2024-08-31,Furniture,North,Short,588.3,74.85,7
+2024-09-01,Clothing,Central,Someone,890.14,206.25,24
+2024-09-02,Electronics,West,Unit,985.56,290.78,6
+2024-09-03,Clothing,Central,Generation,858.18,193.37,29
+2024-09-04,Furniture,North,Bit,1236.82,160.54,18
+2024-09-05,Electronics,North,Assume,1670.37,492.03,21
+2024-09-06,Furniture,Central,Gun,1244.17,300.41,36
+2024-09-07,Office Supplies,South,Also,782.59,158.86,27
+2024-09-08,Office Supplies,West,Nature,1398.05,268.27,24
+2024-09-09,Office Supplies,Central,Former,1595.34,239.5,38
+2024-09-10,Clothing,East,Machine,1054.57,191.48,32
+2024-09-11,Clothing,West,Tonight,949.04,204.28,26
+2024-09-12,Accessories,South,Modern,1058.07,286.27,5
+2024-09-13,Office Supplies,North,Movement,984.86,149.18,14
+2024-09-14,Furniture,East,Garden,523.49,104.64,40
+2024-09-15,Electronics,West,Past,1088.08,123.91,3
+2024-09-16,Office Supplies,South,American,1503.12,409.62,28
+2024-09-17,Clothing,East,Agree,1079.74,206.18,7
+2024-09-18,Accessories,East,Hundred,1298.52,162.62,38
+2024-09-19,Furniture,North,Political,1107.43,198.24,34
+2024-09-20,Furniture,South,Interesting,899.06,119.31,34
+2024-09-21,Accessories,North,Develop,1305.38,275.47,15
+2024-09-22,Clothing,South,Spend,1296.07,381.46,28
+2024-09-23,Furniture,East,Hard,1241.02,363.37,10
+2024-09-24,Office Supplies,North,Gun,556.83,165.82,2
+2024-09-25,Electronics,South,People,814.24,181.63,25
+2024-09-26,Electronics,East,Require,1139.38,274.14,29
+2024-09-27,Office Supplies,North,Effect,790.91,121.88,43
+2024-09-28,Clothing,West,Better,67.75,16.22,20
+2024-09-29,Electronics,South,Capital,954.24,98.13,47
+2024-09-30,Accessories,Central,Stock,854.15,127.04,13
+2024-10-01,Clothing,West,Whom,924.68,265.24,21
+2024-10-02,Office Supplies,Central,Sense,724.39,167.99,26
+2024-10-03,Office Supplies,South,Opportunity,1467.79,290.67,44
+2024-10-04,Electronics,Central,Price,1743.14,450.97,18
+2024-10-05,Office Supplies,South,Read,774.12,216.66,13
+2024-10-06,Accessories,North,Executive,1118.9,147.74,40
+2024-10-07,Electronics,Central,Form,1252.14,303.31,31
+2024-10-08,Furniture,East,Enjoy,144.9,19.22,36
+2024-10-09,Accessories,North,Research,969.03,218.46,33
+2024-10-10,Furniture,Central,Will,850.11,156.98,33
+2024-10-11,Furniture,Central,Guy,1159.91,324.37,44
+2024-10-12,Furniture,West,Look,1484.71,421.12,48
+2024-10-13,Clothing,Central,Again,1666.63,214.2,21
+2024-10-14,Furniture,South,Data,938.19,178.12,9
+2024-10-15,Clothing,East,Husband,884.43,134.72,37
+2024-10-16,Electronics,South,Moment,873.75,235.8,6
+2024-10-17,Accessories,South,Quickly,1091.21,275.49,9
+2024-10-18,Office Supplies,West,Country,1025.92,278.84,24
+2024-10-19,Clothing,West,Eight,525.02,149.84,37
+2024-10-20,Furniture,North,Benefit,1197.75,144.18,4
+2024-10-21,Accessories,Central,Exist,1020.1,112.68,36
+2024-10-22,Furniture,Central,Yard,1453.42,364.65,28
+2024-10-23,Furniture,West,Interview,860.79,223.08,3
+2024-10-24,Office Supplies,West,Mother,475.47,53.41,2
+2024-10-25,Accessories,Central,Church,1063.1,182.74,27
+2024-10-26,Electronics,East,Money,1109.45,282.29,3
+2024-10-27,Office Supplies,East,Around,959.44,180.04,31
+2024-10-28,Office Supplies,West,Unit,877.9,155.0,13
+2024-10-29,Office Supplies,Central,Notice,1193.16,158.27,47
+2024-10-30,Clothing,North,Police,1286.74,189.49,47
+2024-10-31,Furniture,South,Phone,684.11,106.31,14
+2024-11-01,Office Supplies,Central,Ago,397.47,48.53,36
+2024-11-02,Electronics,West,Character,568.05,153.18,44
+2024-11-03,Office Supplies,East,Deal,1117.56,180.86,20
+2024-11-04,Clothing,East,Record,974.34,272.71,35
+2024-11-05,Furniture,Central,Would,850.03,194.85,33
+2024-11-06,Electronics,Central,Specific,569.06,101.81,21
+2024-11-07,Accessories,North,Leg,1476.11,395.15,30
+2024-11-08,Furniture,West,If,565.22,84.43,4
+2024-11-09,Accessories,East,Worry,1014.25,218.41,23
+2024-11-10,Accessories,West,Have,812.24,90.51,35
+2024-11-11,Furniture,South,Walk,1172.79,316.94,18
+2024-11-12,Electronics,Central,Page,1488.53,164.52,17
+2024-11-13,Furniture,East,Then,965.75,245.96,39
+2024-11-14,Office Supplies,North,Choose,1280.34,259.46,37
+2024-11-15,Office Supplies,East,Throw,1078.01,289.88,37
+2024-11-16,Accessories,Central,Husband,1086.84,283.72,29
+2024-11-17,Clothing,North,Report,1186.88,212.71,45
+2024-11-18,Accessories,West,Water,1238.28,134.9,7
+2024-11-19,Furniture,West,Effect,1311.93,165.76,16
+2024-11-20,Furniture,Central,City,1132.43,142.96,7
+2024-11-21,Accessories,West,Section,1263.84,225.49,4
+2024-11-22,Furniture,South,Kitchen,1152.53,336.74,40
+2024-11-23,Office Supplies,North,Evidence,790.11,169.55,41
+2024-11-24,Clothing,North,Guess,839.47,151.87,6
+2024-11-25,Clothing,South,Campaign,1338.16,313.65,3
+2024-11-26,Electronics,South,Generation,1517.02,239.74,17
+2024-11-27,Accessories,East,Investment,1042.45,233.88,38
+2024-11-28,Electronics,North,Least,1163.97,198.29,31
+2024-11-29,Accessories,West,Rest,497.52,61.07,41
+2024-11-30,Clothing,North,Prove,813.04,210.49,45
+2024-12-01,Office Supplies,Central,Value,882.34,253.07,10
+2024-12-02,Electronics,Central,Already,720.6,88.91,26
+2024-12-03,Clothing,North,Believe,1489.03,338.97,42
+2024-12-04,Accessories,South,Side,539.19,115.92,25
+2024-12-05,Clothing,South,No,1400.69,301.27,35
+2024-12-06,Electronics,East,Positive,614.94,143.39,15
+2024-12-07,Office Supplies,South,Successful,1396.25,157.34,7
+2024-12-08,Office Supplies,North,And,814.67,218.61,18
+2024-12-09,Accessories,West,Summer,831.52,84.66,33
+2024-12-10,Clothing,East,Bar,902.95,269.17,21
+2024-12-11,Clothing,North,Inside,1155.58,148.75,24
+2024-12-12,Furniture,East,Free,906.84,231.41,32
+2024-12-13,Electronics,East,Something,775.09,101.11,32
+2024-12-14,Electronics,East,Act,1077.91,187.86,21
+2024-12-15,Electronics,West,Treatment,928.93,221.89,33
+2024-12-16,Accessories,South,Song,1656.4,415.99,35
+2024-12-17,Clothing,South,Plant,998.55,220.72,27
+2024-12-18,Accessories,East,Name,1210.61,245.77,10
+2024-12-19,Clothing,South,Put,1188.97,167.81,6
+2024-12-20,Electronics,South,Democrat,1777.4,234.23,49
+2024-12-21,Clothing,North,Number,787.05,215.74,45
+2024-12-22,Furniture,North,But,792.36,189.67,1
+2024-12-23,Office Supplies,East,New,1230.41,320.45,25
+2024-12-24,Clothing,North,Image,803.24,240.73,32
+2024-12-25,Office Supplies,East,Nature,1701.75,482.14,18
+2024-12-26,Accessories,West,Friend,934.38,167.35,33
+2024-12-27,Furniture,West,Peace,1032.27,119.52,19
+2024-12-28,Furniture,Central,Cell,899.22,111.5,30
+2024-12-29,Electronics,North,Grow,1274.87,380.8,23
+2024-12-30,Electronics,South,Strong,1420.07,300.36,32
+2024-12-31,Electronics,South,Fill,1186.14,150.46,32
+2025-01-01,Accessories,North,Accept,1145.35,301.61,35
+2025-01-02,Clothing,South,This,594.5,83.31,16
+2025-01-03,Clothing,North,Prepare,1317.08,209.84,16
+2025-01-04,Furniture,Central,Could,1285.67,164.93,30
+2025-01-05,Furniture,Central,Relationship,927.85,194.34,39
+2025-01-06,Clothing,South,Less,654.06,153.12,40
+2025-01-07,Accessories,North,Word,1066.71,202.96,19
+2025-01-08,Accessories,North,Bank,1526.7,239.63,15
+2025-01-09,Clothing,South,Like,1433.66,369.02,17
+2025-01-10,Clothing,West,Outside,847.63,135.08,49
+2025-01-11,Clothing,West,Offer,1095.68,209.57,49
+2025-01-12,Accessories,Central,Piece,1302.83,177.55,1
+2025-01-13,Furniture,West,Now,1177.43,239.46,28
+2025-01-14,Office Supplies,West,Pass,1066.4,231.7,40
+2025-01-15,Furniture,Central,Majority,839.98,94.6,36
+2025-01-16,Electronics,West,Evening,1326.12,396.12,34
+2025-01-17,Accessories,South,President,1071.48,225.5,1
+2025-01-18,Electronics,South,Adult,1237.22,296.24,37
+2025-01-19,Office Supplies,South,Song,1394.48,292.97,31
+2025-01-20,Furniture,East,Hospital,1191.88,338.29,7
+2025-01-21,Electronics,South,Wind,1436.77,329.11,18
+2025-01-22,Furniture,South,Smile,1200.08,202.85,48
+2025-01-23,Accessories,West,Language,1891.7,487.62,30
+2025-01-24,Furniture,West,All,1459.86,291.01,47
+2025-01-25,Furniture,North,War,845.91,164.25,10
+2025-01-26,Clothing,West,Hope,935.9,177.1,39
+2025-01-27,Accessories,West,Especially,1375.15,271.56,27
+2025-01-28,Accessories,South,Rather,704.93,101.06,41
+2025-01-29,Clothing,Central,Site,757.0,218.42,32
+2025-01-30,Electronics,West,Interview,651.75,69.94,26
+2025-01-31,Office Supplies,West,Fall,596.85,63.64,24
+2025-02-01,Clothing,North,Wall,1211.87,153.96,21
+2025-02-02,Clothing,North,Since,952.83,255.06,25
+2025-02-03,Clothing,East,Amount,1403.49,170.77,20
+2025-02-04,Clothing,North,Car,1475.52,341.34,28
+2025-02-05,Clothing,West,Time,635.64,71.03,22
+2025-02-06,Accessories,North,Above,1609.6,317.86,8
+2025-02-07,Electronics,Central,Letter,659.38,143.12,5
+2025-02-08,Clothing,South,Throughout,1047.49,115.98,21
+2025-02-09,Office Supplies,North,Same,350.38,38.42,28
+2025-02-10,Clothing,West,Message,1094.98,308.4,48
+2025-02-11,Electronics,West,Approach,1081.62,263.25,32
+2025-02-12,Furniture,North,Value,695.13,191.16,23
+2025-02-13,Clothing,West,Name,348.95,84.93,3
+2025-02-14,Office Supplies,East,Interest,1079.66,299.79,33
+2025-02-15,Electronics,East,Require,503.21,79.79,36
+2025-02-16,Furniture,Central,Key,1217.89,239.71,15
+2025-02-17,Clothing,West,Attorney,1605.34,212.54,30
+2025-02-18,Electronics,East,Fine,949.91,157.24,16
+2025-02-19,Furniture,West,During,909.02,92.49,40
+2025-02-20,Office Supplies,South,Type,685.26,118.58,29
+2025-02-21,Clothing,South,Back,619.92,109.5,13
+2025-02-22,Electronics,South,Reduce,972.21,260.7,34
+2025-02-23,Accessories,South,Think,1058.24,141.68,41
+2025-02-24,Clothing,East,Student,1493.82,376.9,38
+2025-02-25,Clothing,West,Event,1081.08,182.65,8
+2025-02-26,Electronics,West,Watch,1049.61,237.55,24
+2025-02-27,Office Supplies,North,Million,1210.21,355.92,12
+2025-02-28,Clothing,West,Almost,1214.12,330.07,16
+2025-03-01,Accessories,Central,Close,1233.41,142.42,39
+2025-03-02,Furniture,East,Somebody,1076.59,264.54,18
+2025-03-03,Clothing,South,Piece,1268.8,245.5,34
+2025-03-04,Accessories,South,Know,1118.12,259.0,25
+2025-03-05,Accessories,West,Together,1001.76,232.44,23
+2025-03-06,Electronics,East,World,559.34,114.25,41
+2025-03-07,Electronics,South,Price,1024.67,296.1,11
+2025-03-08,Clothing,East,World,1188.87,210.36,22
+2025-03-09,Furniture,North,Provide,1363.22,292.59,43
+2025-03-10,Accessories,South,Care,775.62,167.9,23
+2025-03-11,Accessories,South,Set,1083.01,295.11,48
+2025-03-12,Furniture,North,Evidence,958.0,194.37,13
+2025-03-13,Furniture,Central,Son,1251.06,257.23,4
+2025-03-14,Accessories,Central,Others,1109.31,171.85,47
+2025-03-15,Clothing,Central,Discuss,1199.76,353.79,18
+2025-03-16,Clothing,West,Smile,780.45,185.45,15
+2025-03-17,Office Supplies,North,All,875.83,231.68,19
+2025-03-18,Clothing,South,Each,974.37,122.79,24
+2025-03-19,Accessories,West,Early,1376.71,322.85,36
+2025-03-20,Clothing,West,Full,1392.44,183.79,43
+2025-03-21,Electronics,South,Early,1262.59,142.28,28
+2025-03-22,Clothing,East,Not,707.68,170.83,35
+2025-03-23,Clothing,Central,Growth,899.52,200.61,42
+2025-03-24,Accessories,West,Message,715.77,201.83,7
+2025-03-25,Office Supplies,South,Apply,781.55,84.46,47
+2025-03-26,Clothing,Central,Later,1104.29,310.32,14
+2025-03-27,Accessories,North,Grow,800.78,177.02,29
+2025-03-28,Office Supplies,East,Accept,1307.4,371.84,49
+2025-03-29,Accessories,North,Bed,1350.95,195.85,16
+2025-03-30,Electronics,West,Story,923.91,258.43,33
+2025-03-31,Electronics,South,Amount,610.92,88.91,3
+2025-04-01,Electronics,South,Alone,1667.38,348.92,42
+2025-04-02,Electronics,East,Design,989.14,137.15,44
+2025-04-03,Office Supplies,East,Discuss,780.55,147.11,31
+2025-04-04,Electronics,West,Every,1138.99,175.53,14
+2025-04-05,Clothing,North,Fire,940.53,280.91,10
+2025-04-06,Office Supplies,West,Itself,247.69,63.84,34
+2025-04-07,Office Supplies,Central,Baby,1466.82,162.52,34
+2025-04-08,Accessories,South,Event,941.53,190.85,16
+2025-04-09,Clothing,East,Major,988.05,250.9,10
+2025-04-10,Clothing,North,In,1130.91,200.59,9
+2025-04-11,Clothing,South,Whom,1232.83,203.86,48
+2025-04-12,Electronics,North,Myself,734.47,192.84,32
+2025-04-13,Furniture,West,Weight,1012.86,223.66,28
+2025-04-14,Furniture,Central,Federal,951.97,239.79,20
+2025-04-15,Office Supplies,East,Price,859.64,159.08,17
+2025-04-16,Accessories,Central,Must,1436.28,328.85,12
+2025-04-17,Furniture,North,Contain,942.06,218.01,20
+2025-04-18,Clothing,West,Job,708.33,137.47,15
+2025-04-19,Furniture,West,Strategy,701.69,153.0,25
+2025-04-20,Clothing,Central,Project,643.0,182.06,44
+2025-04-21,Electronics,North,With,1402.62,187.34,36
+2025-04-22,Electronics,South,Leader,1161.46,241.02,6
+2025-04-23,Office Supplies,North,Guess,1302.26,319.91,33
+2025-04-24,Furniture,South,Behind,911.96,99.68,21
+2025-04-25,Office Supplies,Central,Modern,940.46,164.94,6
+2025-04-26,Clothing,West,Under,1311.28,354.57,7
+2025-04-27,Furniture,West,About,1026.78,139.2,16
+2025-04-28,Electronics,Central,Range,877.79,193.2,9
+2025-04-29,Accessories,West,For,1173.73,234.14,11
+2025-04-30,Office Supplies,North,Establish,992.41,290.76,6
+2025-05-01,Electronics,South,Or,1237.24,332.81,44
+2025-05-02,Accessories,West,Sort,1173.47,224.78,19
+2025-05-03,Electronics,West,Citizen,1065.4,203.38,11
+2025-05-04,Electronics,North,Sea,883.12,206.93,20
+2025-05-05,Accessories,East,Certain,967.84,105.05,18
+2025-05-06,Electronics,East,Out,387.1,100.82,31
+2025-05-07,Accessories,East,Police,693.33,173.04,21
+2025-05-08,Accessories,West,Kitchen,1511.98,378.27,8
+2025-05-09,Office Supplies,West,Morning,1001.82,138.99,36
+2025-05-10,Office Supplies,South,Back,1374.96,210.39,23
+2025-05-11,Electronics,North,Smile,912.24,226.69,6
+2025-05-12,Furniture,East,Read,399.64,81.2,30
+2025-05-13,Furniture,East,Foot,968.08,144.87,46
+2025-05-14,Electronics,West,Them,1112.54,125.54,27
+2025-05-15,Clothing,West,Heavy,721.28,74.87,10
+2025-05-16,Electronics,North,Woman,672.57,165.61,36
+2025-05-17,Electronics,West,According,1177.84,261.58,22
+2025-05-18,Office Supplies,Central,Scene,861.71,237.96,40
+2025-05-19,Electronics,Central,Marriage,797.12,132.68,31
+2025-05-20,Furniture,East,Cause,925.84,141.86,18
+2025-05-21,Electronics,South,List,816.73,180.72,21
+2025-05-22,Office Supplies,Central,Population,1558.22,383.66,48
+2025-05-23,Electronics,West,Hair,1003.42,185.46,11
+2025-05-24,Accessories,North,Yeah,1224.17,321.33,30
+2025-05-25,Office Supplies,North,Significant,1100.13,323.35,34
+2025-05-26,Electronics,North,Team,759.18,85.16,18
+2025-05-27,Clothing,East,About,986.5,213.74,15
+2025-05-28,Furniture,North,Next,511.87,132.37,6
+2025-05-29,Clothing,North,Fund,1103.25,160.22,34
+2025-05-30,Office Supplies,Central,Mission,1295.67,188.87,40
+2025-05-31,Furniture,South,Artist,1257.86,346.14,29
+2025-06-01,Furniture,South,Happy,793.21,222.99,14
+2025-06-02,Accessories,North,Whatever,894.68,164.93,18
+2025-06-03,Electronics,South,Energy,658.36,175.9,40
+2025-06-04,Clothing,West,Author,729.65,136.48,4
+2025-06-05,Accessories,East,Small,1031.67,141.54,16
+2025-06-06,Office Supplies,Central,Food,1120.63,253.39,21
+2025-06-07,Office Supplies,Central,Thousand,1524.68,178.87,44
+2025-06-08,Clothing,Central,Available,1116.46,270.72,27
+2025-06-09,Furniture,South,Great,1102.88,131.43,24
+2025-06-10,Office Supplies,South,Three,1091.6,261.42,15
+2025-06-11,Accessories,Central,Will,842.3,98.64,46
+2025-06-12,Electronics,South,Rock,822.74,195.89,11
+2025-06-13,Accessories,East,Have,802.51,98.1,21
+2025-06-14,Accessories,North,Doctor,1382.57,328.92,29
+2025-06-15,Office Supplies,South,Party,643.31,167.42,26
+2025-06-16,Office Supplies,East,Charge,1140.72,211.18,21
+2025-06-17,Clothing,North,Tonight,938.81,146.49,29
+2025-06-18,Office Supplies,South,Include,696.31,119.38,7
+2025-06-19,Accessories,Central,Program,798.32,220.38,4
+2025-06-20,Clothing,East,Best,1357.84,170.07,46
+2025-06-21,Office Supplies,South,Food,808.91,112.35,36
+2025-06-22,Office Supplies,South,Politics,873.12,181.41,32
+2025-06-23,Electronics,East,Later,1248.11,271.08,39
+2025-06-24,Clothing,Central,Claim,320.06,89.44,4
+2025-06-25,Accessories,South,Also,1275.13,295.81,33
+2025-06-26,Furniture,South,Available,1519.99,418.0,12
+2025-06-27,Office Supplies,Central,Air,844.03,142.86,12
+2025-06-28,Electronics,West,Lay,1350.69,192.25,21
+2025-06-29,Accessories,South,Home,1380.06,197.4,12
+2025-06-30,Furniture,East,Purpose,1326.78,231.85,39
+2025-07-01,Furniture,West,Often,1064.79,159.06,9
+2025-07-02,Furniture,South,Fill,1744.63,319.34,17
+2025-07-03,Office Supplies,Central,Ten,743.36,145.42,18
+2025-07-04,Accessories,South,Eat,1084.82,125.54,35
+2025-07-05,Electronics,East,Determine,1190.86,230.83,47
+2025-07-06,Accessories,South,Professor,751.28,159.58,15
+2025-07-07,Accessories,South,Forget,592.0,172.65,3
+2025-07-08,Electronics,South,Green,359.94,52.97,27
+2025-07-09,Office Supplies,West,Left,1260.82,134.32,1
+2025-07-10,Office Supplies,East,Customer,969.12,214.12,5
+2025-07-11,Accessories,South,Together,878.86,238.82,22
+2025-07-12,Electronics,East,Along,1223.47,280.94,2
+2025-07-13,Office Supplies,West,Soon,1700.07,308.24,40
+2025-07-14,Electronics,North,Wrong,914.39,183.19,23
+2025-07-15,Furniture,South,Science,1254.33,191.22,13
+2025-07-16,Clothing,East,Not,1035.54,184.29,20
+2025-07-17,Furniture,Central,Protect,638.83,172.01,33
+2025-07-18,Office Supplies,East,Perform,1284.8,165.98,48
+2025-07-19,Accessories,West,Benefit,1387.22,411.9,9
+2025-07-20,Clothing,South,Produce,1004.18,105.72,18
+2025-07-21,Office Supplies,South,Center,1197.68,282.86,13
+2025-07-22,Electronics,Central,Food,870.6,135.35,23
+2025-07-23,Electronics,North,Risk,1136.42,172.18,48
+2025-07-24,Accessories,Central,Dog,990.82,189.26,15
+2025-07-25,Furniture,East,Tell,848.33,152.77,33
+2025-07-26,Clothing,West,Contain,1090.37,121.62,17
+2025-07-27,Office Supplies,East,Usually,762.92,165.86,32
+2025-07-28,Clothing,West,Coach,1323.36,226.73,10
+2025-07-29,Accessories,South,Spring,1070.53,216.93,15
+2025-07-30,Furniture,Central,Another,678.91,103.06,14
+2025-07-31,Clothing,West,Set,680.46,204.07,45
+2025-08-01,Furniture,West,Seven,488.75,91.41,47
+2025-08-02,Office Supplies,West,Take,616.63,175.07,8
+2025-08-03,Clothing,Central,Eat,1279.02,295.88,25
+2025-08-04,Furniture,Central,Power,914.53,95.67,38
+2025-08-05,Office Supplies,South,Good,1052.22,124.91,30
+2025-08-06,Office Supplies,West,Other,676.46,156.7,18
+2025-08-07,Clothing,North,Natural,767.9,228.98,23
+2025-08-08,Accessories,North,Music,833.58,167.16,3
+2025-08-09,Electronics,North,Law,1546.12,255.64,42
+2025-08-10,Furniture,Central,People,809.0,187.89,28
+2025-08-11,Electronics,Central,Return,759.94,134.24,1
+2025-08-12,Accessories,East,Past,1240.05,139.99,22
+2025-08-13,Furniture,West,Production,1286.96,315.49,38
+2025-08-14,Clothing,North,Across,855.03,143.8,38
+2025-08-15,Clothing,South,Month,1213.56,232.07,39
+2025-08-16,Office Supplies,South,Care,974.78,216.08,25
+2025-08-17,Office Supplies,North,Pressure,1159.23,185.71,21
+2025-08-18,Office Supplies,Central,Understand,716.98,119.56,38
+2025-08-19,Office Supplies,South,Many,1284.65,283.5,41
+2025-08-20,Clothing,Central,Section,1112.55,285.35,37
+2025-08-21,Clothing,West,Loss,1318.38,367.69,33
+2025-08-22,Office Supplies,South,Meet,1031.14,299.89,17
+2025-08-23,Clothing,Central,Interest,1235.55,368.16,5
+2025-08-24,Furniture,East,Ground,1172.78,123.01,10
+2025-08-25,Furniture,West,Subject,1242.51,146.97,43
+2025-08-26,Electronics,South,And,1034.36,248.61,39
+2025-08-27,Electronics,West,Concern,625.07,129.95,29
+2025-08-28,Clothing,South,She,1581.94,227.33,38
+2025-08-29,Electronics,West,Mention,1069.19,251.61,11
+2025-08-30,Electronics,South,Relationship,790.24,123.95,27
+2025-08-31,Furniture,North,Name,504.08,107.12,21
+2025-09-01,Accessories,North,Fine,1211.15,299.43,45
+2025-09-02,Clothing,South,Buy,285.39,60.1,32
+2025-09-03,Electronics,West,True,1028.0,186.54,19
+2025-09-04,Furniture,Central,Step,721.08,206.44,39
+2025-09-05,Accessories,Central,That,1363.07,283.12,16
+2025-09-06,Accessories,East,This,1042.81,221.96,19
+2025-09-07,Accessories,North,There,840.86,185.72,46
+2025-09-08,Furniture,West,Politics,338.06,52.08,34
+2025-09-09,Accessories,West,Side,1463.9,310.12,16
+2025-09-10,Clothing,East,School,625.73,172.9,26
+2025-09-11,Office Supplies,West,Pass,1575.08,371.92,26
+2025-09-12,Electronics,West,Follow,733.35,172.21,45
+2025-09-13,Accessories,East,Population,1289.9,266.93,3
+2025-09-14,Accessories,South,President,1089.03,238.9,35
+2025-09-15,Clothing,Central,Career,946.16,141.64,24
+2025-09-16,Accessories,West,Arrive,1312.05,241.79,48
+2025-09-17,Office Supplies,South,It,1289.85,228.11,39
+2025-09-18,Office Supplies,South,Daughter,823.78,98.15,13
+2025-09-19,Furniture,North,Job,604.4,112.94,45
+2025-09-20,Office Supplies,North,Nor,1116.42,312.38,47
+2025-09-21,Furniture,North,Toward,480.61,142.8,41
+2025-09-22,Furniture,East,Give,999.55,140.29,38
+2025-09-23,Furniture,East,Least,858.74,196.11,28
+2025-09-24,Clothing,West,Close,1111.71,119.95,49
+2025-09-25,Office Supplies,North,Fact,1252.68,234.15,30
+2025-09-26,Accessories,West,Production,712.65,145.4,6
+2025-09-27,Clothing,East,Data,837.32,90.35,3
+2025-09-28,Accessories,North,Per,904.34,145.12,35
+2025-09-29,Electronics,East,Mind,1521.23,230.45,48
+2025-09-30,Clothing,East,Necessary,1047.26,220.74,15
+2025-10-01,Clothing,Central,Statement,768.41,101.54,6
+2025-10-02,Furniture,Central,Human,694.22,130.91,8
+2025-10-03,Electronics,North,Sea,805.32,188.64,4
+2025-10-04,Furniture,West,Similar,1032.09,282.64,2
+2025-10-05,Clothing,West,Quite,600.78,153.4,2
+2025-10-06,Electronics,South,Movie,386.1,71.31,11
+2025-10-07,Accessories,West,Move,1377.62,249.62,43
+2025-10-08,Clothing,Central,With,1299.36,290.04,41
+2025-10-09,Electronics,North,See,880.44,204.78,8
+2025-10-10,Electronics,North,Energy,1052.1,150.85,12
+2025-10-11,Accessories,South,Lose,1027.85,207.62,36
+2025-10-12,Furniture,West,Shake,502.87,110.48,41
+2025-10-13,Electronics,Central,Military,668.99,167.77,17
+2025-10-14,Accessories,West,Past,1026.23,142.01,31
+2025-10-15,Clothing,South,Right,880.04,153.67,8
+2025-10-16,Office Supplies,South,Herself,961.75,261.13,31
+2025-10-17,Electronics,West,Actually,1054.43,105.69,35
+2025-10-18,Clothing,South,When,868.63,156.08,31
+2025-10-19,Clothing,Central,Understand,1112.49,321.29,6
+2025-10-20,Electronics,South,Might,1034.69,138.09,36
+2025-10-21,Office Supplies,North,Risk,926.92,117.86,41
+2025-10-22,Clothing,South,Get,622.22,91.93,3
+2025-10-23,Accessories,South,Then,1517.22,441.56,48
+2025-10-24,Accessories,South,Financial,938.66,247.19,11
+2025-10-25,Electronics,East,Without,974.85,224.54,2
+2025-10-26,Furniture,East,Movement,1134.82,300.65,6
+2025-10-27,Clothing,West,Minute,1392.66,397.5,37
+2025-10-28,Electronics,East,International,926.34,109.06,3
+2025-10-29,Office Supplies,North,Per,905.17,160.04,21
+2025-10-30,Furniture,South,Why,721.98,146.74,48
+2025-10-31,Electronics,North,Respond,1435.04,386.32,43
+2025-11-01,Accessories,North,Push,1369.88,409.71,9
+2025-11-02,Accessories,South,Service,1199.94,331.08,34
+2025-11-03,Office Supplies,East,Enter,905.78,244.08,45
+2025-11-04,Accessories,South,Type,1450.56,278.06,13
+2025-11-05,Electronics,West,Vote,847.09,202.54,30
+2025-11-06,Electronics,South,Nation,1088.27,217.7,34
+2025-11-07,Clothing,North,Audience,798.51,196.32,1
+2025-11-08,Furniture,North,Form,1172.64,239.88,34
+2025-11-09,Office Supplies,East,Couple,494.96,130.46,44
+2025-11-10,Accessories,South,Bring,805.95,88.49,24
+2025-11-11,Office Supplies,South,Once,1206.01,144.66,20
+2025-11-12,Office Supplies,West,Bag,579.57,150.08,7
+2025-11-13,Electronics,Central,Official,948.98,271.7,30
+2025-11-14,Electronics,East,Wife,1144.0,137.61,43
+2025-11-15,Electronics,Central,Establish,1443.89,408.58,20
+2025-11-16,Accessories,West,Door,1080.18,116.6,19
+2025-11-17,Furniture,East,Born,867.83,215.56,49
+2025-11-18,Furniture,South,Improve,608.04,178.39,13
+2025-11-19,Clothing,Central,Arm,881.17,106.53,5
+2025-11-20,Office Supplies,East,Discussion,1417.96,335.39,34
+2025-11-21,Furniture,South,Face,1125.16,334.76,37
+2025-11-22,Clothing,North,Off,220.33,27.67,27
+2025-11-23,Furniture,East,Perhaps,922.65,127.5,39
+2025-11-24,Accessories,East,Why,752.45,178.77,49
+2025-11-25,Office Supplies,North,Upon,1309.77,145.3,40
+2025-11-26,Clothing,South,Understand,846.07,138.9,21
+2025-11-27,Office Supplies,West,Experience,1254.6,300.6,31
+2025-11-28,Office Supplies,East,Able,982.19,109.28,5
+2025-11-29,Furniture,West,Debate,1251.07,160.31,32
+2025-11-30,Electronics,West,Daughter,900.24,229.57,9
+2025-12-01,Accessories,South,Character,1050.2,297.31,26
+2025-12-02,Accessories,Central,Both,868.21,89.16,29
+2025-12-03,Furniture,East,Role,380.77,39.8,21
+2025-12-04,Furniture,North,Yes,1266.88,374.74,28
+2025-12-05,Clothing,Central,Social,639.44,112.98,33
+2025-12-06,Electronics,North,Human,747.07,98.12,16
+2025-12-07,Electronics,West,Radio,688.6,198.66,46
+2025-12-08,Accessories,North,Third,843.99,150.28,7
+2025-12-09,Accessories,North,Drop,1018.9,165.6,17
+2025-12-10,Office Supplies,North,Today,1228.59,295.81,21
+2025-12-11,Office Supplies,Central,Success,1032.9,268.73,11
+2025-12-12,Furniture,North,Treat,875.72,164.77,32
+2025-12-13,Accessories,South,Help,1297.73,342.26,30
+2025-12-14,Accessories,South,Summer,896.98,92.9,3
+2025-12-15,Clothing,North,Miss,963.31,267.5,37
+2025-12-16,Electronics,Central,Assume,966.9,168.29,30
+2025-12-17,Clothing,North,Full,947.4,188.8,14
+2025-12-18,Accessories,North,Somebody,641.08,126.08,13
+2025-12-19,Electronics,North,Voice,974.62,254.94,8
+2025-12-20,Clothing,South,House,616.53,75.74,18
+2025-12-21,Electronics,South,Share,561.76,119.87,15
+2025-12-22,Electronics,South,Must,834.23,175.18,23
+2025-12-23,Furniture,East,Push,663.23,156.77,39
+2025-12-24,Clothing,East,Customer,717.52,185.28,27
+2025-12-25,Office Supplies,West,The,833.82,203.17,27
+2025-12-26,Clothing,Central,According,794.47,149.02,4
+2025-12-27,Clothing,West,Prevent,1131.12,162.89,31
+2025-12-28,Furniture,West,Level,880.52,243.13,12
+2025-12-29,Furniture,East,Service,1345.98,290.91,8
+2025-12-30,Accessories,East,Support,1151.2,323.04,41
+2025-12-31,Furniture,West,Serious,739.43,205.43,32
+2026-01-01,Clothing,Central,Style,955.65,276.4,22
+2026-01-02,Accessories,Central,Because,957.48,217.59,2
+2026-01-03,Electronics,North,Dark,1347.86,353.45,44
+2026-01-04,Clothing,Central,Whether,1234.39,323.36,10
+2026-01-05,Clothing,East,Red,1103.7,249.48,29
+2026-01-06,Office Supplies,Central,You,1098.18,316.41,14
+2026-01-07,Accessories,North,Prove,1080.75,209.08,20
+2026-01-08,Furniture,West,Physical,833.46,160.95,2
+2026-01-09,Electronics,West,These,788.1,229.62,27
+2026-01-10,Furniture,West,Think,1576.49,417.82,44
+2026-01-11,Accessories,West,Maybe,1354.15,314.36,11
+2026-01-12,Clothing,Central,Own,1355.36,189.87,36
+2026-01-13,Electronics,Central,Situation,811.78,242.36,8
+2026-01-14,Clothing,South,Little,999.26,209.47,29
+2026-01-15,Accessories,South,I,889.66,187.01,8
+2026-01-16,Accessories,South,Choice,624.64,154.38,9
+2026-01-17,Office Supplies,West,Return,1183.43,350.74,37
+2026-01-18,Office Supplies,West,Require,896.16,215.72,37
+2026-01-19,Furniture,West,Argue,1068.83,245.63,6
+2026-01-20,Furniture,West,Republican,863.48,232.07,39
+2026-01-21,Office Supplies,North,Sign,1301.35,317.51,31
+2026-01-22,Office Supplies,North,Lawyer,1405.98,168.34,2
+2026-01-23,Accessories,South,Get,1069.53,181.32,26
+2026-01-24,Accessories,North,Dinner,867.83,209.06,27
+2026-01-25,Office Supplies,West,Fine,893.6,244.0,18
+2026-01-26,Electronics,West,Ago,1364.65,243.24,38
+2026-01-27,Clothing,West,Thus,915.68,197.49,25
+2026-01-28,Electronics,West,Statement,881.68,223.68,43
+2026-01-29,Furniture,Central,Direction,859.65,177.87,15
+2026-01-30,Accessories,North,Garden,1416.86,302.37,11
+2026-01-31,Accessories,South,Away,838.63,210.49,3
+2026-02-01,Clothing,Central,Charge,816.29,164.88,46
+2026-02-02,Accessories,East,Myself,538.5,136.52,48
+2026-02-03,Accessories,South,East,407.63,75.19,18
+2026-02-04,Furniture,North,Themselves,801.01,200.58,22
+2026-02-05,Clothing,Central,Color,876.02,205.16,16
+2026-02-06,Accessories,East,Bar,1121.2,269.29,45
+2026-02-07,Electronics,North,Leg,1218.09,288.32,2
+2026-02-08,Electronics,Central,Hard,795.47,219.35,49
+2026-02-09,Office Supplies,Central,Car,954.94,237.23,16
+2026-02-10,Office Supplies,Central,Under,959.62,157.64,34
+2026-02-11,Accessories,Central,Western,868.58,212.84,39
+2026-02-12,Electronics,North,Certainly,1209.61,236.32,36
+2026-02-13,Furniture,West,Concern,1165.84,272.48,16
+2026-02-14,Electronics,Central,Red,941.16,129.96,42
+2026-02-15,Furniture,North,Four,1021.66,140.49,34
+2026-02-16,Electronics,Central,Produce,1387.22,337.07,14
+2026-02-17,Clothing,West,Read,495.11,108.17,14
+2026-02-18,Furniture,Central,Situation,1146.94,295.19,41
+2026-02-19,Accessories,East,Role,894.27,175.0,10
+2026-02-20,Furniture,Central,Wife,915.62,251.01,10
+2026-02-21,Electronics,East,Movement,952.69,181.52,42
+2026-02-22,Furniture,Central,Ten,1105.65,110.71,44
+2026-02-23,Furniture,South,Out,1138.75,250.47,5
+2026-02-24,Office Supplies,West,Country,1315.89,149.07,10
+2026-02-25,Accessories,Central,Against,1152.9,267.78,20
+2026-02-26,Office Supplies,East,Member,1161.44,189.22,26
+2026-02-27,Office Supplies,Central,Movement,1159.29,123.6,19
+2026-02-28,Clothing,North,Series,983.63,184.86,2
+2026-03-01,Furniture,South,Religious,996.81,274.32,16
+2026-03-02,Furniture,North,True,642.45,160.22,28
+2026-03-03,Furniture,South,Without,1174.19,120.77,48
+2026-03-04,Furniture,East,Office,1170.58,299.18,43
+2026-03-05,Furniture,West,Bar,74.06,22.04,38
+2026-03-06,Accessories,Central,Condition,967.45,234.64,49
+2026-03-07,Office Supplies,South,Blood,725.57,195.66,22
+2026-03-08,Furniture,South,Pressure,951.83,105.71,7
+2026-03-09,Electronics,Central,Skill,1069.58,154.96,22
+2026-03-10,Electronics,West,Father,1131.03,176.07,21
+2026-03-11,Clothing,Central,Artist,575.97,101.12,32
+2026-03-12,Furniture,South,Where,893.91,138.69,5
+2026-03-13,Furniture,East,Eye,528.38,84.49,17
+2026-03-14,Office Supplies,East,Improve,752.54,97.51,49
+2026-03-15,Electronics,South,Later,1153.81,333.55,21
+2026-03-16,Clothing,East,Television,688.87,196.3,25
+2026-03-17,Office Supplies,West,Human,1264.85,174.71,28
+2026-03-18,Electronics,Central,Ahead,1548.03,337.06,48
+2026-03-19,Clothing,West,Carry,1747.05,506.26,20
+2026-03-20,Office Supplies,Central,Than,1416.5,392.81,48
+2026-03-21,Furniture,Central,Detail,713.44,147.73,22
+2026-03-22,Accessories,Central,Machine,741.98,172.05,24
+2026-03-23,Electronics,East,Total,965.0,167.11,24
+2026-03-24,Electronics,West,A,686.82,70.89,32
+2026-03-25,Furniture,West,Material,744.65,81.93,27
+2026-03-26,Electronics,Central,Body,808.12,83.85,22
+2026-03-27,Electronics,Central,He,858.15,197.49,4
+2026-03-28,Electronics,Central,Plant,486.67,123.58,34
+2026-03-29,Accessories,Central,Kind,1442.77,146.45,41
+2026-03-30,Electronics,South,Line,1029.32,253.8,31
+2026-03-31,Furniture,North,Recognize,939.42,172.77,45
+2026-04-01,Office Supplies,West,Them,797.78,206.49,43
+2026-04-02,Clothing,West,Any,1435.42,362.92,10
+2026-04-03,Electronics,North,Ball,870.75,95.64,12
+2026-04-04,Accessories,East,Very,1335.23,288.13,39
+2026-04-05,Electronics,North,Out,1558.88,185.71,42
+2026-04-06,Clothing,West,Personal,1042.49,258.42,16
+2026-04-07,Electronics,West,Success,987.09,277.13,49
+2026-04-08,Furniture,South,Job,1358.73,322.34,17
+2026-04-09,Accessories,South,Beyond,1064.2,209.87,44
+2026-04-10,Clothing,East,Yet,733.69,75.59,22
+2026-04-11,Clothing,North,Bill,1233.76,147.88,9
+2026-04-12,Furniture,Central,Purpose,1116.28,323.05,43
+2026-04-13,Electronics,North,Doctor,1018.65,189.69,22
+2026-04-14,Clothing,North,Where,576.31,100.87,33
+2026-04-15,Electronics,Central,Yeah,1335.48,245.59,14
+2026-04-16,Clothing,North,Friend,916.45,268.1,27
+2026-04-17,Clothing,South,Yet,1142.28,202.71,15
+2026-04-18,Furniture,Central,Which,1297.09,351.46,10
+2026-04-19,Clothing,Central,Threat,1235.89,253.25,6
+2026-04-20,Accessories,South,American,1024.24,263.23,34
+2026-04-21,Clothing,West,Right,1483.44,160.93,29
+2026-04-22,Office Supplies,North,Raise,1187.7,329.2,37
+2026-04-23,Clothing,North,Series,621.93,94.57,1
+2026-04-24,Clothing,South,Pressure,1006.49,271.19,11
+2026-04-25,Furniture,North,Cost,1118.92,249.01,47
+2026-04-26,Electronics,East,Mouth,1104.78,308.22,39
+2026-04-27,Office Supplies,West,Nor,706.62,151.98,47
+2026-04-28,Accessories,South,Draw,1063.46,290.46,19
+2026-04-29,Office Supplies,South,Their,913.41,175.65,38
+2026-04-30,Office Supplies,Central,Image,655.98,159.8,4
+2026-05-01,Electronics,West,Yard,1294.97,162.9,25
+2026-05-02,Furniture,North,Stock,761.6,79.28,45
+2026-05-03,Electronics,North,Employee,963.3,151.51,34
+2026-05-04,Clothing,North,Bill,793.96,123.72,26
+2026-05-05,Accessories,South,Really,631.97,186.86,5
+2026-05-06,Office Supplies,West,Recognize,1117.01,328.82,12
+2026-05-07,Accessories,East,Purpose,795.4,115.13,19
+2026-05-08,Accessories,North,Sort,1596.75,362.39,49
+2026-05-09,Electronics,East,Effort,1320.57,322.64,21
+2026-05-10,Electronics,East,Not,666.48,115.86,1
+2026-05-11,Office Supplies,West,Or,1329.45,290.22,42
+2026-05-12,Accessories,East,Item,926.51,110.83,3
+2026-05-13,Electronics,East,Hit,1356.8,384.41,27
+2026-05-14,Accessories,Central,Yard,1057.27,274.45,8
+2026-05-15,Furniture,West,Head,896.9,100.05,6
+2026-05-16,Clothing,West,Maintain,751.99,93.41,48
+2026-05-17,Office Supplies,East,The,769.07,166.56,46
+2026-05-18,Office Supplies,South,Always,1262.74,334.65,39
+2026-05-19,Office Supplies,South,Small,1227.11,335.96,7
+2026-05-20,Office Supplies,West,Writer,806.45,198.29,28
+2026-05-21,Clothing,West,General,1282.75,313.67,48
+2026-05-22,Accessories,South,Around,828.02,110.8,12
+2026-05-23,Electronics,West,At,1423.54,365.97,23
+2026-05-24,Electronics,Central,Maybe,990.58,286.79,35
+2026-05-25,Furniture,East,Most,1260.87,158.89,26
+2026-05-26,Electronics,North,Must,689.95,199.55,28
+2026-05-27,Accessories,East,Cup,888.21,197.94,48
+2026-05-28,Clothing,South,Her,780.47,164.22,20
+2026-05-29,Accessories,North,Order,611.51,76.07,29
+2026-05-30,Accessories,Central,Your,511.54,90.87,27
+2026-05-31,Electronics,North,Common,911.6,190.27,45
+2026-06-01,Office Supplies,West,Maintain,936.62,158.14,28
+2026-06-02,Electronics,Central,Factor,891.62,229.14,16
+2026-06-03,Furniture,Central,Light,1046.0,222.33,4
+2026-06-04,Furniture,Central,Identify,442.08,118.06,35
+2026-06-05,Office Supplies,North,Figure,1013.65,271.08,44
+2026-06-06,Office Supplies,Central,Strategy,935.52,265.18,49
+2026-06-07,Electronics,South,Hand,1256.15,333.03,9
+2026-06-08,Electronics,East,Detail,576.7,60.56,18
+2026-06-09,Electronics,Central,Herself,1035.85,241.01,10
+2026-06-10,Office Supplies,West,Culture,632.73,183.44,18
+2026-06-11,Furniture,South,Chance,674.51,179.23,29
+2026-06-12,Electronics,East,Claim,1134.54,146.25,20
+2026-06-13,Electronics,Central,Ever,871.78,122.33,14
+2026-06-14,Electronics,North,Mrs,1085.97,117.9,4
+2026-06-15,Furniture,North,Certain,1276.27,372.1,6
+2026-06-16,Furniture,West,Any,997.72,288.46,17
+2026-06-17,Furniture,Central,Operation,717.73,144.37,33
+2026-06-18,Furniture,East,Cut,781.33,109.58,38
+2026-06-19,Electronics,Central,Others,747.29,209.05,31
+2026-06-20,Accessories,North,Number,1289.91,233.36,31
+2026-06-21,Electronics,Central,Test,901.01,173.15,48
+2026-06-22,Furniture,North,Check,1275.8,159.38,17
+2026-06-23,Furniture,East,Edge,1039.54,242.79,21
+2026-06-24,Electronics,North,Business,1270.66,216.95,46
+2026-06-25,Office Supplies,South,Hot,462.6,130.55,1
+2026-06-26,Office Supplies,North,Should,608.68,122.77,47
+2026-06-27,Electronics,Central,Light,766.72,85.67,49
+2026-06-28,Accessories,East,Until,1001.44,213.19,42
+2026-06-29,Office Supplies,North,Chair,827.8,177.11,45
+2026-06-30,Accessories,East,Guess,1330.43,271.3,18
+2026-07-01,Office Supplies,South,More,1036.97,174.25,15
+2026-07-02,Electronics,West,Reason,1304.98,331.85,36
+2026-07-03,Electronics,North,Fight,1185.26,235.51,16
+2026-07-04,Clothing,South,How,670.02,113.76,25
+2026-07-05,Office Supplies,South,Remember,148.7,42.26,35
+2026-07-06,Clothing,Central,First,964.16,158.21,14
+2026-07-07,Accessories,North,Six,1370.48,395.48,21
+2026-07-08,Office Supplies,Central,Black,813.2,240.75,15
+2026-07-09,Office Supplies,East,Teach,1570.35,419.23,3
+2026-07-10,Office Supplies,East,Order,695.26,171.99,28
+2026-07-11,Accessories,West,Discussion,638.29,175.08,44
+2026-07-12,Furniture,West,Well,1260.51,156.27,48
+2026-07-13,Office Supplies,North,Speech,1252.35,294.2,10
+2026-07-14,Electronics,South,Attention,1192.12,341.46,18
+2026-07-15,Clothing,Central,Sort,1257.42,317.15,1
+2026-07-16,Electronics,Central,Education,1262.6,193.75,18
+2026-07-17,Electronics,East,Among,638.48,122.82,18
+2026-07-18,Furniture,South,Three,535.22,78.28,7
+2026-07-19,Accessories,Central,Effect,659.52,88.16,15
+2026-07-20,Office Supplies,West,Just,659.53,168.08,47
+2026-07-21,Furniture,Central,Early,724.81,147.07,4
+2026-07-22,Accessories,West,Say,708.05,204.51,22
+2026-07-23,Electronics,West,Pretty,931.55,157.7,14
+2026-07-24,Clothing,North,Human,1437.24,245.35,14
+2026-07-25,Office Supplies,Central,Goal,732.5,179.72,25
+2026-07-26,Clothing,West,Option,591.33,117.7,18
+2026-07-27,Electronics,West,Dog,968.07,210.04,32
+2026-07-28,Electronics,South,Hard,1351.15,361.64,33
+2026-07-29,Clothing,Central,Left,544.3,116.97,39
+2026-07-30,Office Supplies,East,War,647.09,181.47,12
+2026-07-31,Electronics,West,Just,837.61,100.48,15
+2026-08-01,Accessories,South,Case,1671.7,211.82,39
+2026-08-02,Electronics,West,Detail,1178.5,236.91,39
+2026-08-03,Clothing,South,Service,1075.61,322.46,27
+2026-08-04,Clothing,Central,North,1451.01,389.04,12
+2026-08-05,Accessories,East,Product,1633.51,456.15,46
+2026-08-06,Office Supplies,Central,More,849.59,188.06,41
+2026-08-07,Electronics,South,High,1243.47,265.96,20
+2026-08-08,Clothing,West,Like,871.12,108.32,3
+2026-08-09,Clothing,West,Religious,786.35,177.37,39
+2026-08-10,Electronics,West,Technology,609.27,167.43,14
+2026-08-11,Clothing,Central,Choice,897.9,171.89,6
+2026-08-12,Clothing,South,We,922.74,145.59,7
+2026-08-13,Clothing,South,Night,1159.17,314.99,7
+2026-08-14,Electronics,West,Reveal,573.45,70.66,15
+2026-08-15,Office Supplies,East,Ever,1303.53,256.26,45
+2026-08-16,Clothing,South,Little,1035.37,228.79,41
+2026-08-17,Office Supplies,North,Act,1399.86,187.0,22
+2026-08-18,Office Supplies,West,Nothing,1173.96,120.49,20
+2026-08-19,Electronics,West,On,1092.25,233.78,31
+2026-08-20,Furniture,East,Month,1034.87,187.33,13
+2026-08-21,Furniture,Central,Movement,703.55,99.2,6
+2026-08-22,Furniture,South,His,86.75,13.36,28
+2026-08-23,Clothing,North,Whose,1355.01,194.01,4
+2026-08-24,Office Supplies,West,Feeling,1477.51,362.34,20
+2026-08-25,Electronics,East,Increase,364.15,101.78,34
+2026-08-26,Furniture,West,Including,627.72,148.1,10
+2026-08-27,Furniture,West,Help,1337.92,385.27,1
+2026-08-28,Office Supplies,Central,List,1176.53,142.53,27
+2026-08-29,Clothing,South,Cost,980.6,192.28,37
+2026-08-30,Electronics,West,Machine,866.85,187.78,1
+2026-08-31,Office Supplies,East,Course,758.91,161.3,10
+2026-09-01,Office Supplies,Central,Avoid,1073.22,146.28,23
+2026-09-02,Accessories,Central,Family,934.74,124.35,1
+2026-09-03,Clothing,East,Establish,949.96,272.38,45
+2026-09-04,Accessories,East,Send,798.48,196.72,27
+2026-09-05,Clothing,North,Check,896.74,145.13,10
+2026-09-06,Office Supplies,North,All,919.14,185.91,3
+2026-09-07,Electronics,Central,Affect,1217.07,215.03,13
+2026-09-08,Furniture,Central,Still,919.22,241.96,37
+2026-09-09,Furniture,Central,Food,771.58,214.32,10
+2026-09-10,Furniture,South,Score,430.61,104.6,8
+2026-09-11,Clothing,West,Put,1087.78,273.8,8
+2026-09-12,Accessories,South,Word,917.8,104.49,5
+2026-09-13,Office Supplies,Central,Program,1234.92,246.29,22
+2026-09-14,Accessories,South,Suddenly,679.6,188.9,28
+2026-09-15,Furniture,East,Executive,781.23,197.97,26
+2026-09-16,Office Supplies,Central,Couple,1005.55,279.79,10
+2026-09-17,Office Supplies,East,Eight,1000.35,296.72,4
+2026-09-18,Accessories,Central,Economic,896.05,123.6,30
+2026-09-19,Clothing,North,Only,801.06,179.18,45
+2026-09-20,Office Supplies,East,Recognize,1107.53,249.0,6
+2026-09-21,Furniture,Central,Beyond,1942.79,577.78,9
+2026-09-22,Accessories,South,Push,1524.41,194.41,21
+2026-09-23,Accessories,North,Book,1223.17,136.83,25
+2026-09-24,Clothing,East,Out,950.23,160.97,12
+2026-09-25,Office Supplies,East,Bill,812.73,118.64,45
+2026-09-26,Furniture,Central,Be,1206.27,175.72,32
+2026-09-27,Electronics,Central,Customer,1449.04,365.05,10
+2026-09-28,Furniture,East,Authority,751.34,187.71,32
+2026-09-29,Electronics,Central,Author,1092.46,171.77,39
+2026-09-30,Electronics,East,Arm,1086.94,180.47,33
+2026-10-01,Clothing,North,Direction,1007.58,234.01,17
+2026-10-02,Electronics,East,Join,926.41,178.43,48
+2026-10-03,Electronics,South,As,1009.57,192.37,44
+2026-10-04,Clothing,West,Treatment,1319.21,356.2,48
+2026-10-05,Furniture,North,Fire,1113.56,146.98,4
+2026-10-06,Electronics,East,Half,1105.94,136.35,2
+2026-10-07,Accessories,South,Bed,1162.95,284.33,35
+2026-10-08,Office Supplies,West,Range,726.57,151.8,25
+2026-10-09,Furniture,Central,Hospital,1143.1,183.21,46
+2026-10-10,Office Supplies,Central,Difference,1261.89,261.09,44
+2026-10-11,Furniture,East,Whatever,802.13,98.88,30
+2026-10-12,Electronics,Central,Full,1051.08,117.25,3
+2026-10-13,Furniture,Central,Hold,991.01,295.34,28
+2026-10-14,Electronics,North,Voice,1045.4,190.14,46
+2026-10-15,Office Supplies,East,Miss,860.02,130.87,20
+2026-10-16,Clothing,East,Market,454.78,126.63,37
+2026-10-17,Electronics,West,Dinner,1336.87,301.55,2
+2026-10-18,Electronics,West,Back,1066.17,248.36,34
+2026-10-19,Clothing,South,Education,1263.72,287.64,26
+2026-10-20,Electronics,North,Spring,1059.5,125.22,9
+2026-10-21,Electronics,North,Above,818.6,160.4,19
+2026-10-22,Furniture,North,Discuss,1134.75,127.74,26
+2026-10-23,Electronics,West,Forward,1018.24,113.64,43
+2026-10-24,Accessories,South,Range,1055.53,176.23,7
+2026-10-25,Clothing,North,Administration,1065.0,233.5,43
+2026-10-26,Electronics,North,Radio,872.57,221.9,21
+2026-10-27,Clothing,West,Main,727.51,97.18,42
+2026-10-28,Electronics,East,Blood,1562.73,376.84,27
+2026-10-29,Clothing,West,Such,1221.08,180.53,26
+2026-10-30,Electronics,South,Development,730.99,188.11,46
+2026-10-31,Electronics,West,Drug,612.15,123.98,48
+2026-11-01,Furniture,Central,Create,932.98,109.23,9
+2026-11-02,Clothing,Central,Watch,835.09,156.13,34
+2026-11-03,Clothing,Central,Represent,602.72,79.1,37
+2026-11-04,Accessories,Central,I,884.14,111.27,22
+2026-11-05,Office Supplies,South,Establish,1307.99,322.82,19
+2026-11-06,Office Supplies,North,Family,970.92,179.49,10
+2026-11-07,Clothing,West,Per,1126.62,220.56,35
+2026-11-08,Accessories,Central,Lay,1198.57,140.13,23
+2026-11-09,Accessories,South,Space,843.2,100.9,15
+2026-11-10,Accessories,East,Pull,1461.94,353.25,47
+2026-11-11,Electronics,Central,I,664.99,135.06,11
+2026-11-12,Office Supplies,East,Couple,795.54,125.79,1
+2026-11-13,Accessories,West,Their,640.76,163.49,16
+2026-11-14,Electronics,East,Agent,1515.83,352.79,32
+2026-11-15,Electronics,South,Shake,956.04,202.75,22
+2026-11-16,Office Supplies,South,Writer,1442.83,362.09,15
+2026-11-17,Furniture,North,Result,527.85,66.09,41
+2026-11-18,Furniture,South,Process,1328.95,392.73,15
+2026-11-19,Clothing,South,Tree,1250.7,146.92,31
+2026-11-20,Office Supplies,South,Program,891.83,136.3,1
+2026-11-21,Clothing,Central,Season,1212.5,251.56,9
+2026-11-22,Furniture,East,Operation,852.77,239.58,41
+2026-11-23,Accessories,South,Morning,1067.26,146.77,48
+2026-11-24,Office Supplies,East,Then,915.6,130.16,2
+2026-11-25,Accessories,Central,Report,679.83,92.32,33
+2026-11-26,Clothing,West,Recently,902.25,111.96,47
+2026-11-27,Accessories,East,Process,386.66,44.27,4
+2026-11-28,Electronics,South,Three,867.44,126.72,19
+2026-11-29,Accessories,West,Often,611.07,134.43,32
+2026-11-30,Clothing,South,Suggest,735.88,90.81,20
+2026-12-01,Office Supplies,Central,Evening,1173.71,172.4,42
+2026-12-02,Electronics,East,Issue,1263.27,304.3,28
+2026-12-03,Electronics,Central,According,1160.95,194.52,16
+2026-12-04,Office Supplies,East,Trade,940.99,249.97,8
+2026-12-05,Furniture,South,Young,1049.82,306.8,20
+2026-12-06,Clothing,East,Upon,680.52,171.07,18
+2026-12-07,Office Supplies,Central,Pick,1349.47,139.83,35
+2026-12-08,Furniture,North,Near,579.08,103.27,5
+2026-12-09,Furniture,East,Form,986.72,125.77,44
+2026-12-10,Clothing,Central,Ok,1549.86,164.28,35
+2026-12-11,Electronics,East,Agree,1243.91,366.77,45
+2026-12-12,Furniture,East,Star,1551.71,395.6,27
+2026-12-13,Electronics,East,Training,979.98,206.39,18
+2026-12-14,Electronics,West,Nor,1444.43,326.51,22
+2026-12-15,Clothing,Central,Ok,534.12,110.34,14
+2026-12-16,Clothing,East,However,682.93,203.55,22
+2026-12-17,Clothing,Central,Dark,815.01,94.03,34
+2026-12-18,Accessories,West,Similar,435.91,77.79,17
+2026-12-19,Electronics,North,Couple,1414.43,273.65,33
+2026-12-20,Accessories,South,Safe,1031.38,275.12,9
+2026-12-21,Clothing,West,Her,971.2,202.39,21
+2026-12-22,Accessories,West,Follow,1623.46,441.95,36
+2026-12-23,Clothing,North,Speak,1465.97,401.62,15
+2026-12-24,Accessories,East,Work,699.46,155.55,26
+2026-12-25,Accessories,North,Blood,738.56,116.09,26
+2026-12-26,Clothing,West,Word,913.27,156.97,28
+2026-12-27,Office Supplies,South,View,1103.75,191.15,10
+2026-12-28,Furniture,West,Serious,1301.25,320.39,24
+2026-12-29,Electronics,East,Well,922.77,210.2,30
+2026-12-30,Clothing,South,Mission,762.74,222.59,46
+2026-12-31,Furniture,Central,Effect,592.26,76.17,7
+2027-01-01,Accessories,West,Factor,831.96,97.95,5
+2027-01-02,Electronics,East,Nature,1034.95,230.31,28
+2027-01-03,Furniture,Central,Star,824.51,201.71,5
+2027-01-04,Clothing,Central,Hair,920.56,169.6,44
+2027-01-05,Electronics,South,Majority,615.82,119.85,31
+2027-01-06,Clothing,South,Employee,1099.03,169.17,26
+2027-01-07,Furniture,Central,Describe,1348.15,169.63,38
+2027-01-08,Accessories,North,Property,1005.25,235.0,33
+2027-01-09,Electronics,West,Main,823.69,168.61,6
+2027-01-10,Clothing,North,Couple,982.79,252.93,3
+2027-01-11,Furniture,South,Much,1094.05,196.85,36
+2027-01-12,Accessories,South,Him,1114.41,171.18,42
+2027-01-13,Electronics,East,Seven,1413.09,297.63,25
+2027-01-14,Furniture,South,Draw,1334.71,338.56,12
+2027-01-15,Office Supplies,West,Window,790.2,138.73,10
+2027-01-16,Clothing,West,Early,884.71,171.46,30
+2027-01-17,Clothing,South,Matter,628.2,103.14,12
+2027-01-18,Accessories,West,Open,668.68,177.86,26
+2027-01-19,Electronics,Central,Long,1325.29,355.96,7
+2027-01-20,Accessories,Central,Prove,1245.46,185.69,41
+2027-01-21,Accessories,West,Win,905.15,261.31,9
+2027-01-22,Accessories,East,Move,1668.89,230.56,38
+2027-01-23,Accessories,West,Ground,887.97,182.24,45
+2027-01-24,Accessories,East,Mind,913.88,134.84,48
+2027-01-25,Electronics,West,Road,1192.36,250.48,40
+2027-01-26,Accessories,East,Cut,820.1,157.79,29
+2027-01-27,Office Supplies,North,Case,1157.48,269.2,19
+2027-01-28,Office Supplies,Central,Agreement,1001.59,122.7,46
+2027-01-29,Office Supplies,North,Decision,1367.91,162.56,22
+2027-01-30,Electronics,East,Church,1030.83,135.33,37
+2027-01-31,Accessories,South,Night,1498.7,377.7,3
+2027-02-01,Clothing,South,Year,850.2,155.11,35
+2027-02-02,Accessories,East,Poor,1468.63,395.87,28
+2027-02-03,Clothing,East,Camera,993.09,114.9,12
+2027-02-04,Clothing,North,Financial,983.55,210.87,30
+2027-02-05,Accessories,North,Few,413.04,49.15,27
+2027-02-06,Office Supplies,Central,Own,1067.35,210.8,10
+2027-02-07,Electronics,Central,Win,871.19,226.24,35
+2027-02-08,Clothing,North,Why,1241.69,295.54,23
+2027-02-09,Accessories,East,Me,878.73,89.72,30
+2027-02-10,Office Supplies,West,Amount,864.29,250.08,15
+2027-02-11,Accessories,Central,Tv,785.36,137.03,36
+2027-02-12,Clothing,East,Surface,617.27,108.91,28
+2027-02-13,Office Supplies,North,Enough,1271.38,195.08,13
+2027-02-14,Clothing,South,Like,815.17,158.77,6
+2027-02-15,Clothing,South,Hear,1037.09,221.05,48
+2027-02-16,Office Supplies,East,Least,1082.17,299.11,17
+2027-02-17,Clothing,North,Charge,1114.0,286.51,4
+2027-02-18,Accessories,Central,Similar,1643.68,448.64,6
+2027-02-19,Clothing,West,Officer,664.89,198.2,1
+2027-02-20,Furniture,East,Keep,1008.04,295.84,19
+2027-02-21,Accessories,East,Will,1295.2,372.55,18
+2027-02-22,Clothing,North,Leave,1146.3,218.95,12
+2027-02-23,Furniture,West,Door,769.35,122.71,37
+2027-02-24,Furniture,East,Get,925.48,270.26,47
+2027-02-25,Electronics,North,Key,1038.17,124.21,6
+2027-02-26,Electronics,West,Girl,847.13,245.61,4
+2027-02-27,Furniture,North,Dream,1184.14,322.93,20
+2027-02-28,Office Supplies,South,Range,712.17,205.52,37
+2027-03-01,Office Supplies,West,Become,641.8,111.5,8
+2027-03-02,Office Supplies,Central,Buy,847.88,217.13,32
+2027-03-03,Accessories,South,Around,1244.96,232.66,5
+2027-03-04,Clothing,West,Break,897.28,95.26,42
+2027-03-05,Furniture,Central,Office,1011.69,134.36,11
+2027-03-06,Accessories,West,Something,913.07,239.8,10
+2027-03-07,Electronics,West,Give,954.72,104.6,1
+2027-03-08,Office Supplies,Central,Foot,927.45,216.68,6
+2027-03-09,Office Supplies,South,Spring,1393.38,302.51,44
+2027-03-10,Accessories,South,Century,1202.34,253.26,9
+2027-03-11,Clothing,Central,Order,1526.08,412.51,9
+2027-03-12,Furniture,Central,Like,1381.83,167.65,33
+2027-03-13,Electronics,North,Act,810.14,112.22,30
+2027-03-14,Office Supplies,North,Nice,1127.81,142.87,35
+2027-03-15,Office Supplies,South,Stop,860.77,233.29,26
+2027-03-16,Electronics,Central,Their,959.27,236.64,5
+2027-03-17,Electronics,Central,Suddenly,1475.86,255.92,37
+2027-03-18,Accessories,East,Present,463.3,88.04,35
+2027-03-19,Electronics,North,List,612.96,117.96,37
+2027-03-20,Clothing,South,Drug,1564.03,430.71,40
+2027-03-21,Clothing,Central,Human,876.85,234.65,32
+2027-03-22,Accessories,South,Recognize,362.33,41.1,17
+2027-03-23,Electronics,Central,Degree,828.51,217.74,46
+2027-03-24,Accessories,West,Bring,482.92,143.66,35
+2027-03-25,Electronics,North,Major,1483.54,205.64,8
+2027-03-26,Office Supplies,Central,Space,874.47,153.92,12
+2027-03-27,Furniture,West,Middle,748.16,111.51,7
+2027-03-28,Office Supplies,West,Tell,1834.49,369.71,34
+2027-03-29,Clothing,East,Less,1085.26,190.58,41
+2027-03-30,Accessories,East,Boy,1292.76,181.87,47
+2027-03-31,Accessories,East,Teach,858.65,218.08,38
+2027-04-01,Electronics,North,Would,1252.35,357.18,34
+2027-04-02,Office Supplies,East,Send,1747.26,489.64,48
+2027-04-03,Accessories,East,Some,1554.33,294.35,11
+2027-04-04,Clothing,West,Myself,1546.75,351.0,41
+2027-04-05,Accessories,West,Themselves,490.42,106.52,38
+2027-04-06,Electronics,South,Herself,1314.4,223.49,9
+2027-04-07,Accessories,North,Season,820.2,223.05,41
+2027-04-08,Office Supplies,Central,Health,1278.83,273.31,25
+2027-04-09,Clothing,South,Garden,1438.49,211.42,38
+2027-04-10,Furniture,South,Near,1130.02,292.76,10
+2027-04-11,Accessories,West,Play,896.63,209.55,25
+2027-04-12,Accessories,Central,Phone,1416.77,367.42,48
+2027-04-13,Furniture,Central,Especially,688.33,179.59,19
+2027-04-14,Office Supplies,South,Check,1192.95,174.58,19
+2027-04-15,Electronics,West,Age,772.39,115.19,16
+2027-04-16,Accessories,East,Player,715.78,100.01,49
+2027-04-17,Clothing,East,Last,1018.18,299.45,29
+2027-04-18,Electronics,Central,Better,1106.33,173.26,22
+2027-04-19,Office Supplies,South,Stop,1084.98,242.49,27
+2027-04-20,Clothing,South,Large,535.6,126.17,14
+2027-04-21,Furniture,West,Spring,1611.63,201.35,16
+2027-04-22,Accessories,Central,Type,826.23,243.03,18
+2027-04-23,Accessories,East,Attack,796.44,238.53,29
+2027-04-24,Furniture,East,Safe,811.51,227.21,26
+2027-04-25,Electronics,West,Sort,1226.68,176.69,10
+2027-04-26,Accessories,East,Quite,1238.63,169.24,8
+2027-04-27,Accessories,South,Subject,1018.18,153.59,15
+2027-04-28,Clothing,North,Do,696.66,73.64,47
+2027-04-29,Office Supplies,North,Low,1055.11,265.65,43
+2027-04-30,Furniture,North,Coach,810.56,174.32,4
+2027-05-01,Accessories,North,Style,1609.6,313.68,7
+2027-05-02,Office Supplies,West,Energy,1131.38,256.75,32
+2027-05-03,Electronics,South,Issue,1206.82,245.54,18
+2027-05-04,Electronics,Central,Include,783.11,173.77,32
+2027-05-05,Accessories,West,Current,1298.3,140.92,46
+2027-05-06,Clothing,Central,Lose,959.31,223.81,46
+2027-05-07,Accessories,Central,Range,621.75,84.31,29
+2027-05-08,Furniture,Central,Sure,944.41,142.25,36
+2027-05-09,Electronics,West,Today,689.05,181.95,25
+2027-05-10,Accessories,East,Tonight,884.46,166.18,41
+2027-05-11,Furniture,North,Goal,794.99,199.26,15
+2027-05-12,Accessories,North,Like,1241.1,217.07,48
+2027-05-13,Office Supplies,Central,Can,969.43,100.95,47
+2027-05-14,Clothing,North,Church,751.61,210.98,12
+2027-05-15,Clothing,East,Music,1274.27,306.0,44
+2027-05-16,Accessories,East,International,713.53,194.23,9
+2027-05-17,Furniture,South,Store,1145.9,208.94,11
+2027-05-18,Accessories,East,Administration,1107.61,179.54,19
+2027-05-19,Accessories,East,Shoulder,850.27,205.15,4
+2027-05-20,Accessories,East,Better,1388.97,372.06,8
+2027-05-21,Furniture,South,Simple,1308.66,186.8,26
+2027-05-22,Electronics,South,Affect,1385.17,413.51,23
+2027-05-23,Office Supplies,North,Save,500.07,74.2,30
+2027-05-24,Clothing,Central,Break,896.97,240.96,21
+2027-05-25,Office Supplies,Central,Owner,848.33,197.3,11
+2027-05-26,Office Supplies,Central,Recently,820.73,184.84,19
+2027-05-27,Office Supplies,North,Pm,1110.62,228.97,49
+2027-05-28,Office Supplies,North,Various,772.55,229.05,14
+2027-05-29,Clothing,South,Bring,948.77,260.95,48
+2027-05-30,Clothing,South,Owner,1141.86,152.05,23
+2027-05-31,Office Supplies,South,Walk,999.85,106.93,44
+2027-06-01,Office Supplies,North,When,846.04,206.35,47
+2027-06-02,Furniture,Central,Film,606.2,119.02,38
+2027-06-03,Furniture,West,Street,893.76,236.0,9
+2027-06-04,Electronics,North,Reveal,1300.29,153.46,32
+2027-06-05,Clothing,East,Reveal,732.16,141.1,47
+2027-06-06,Accessories,East,Mean,1146.24,162.54,38
+2027-06-07,Furniture,East,Forward,982.69,143.59,43
+2027-06-08,Office Supplies,Central,Professor,796.48,146.3,12
+2027-06-09,Electronics,West,Crime,1000.03,146.69,25
+2027-06-10,Electronics,West,Knowledge,1301.05,314.42,22
+2027-06-11,Clothing,Central,Protect,609.62,149.06,24
+2027-06-12,Furniture,South,Reach,1101.05,237.64,35
+2027-06-13,Furniture,East,Alone,836.95,156.59,48
+2027-06-14,Office Supplies,East,Must,967.98,119.21,26
+2027-06-15,Furniture,West,Again,1434.3,259.82,1
+2027-06-16,Furniture,West,Risk,806.42,198.44,3
+2027-06-17,Office Supplies,Central,Build,1047.87,272.54,33
+2027-06-18,Office Supplies,South,However,1096.91,110.8,27
+2027-06-19,Accessories,Central,They,1535.67,418.6,46
+2027-06-20,Accessories,West,Professional,1051.32,280.69,3
+2027-06-21,Furniture,North,Particular,985.19,140.26,17
+2027-06-22,Accessories,East,Who,1089.27,289.62,24
+2027-06-23,Clothing,Central,Until,840.87,224.51,14
