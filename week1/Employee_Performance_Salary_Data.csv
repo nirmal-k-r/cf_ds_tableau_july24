@@ -1,0 +1,151 @@
+Employee ID,Name,Department,Position,Hire Date,Salary,Performance Score,Bonus,Location,Manager ID
+EMP0001,Tyler Holden,Finance,Consultant,2015-01-01 00:00:00,-118546.26,,-12892.0,new york,EMP0094
+EMP0002,Anthony Henry,Operations,Consultant,2015-01-02 00:00:00,59525.02,1.84,3537.47,Chicago,EMP0094
+EMP0003,Joshua Jones,Sales,Specialist,2015-01-03 00:00:00,56278.19,4.17,4614.07,Houston,EMP0002
+EMP0004,Sarah Jones,Marketing,Coordinator,2015-01-04 00:00:00,57250.49,3.4,6435.24,houston,EMP0148
+EMP0005,Leslie Wright,Sales,Specialist,2015-01-05 00:00:00,78001.6,1.59,10626.1,New York,EMP0108
+EMP0006,Nancy Webb,HR,Consultant,2015-01-06 00:00:00,63461.87,3.44,5246.79,phoenix,EMP0049
+EMP0007,Dr. Richard Wright,Operations,Executive,2015-01-07 00:00:00,57135.03,1.62,7721.14,Chicago,EMP0034
+EMP0008,Jessica Mora,Marketing,Analyst,01-08-2015,75735.37,1.09,9400.47,Phoenix,EMP0081
+EMP0009,Elizabeth Kelly,Sales,Manager,2015-01-09 00:00:00,65354.11,1.65,3679.27,New York,None
+EMP0010,Candice Tran,IT,Manager,2015-01-10 00:00:00,43094.15,1.53,4596.98,Phoenix,EMP0007
+EMP0011,Allison Smith,IT,Consultant,2015-01-11 00:00:00,71170.96,,5337.12,new york,EMP0084
+EMP0012,Kirk Torres,HR,Executive,2015-01-12 00:00:00,65421.33,2.32,6307.48,chicago,EMP0036
+EMP0013,Katelyn Pope,Marketing,Manager,2015-01-13 00:00:00,8429.8,4.22,479.15,Los Angeles,EMP0040
+EMP0014,Keith Blackwell,Marketing,Analyst,2015-01-14 00:00:00,56020.24,3.27,3137.72,New York,EMP0040
+EMP0015,David Erickson,Sales,Coordinator,2015-01-15 00:00:00,66365.4,2.59,6455.09,Houston,EMP0122
+EMP0016,Morgan Sweeney,HR,Analyst,2015-01-16 00:00:00,-57975.96,4.31,-5136.13,New York,EMP0028
+EMP0017,Jerry Brennan,Marketing,Coordinator,2015-01-17 00:00:00,31946.77,4.72,2024.27,Phoenix,None
+EMP0018,Lawrence Alvarez,Sales,Specialist,2015-01-18 00:00:00,75977.26,1.71,10802.86,Phoenix,EMP0052
+EMP0019,Lee David,Finance,Manager,01-19-2015,66058.12,1.21,9089.8,New York,EMP0055
+EMP0020,Erika Smith,IT,Consultant,2015-01-20 00:00:00,60192.01,3.85,7127.66,New York,EMP0085
+EMP0021,Stephanie Case,Finance,Manager,2015-01-21 00:00:00,129182.52,,9672.51,Los Angeles,EMP0105
+EMP0022,April Fowler,Operations,Consultant,2015-01-22 00:00:00,37318.7,1.67,5090.89,Los Angeles,EMP0095
+EMP0023,Joseph Miller,Operations,Specialist,2015-01-23 00:00:00,60109.54,4.16,5295.53,phoenix,EMP0133
+EMP0024,Michael Hartman,Marketing,Coordinator,2015-01-24 00:00:00,70826.13,3.88,9836.16,Houston,EMP0017
+EMP0025,Michelle Bonilla,Marketing,Specialist,2015-01-25 00:00:00,65458.64,4.71,4122.97,Phoenix,EMP0044
+EMP0026,Robert Hayes,Marketing,Analyst,01-26-2015,53529.38,2.24,7414.2,chicago,EMP0044
+EMP0027,Aaron Johnson,Finance,Consultant,2015-01-27 00:00:00,39775.55,2.87,5930.11,Chicago,EMP0118
+EMP0028,Jason Flores,Finance,Analyst,01-28-2015,56412.78,3.34,6567.95,Phoenix,EMP0147
+EMP0029,Alan Chavez DDS,Finance,Manager,2015-01-29 00:00:00,45405.14,2.5,2591.78,Los Angeles,EMP0072
+EMP0030,Jeremy Robbins,Sales,Specialist,2015-01-30 00:00:00,67952.29,3.09,7822.23,New York,EMP0105
+EMP0031,Catherine Leonard,HR,Specialist,2015-01-31 00:00:00,-57771.54,,-3417.33,Phoenix,EMP0142
+EMP0032,Anthony Shaw,Sales,Specialist,2015-02-01 00:00:00,74325.37,4.64,10253.33,Los Angeles,EMP0066
+EMP0033,Joshua Lewis,Finance,Consultant,2015-02-02 00:00:00,62491.81,4.69,3763.8,Phoenix,None
+EMP0034,Jonathan Daniels,Sales,Executive,2015-02-03 00:00:00,62584.52,2.89,6935.05,Chicago,EMP0094
+EMP0035,Kaitlyn James,Marketing,Executive,2015-02-04 00:00:00,51648.85,1.51,5526.52,Chicago,EMP0101
+EMP0036,Luis Young,Operations,Manager,2015-02-05 00:00:00,71421.75,1.34,8119.97,Chicago,EMP0081
+EMP0037,Catherine Warren,Finance,Executive,2015-02-06 00:00:00,31395.45,2.06,1720.48,New York,EMP0013
+EMP0038,Thomas Black,HR,Specialist,2015-02-07 00:00:00,29304.24,2.22,3499.78,New York,EMP0013
+EMP0039,Megan Bradshaw,Marketing,Analyst,2015-02-08 00:00:00,58297.84,3.11,5220.65,New York,EMP0144
+EMP0040,Jill Roberts,Operations,Consultant,2015-02-09 00:00:00,90168.82,3.33,5025.08,Los Angeles,EMP0070
+EMP0041,Mary Rodriguez,IT,Analyst,2015-02-10 00:00:00,157305.84,,17062.56,New York,None
+EMP0042,Erica Robinson,HR,Manager,2015-02-11 00:00:00,79397.85,4.92,8270.6,Phoenix,EMP0057
+EMP0043,Nathan Robbins,IT,Executive,02-12-2015,72629.31,3.94,4895.52,Chicago,EMP0111
+EMP0044,Katie Davis,Sales,Consultant,2015-02-13 00:00:00,73996.11,3.34,4716.11,Los Angeles,EMP0146
+EMP0045,Ryan Ball,HR,Consultant,2015-02-14 00:00:00,67053.83,1.6,4241.46,Chicago,EMP0098
+EMP0046,Sonya White,Finance,Executive,2015-02-15 00:00:00,-79960.16,2.72,-6300.74,Chicago,EMP0068
+EMP0047,Ashley Ortega,Finance,Executive,2015-02-16 00:00:00,68192.17,3.41,4809.51,Los Angeles,EMP0096
+EMP0048,Donald Ellis,Finance,Analyst,02-17-2015,39783.33,1.76,3413.88,New York,EMP0024
+EMP0049,Jessica Powell,Operations,Analyst,2015-02-18 00:00:00,70479.53,1.88,9668.38,New York,EMP0093
+EMP0050,Brian Parsons,Sales,Manager,2015-02-19 00:00:00,67457.73,2.09,6960.71,Phoenix,EMP0093
+EMP0051,Mr. Michael Harmon,IT,Coordinator,2015-02-20 00:00:00,62509.01,,6157.04,Chicago,EMP0021
+EMP0052,Jennifer Sharp,HR,Analyst,2015-02-21 00:00:00,67482.52,1.77,9691.67,Phoenix,EMP0145
+EMP0053,Jennifer Edwards,Operations,Coordinator,2015-02-22 00:00:00,65286.27,4.81,5616.59,Houston,EMP0133
+EMP0054,Amy Williams,Operations,Consultant,2015-02-23 00:00:00,39436.88,1.32,2428.64,Los Angeles,EMP0147
+EMP0055,Janet Hughes,Finance,Consultant,2015-02-24 00:00:00,67213.97,3.05,7528.21,Phoenix,EMP0061
+EMP0056,Judith Perez,Finance,Analyst,2015-02-25 00:00:00,75660.81,2.95,5545.97,phoenix,EMP0081
+EMP0057,Jennifer Palmer,Marketing,Consultant,2015-02-26 00:00:00,72928.27,3.15,3653.42,Phoenix,None
+EMP0058,Meghan Long,Finance,Analyst,2015-02-27 00:00:00,75700.57,1.37,8192.23,Phoenix,EMP0074
+EMP0059,Christopher Garcia,Marketing,Specialist,02-28-2015,77249.03,2.29,8118.46,Chicago,EMP0027
+EMP0060,Mark Mcguire,Finance,Consultant,2015-03-01 00:00:00,67181.32,1.17,8848.4,Houston,EMP0075
+EMP0061,Sean Brown,IT,Coordinator,2015-03-02 00:00:00,-158635.6,,-15877.65,Houston,EMP0150
+EMP0062,Ashley White,Operations,Executive,2015-03-03 00:00:00,59608.45,3.41,8427.8,houston,EMP0150
+EMP0063,Jonathan Lopez,Sales,Specialist,2015-03-04 00:00:00,52412.62,4.65,3135.66,houston,EMP0130
+EMP0064,Jasmine Carter,Operations,Consultant,2015-03-05 00:00:00,93873.61,2.1,12001.92,Phoenix,EMP0125
+EMP0065,Rhonda Jones,Finance,Executive,2015-03-06 00:00:00,36409.81,3.37,3431.69,Chicago,None
+EMP0066,Barbara Ellison,Marketing,Coordinator,2015-03-07 00:00:00,66861.07,3.92,3821.36,Houston,EMP0032
+EMP0067,Christopher Garza,Sales,Coordinator,03-08-2015,62634.67,4.48,7440.99,New York,EMP0142
+EMP0068,Jeffrey Allen,HR,Analyst,2015-03-09 00:00:00,56741.64,1.86,4723.49,New York,EMP0052
+EMP0069,Nathaniel Levine,HR,Analyst,2015-03-10 00:00:00,57372.42,4.8,4134.39,new york,EMP0019
+EMP0070,Heather Lawrence,Sales,Manager,2015-03-11 00:00:00,61903.33,1.2,7464.78,los angeles,EMP0149
+EMP0071,Carol Miller,Operations,Specialist,2015-03-12 00:00:00,90051.44,,7263.62,new york,EMP0010
+EMP0072,Sean Kirby,Finance,Coordinator,2015-03-13 00:00:00,30163.41,1.66,3212.85,Houston,EMP0119
+EMP0073,Sean Hicks,Sales,Executive,2015-03-14 00:00:00,62529.3,4.94,3533.84,New York,EMP0116
+EMP0074,Lisa Castaneda MD,Operations,Analyst,2015-03-15 00:00:00,69570.51,4.38,5159.69,Phoenix,EMP0116
+EMP0075,Mark Tran,Finance,Coordinator,2015-03-16 00:00:00,61124.3,3.65,6267.35,New York,EMP0002
+EMP0076,Dawn Johnson,HR,Coordinator,2015-03-17 00:00:00,-39519.59,4.28,-2430.69,Houston,EMP0146
+EMP0077,Steven Cannon,Sales,Coordinator,2015-03-18 00:00:00,51575.9,3.38,2657.11,Houston,EMP0121
+EMP0078,Shannon Johnson,Marketing,Consultant,2015-03-19 00:00:00,76231.68,1.65,7626.9,phoenix,EMP0092
+EMP0079,Joseph Daniels,Operations,Analyst,2015-03-20 00:00:00,77087.76,4.98,8479.57,Los Angeles,EMP0146
+EMP0080,William Kelly,Marketing,Coordinator,2015-03-21 00:00:00,59794.38,4.92,3338.71,New York,EMP0095
+EMP0081,Jeffrey Scott,Operations,Executive,2015-03-22 00:00:00,97117.24,,10321.39,Chicago,None
+EMP0082,Matthew Baker,IT,Analyst,2015-03-23 00:00:00,55182.41,2.1,7386.83,new york,EMP0064
+EMP0083,Anthony Mendoza,HR,Consultant,2015-03-24 00:00:00,58139.19,2.72,8218.71,Los Angeles,EMP0017
+EMP0084,Amanda Marshall,IT,Specialist,2015-03-25 00:00:00,67345.52,1.42,3673.27,Los Angeles,EMP0082
+EMP0085,Melissa Chen,Sales,Consultant,2015-03-26 00:00:00,58025.96,4.03,8363.9,Phoenix,EMP0100
+EMP0086,Amy Stark,Sales,Specialist,03-27-2015,51937.61,1.22,4263.62,Chicago,EMP0100
+EMP0087,Gregory King,IT,Consultant,2015-03-28 00:00:00,65323.63,1.07,6089.76,Los Angeles,EMP0140
+EMP0088,Gerald Baker,HR,Analyst,2015-03-29 00:00:00,61146.72,1.89,3554.31,Chicago,EMP0142
+EMP0089,Sara Rogers,HR,Coordinator,2015-03-30 00:00:00,81834.04,4.05,4865.41,chicago,None
+EMP0090,Charlene Wood,Sales,Specialist,03-31-2015,51259.12,1.96,7628.81,Los Angeles,EMP0126
+EMP0091,Ronnie Lara,Operations,Consultant,2015-04-01 00:00:00,-53302.94,,-6465.34,Phoenix,EMP0141
+EMP0092,Donna Jensen,HR,Consultant,2015-04-02 00:00:00,59544.7,3.24,4592.41,Chicago,EMP0046
+EMP0093,Justin Anderson,Operations,Executive,2015-04-03 00:00:00,49674.61,1.82,4151.96,Houston,EMP0146
+EMP0094,Gary Montgomery,HR,Executive,2015-04-04 00:00:00,95021.67,2.8,12308.5,Los Angeles,EMP0087
+EMP0095,Trevor Gonzales,HR,Consultant,2015-04-05 00:00:00,49342.85,1.1,3978.71,Phoenix,EMP0002
+EMP0096,Melinda Rocha MD,IT,Consultant,2015-04-06 00:00:00,71274.38,2.56,6294.63,Phoenix,EMP0111
+EMP0097,James Rios,Finance,Analyst,2015-04-07 00:00:00,49498.47,3.91,6022.17,Los Angeles,EMP0036
+EMP0098,Sierra Garcia,Operations,Coordinator,2015-04-08 00:00:00,57321.39,3.5,8280.6,Houston,EMP0036
+EMP0099,Donna Rhodes,Marketing,Specialist,2015-04-09 00:00:00,79123.73,3.57,8020.1,Phoenix,EMP0098
+EMP0100,Jay Arellano,HR,Coordinator,2015-04-10 00:00:00,29901.94,3.9,4442.38,New York,EMP0012
+EMP0101,Amanda Bryant,IT,Analyst,2015-04-11 00:00:00,76558.98,,9945.55,Houston,EMP0080
+EMP0102,Kristen Luna,Finance,Manager,2015-04-12 00:00:00,66142.47,4.76,9559.08,Houston,EMP0138
+EMP0103,Tonya Smith,Finance,Consultant,2015-04-13 00:00:00,64549.39,1.04,6369.99,Los Angeles,EMP0041
+EMP0104,Austin Benjamin,Sales,Specialist,2015-04-14 00:00:00,22306.53,2.74,1356.75,Houston,EMP0035
+EMP0105,Martin Stout,Operations,Specialist,2015-04-15 00:00:00,52634.54,1.38,3267.22,Chicago,None
+EMP0106,Scott David,IT,Analyst,2015-04-16 00:00:00,-72453.32,3.33,-5437.62,Houston,EMP0012
+EMP0107,Phillip Best,Finance,Executive,2015-04-17 00:00:00,46896.97,4.17,5155.13,Houston,EMP0001
+EMP0108,Cindy Porter,Sales,Analyst,2015-04-18 00:00:00,74219.46,4.98,6065.48,Los Angeles,EMP0090
+EMP0109,Colin Gregory,Operations,Coordinator,2015-04-19 00:00:00,49119.54,4.36,7046.58,Los Angeles,EMP0024
+EMP0110,Breanna Norton,Finance,Specialist,2015-04-20 00:00:00,96698.87,4.64,5078.31,Houston,EMP0024
+EMP0111,Zachary Floyd,Sales,Manager,04-21-2015,41060.91,,3276.36,Los Angeles,EMP0046
+EMP0112,Anna Carroll,Finance,Manager,2015-04-22 00:00:00,55378.19,3.9,3821.84,Phoenix,EMP0052
+EMP0113,Samantha Cannon,Sales,Manager,2015-04-23 00:00:00,36297.16,2.45,2639.75,Chicago,None
+EMP0114,Joanne Miller,IT,Consultant,2015-04-24 00:00:00,59358.02,3.15,8615.29,Chicago,EMP0140
+EMP0115,Valerie Terrell,Operations,Specialist,2015-04-25 00:00:00,49500.34,2.03,5143.44,Los Angeles,EMP0081
+EMP0116,Jordan Clark,Operations,Specialist,2015-04-26 00:00:00,30556.03,2.15,3228.71,Los Angeles,EMP0127
+EMP0117,James Steele,Marketing,Consultant,2015-04-27 00:00:00,50318.44,3.26,7433.8,New York,EMP0030
+EMP0118,Peter Weaver,Finance,Consultant,2015-04-28 00:00:00,40262.8,3.32,3620.41,new york,EMP0107
+EMP0119,James Ortega,HR,Coordinator,2015-04-29 00:00:00,51477.32,1.31,5749.73,Los Angeles,EMP0133
+EMP0120,Nancy Santos,Sales,Executive,2015-04-30 00:00:00,43325.69,3.77,4244.23,Chicago,EMP0102
+EMP0121,Ricardo Hudson,Marketing,Executive,2015-05-01 00:00:00,-108636.42,,-13599.21,Houston,EMP0009
+EMP0122,Benjamin Suarez,Marketing,Specialist,05-02-2015,37970.04,3.39,4869.39,Houston,EMP0009
+EMP0123,Charles Murillo,Finance,Analyst,2015-05-03 00:00:00,50180.73,3.48,3122.95,Phoenix,EMP0029
+EMP0124,Hayley Lee,Operations,Manager,2015-05-04 00:00:00,44394.17,4.73,3259.46,Houston,EMP0123
+EMP0125,Dr. Brittany Jackson,IT,Coordinator,2015-05-05 00:00:00,61267.94,4.38,6183.79,New York,EMP0126
+EMP0126,Tamara Pennington,Sales,Analyst,2015-05-06 00:00:00,61123.2,1.13,5298.71,Phoenix,EMP0140
+EMP0127,Samuel Mckee,HR,Coordinator,2015-05-07 00:00:00,47674.58,2.23,3418.53,New York,EMP0059
+EMP0128,Charles Jackson,HR,Coordinator,2015-05-08 00:00:00,54489.15,2.49,7452.29,Phoenix,EMP0045
+EMP0129,Christine Gonzalez,Marketing,Specialist,05-09-2015,90816.14,2.72,8286.82,New York,None
+EMP0130,Dana Alexander,HR,Analyst,05-10-2015,44840.17,2.26,5080.63,Los Angeles,EMP0021
+EMP0131,Adrian Stanley,Finance,Coordinator,2015-05-11 00:00:00,55721.45,,6202.01,Phoenix,EMP0014
+EMP0132,Carl Jones,IT,Analyst,2015-05-12 00:00:00,79129.76,3.93,8582.53,Houston,EMP0119
+EMP0133,Christopher Rivera,HR,Consultant,2015-05-13 00:00:00,78538.72,1.07,7796.96,Phoenix,EMP0119
+EMP0134,Shelby Diaz,Operations,Manager,2015-05-14 00:00:00,54394.08,2.24,4617.55,Phoenix,EMP0119
+EMP0135,Susan Sexton,Sales,Coordinator,2015-05-15 00:00:00,39260.03,1.29,3045.02,phoenix,EMP0105
+EMP0136,Christopher Dixon,Finance,Specialist,2015-05-16 00:00:00,-66302.03,4.97,-3356.45,Houston,EMP0097
+EMP0137,Stephanie Anderson,Operations,Manager,2015-05-17 00:00:00,73147.74,2.77,7954.14,Phoenix,None
+EMP0138,Jeremy Carroll,IT,Manager,2015-05-18 00:00:00,53071.96,3.48,7119.57,Phoenix,EMP0077
+EMP0139,Gina Taylor,HR,Executive,2015-05-19 00:00:00,55118.58,4.48,6674.56,Chicago,EMP0060
+EMP0140,Natalie Cruz,Operations,Specialist,2015-05-20 00:00:00,49084.4,1.51,5559.9,Chicago,EMP0027
+EMP0141,Timothy Pennington,Finance,Consultant,05-21-2015,189955.4,,13627.21,Chicago,EMP0041
+EMP0142,Loretta Smith,IT,Consultant,2015-05-22 00:00:00,71283.35,2.46,10253.77,Chicago,EMP0005
+EMP0143,Gina Cook,Marketing,Consultant,2015-05-23 00:00:00,53082.93,2.56,5433.55,Houston,EMP0073
+EMP0144,Andrew Carter,Marketing,Analyst,2015-05-24 00:00:00,54247.5,3.35,7150.14,Phoenix,EMP0099
+EMP0145,Ashley Torres,Marketing,Executive,2015-05-25 00:00:00,62368.47,1.07,3525.69,Phoenix,EMP0072
+EMP0146,Jennifer Curtis,HR,Specialist,2015-05-26 00:00:00,55230.57,3.54,4120.75,New York,EMP0072
+EMP0147,Earl Roberts,Operations,Executive,2015-05-27 00:00:00,75331.24,1.07,8486.2,Chicago,EMP0055
+EMP0148,Bobby Moran,Operations,Executive,2015-05-28 00:00:00,53432.92,3.67,7034.43,Phoenix,EMP0126
+EMP0149,Joshua Jackson,Operations,Coordinator,2015-05-29 00:00:00,50254.21,3.66,4981.12,Los Angeles,EMP0043
+EMP0150,Ashley Smith,IT,Specialist,2015-05-30 00:00:00,49302.55,2.05,4465.34,Phoenix,EMP0093

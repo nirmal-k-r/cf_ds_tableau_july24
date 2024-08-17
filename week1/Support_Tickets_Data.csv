@@ -1,0 +1,301 @@
+Ticket ID,Date Opened,Date Closed,Issue Type,Priority,Resolution Time (Hours),Customer Satisfaction (1-5),Agent Name,Customer ID,Customer Name
+TKT000,2023-01-01 00:00:00,2023-01-15,Software,Low,35.48,1.0,Kevin Johnson,b0c5db08,Cathy Torres
+TKT0002,2023-01-02 00:00:00,2023-01-05,Network,Low,42.73,4.0,William Miller,b0c5db08,Timothy Perkins
+TKT0003,2023-01-03 00:00:00,2023-01-09,Other,Medium,59.35,3.0,William Miller,a49317c5,William Young
+TKT0004,2023-01-04 00:00:00,2023-01-14,Hardware,Low,42.76,1.0,Kevin Johnson,66c04953,Michelle Lee
+TKT0005,01-05-2023,2023-01-06,Network,Medium,56.96,1.0,William Miller,cc5fa8f6,William Smith
+TKT0006,2023-01-06 00:00:00,2023-01-07,Account,Urgent,56.17,2.0,Ashley Roberts,a9829a1f,Michael Kelley
+TKT0007,2023-01-07 00:00:00,2023-01-11,Network,Low,43.38,2.0,Paula Kennedy,8d63f5aa,Michael Short
+TKT0008,2023-01-08 00:00:00,2023-01-09,Network,High,34.9,2.0,Danielle Robinson,5468b7c6,Heather James
+TKT0009,2023-01-09 00:00:00,,Hardware,Low,,,Shawn Dixon,,Brian Rodriguez
+TKT0010,2023-01-10 00:00:00,2023-01-22,Network,Medium,32.75,4.0,Shawn Dixon,e6c678be,Mary Nelson
+TKT0011,2023-01-11 00:00:00,,Hardware,Low,,,Ashley Morgan,a266cd2d,Melissa Leblanc
+TKT0012,2023-01-12 00:00:00,2023-01-23,Network,Low,29.24,2.0,William Miller,295b4733,Alexander Hernandez
+TKT0013,2023-01-13 00:00:00,2023-01-16,Other,Low,56.4,5.0,Danielle Robinson,cad40d96,John Melendez
+TKT0014,2023-01-14 00:00:00,2023-01-16,Software,Medium,47.16,4.0,Ashley Roberts,4b1d8564,Brittany Morgan
+TKT0015,2023-01-15 00:00:00,2023-01-20,Other,High,49.41,4.0,Ashley Roberts,c19d8413,Raymond Lyons
+TKT0016,2023-01-16 00:00:00,2023-01-23,Hardware,Urgent,50.72,2.0,Joshua Avila,5b7dc85b,Joshua Frank
+TKT0017,2023-01-17 00:00:00,2023-01-20,Hardware,Medium,54.84,3.0,Ashley Morgan,,Debra Trujillo
+TKT0018,2023-01-18 00:00:00,2023-02-01,Software,Low,52.72,2.0,Danielle Robinson,c2d29ed1,Ian Sanders
+TKT0019,2023-01-19 00:00:00,2023-01-29,Account,Low,51.26,1.0,William Miller,edfde14e,Claudia Thompson
+TKT0020,2023-01-20 00:00:00,2023-02-02,Other,Low,53.92,2.0,Eric Stephens,30fa13c0,Matthew Keller
+TKT0021,01-21-2023,2023-01-28,Hardware,Urgent,49.92,1.0,Ashley Morgan,91b70dc3,Aaron Scott
+TKT0022,2023-01-22 00:00:00,,Hardware,Urgent,,,William Miller,2e391f59,Ann Sanchez
+TKT0023,2023-01-23 00:00:00,,Other,High,,,Eric Stephens,903ee50c,Stephanie Miller
+TKT0024,2023-01-24 00:00:00,,Hardware,Medium,,,Ashley Morgan,9c8d0cd2,Matthew Jones
+TKT0025,2023-01-25 00:00:00,,Account,Medium,,,Ashley Morgan,,Debra Moore
+TKT0026,2023-01-26 00:00:00,,Account,Medium,,,Ashley Morgan,111b3869,Stephanie Diaz
+TKT0027,2023-01-27 00:00:00,2023-02-08,Network,Low,54.2,2.0,Ashley Roberts,111b3869,Amy Leonard
+TKT0028,2023-01-28 00:00:00,,Account,High,,,Kevin Johnson,e6bd5e49,Gregory Ryan
+TKT0029,2023-01-29 00:00:00,2023-02-02,Hardware,High,39.94,3.0,Shawn Dixon,be099151,Phillip Jones
+TKT0030,2023-01-30 00:00:00,2023-02-13,Software,Low,21.45,4.0,Shawn Dixon,e94ed877,Ronald Long
+TKT0031,2023-01-31 00:00:00,2023-02-09,Software,Urgent,34.02,5.0,Kevin Johnson,1ba2f103,Ruben Hoover
+TKT0032,2023-02-01 00:00:00,,Other,High,,,William Miller,349d12c0,Melanie Phillips
+TKT0033,2023-02-02 00:00:00,2023-02-08,Network,High,30.87,3.0,Daniel Taylor,,Brandon Barber
+TKT0034,2023-02-03 00:00:00,2023-02-06,Network,Low,65.33,5.0,Eric Stephens,9ddc3dde,Suzanne Aguirre
+TKT0035,2023-02-04 00:00:00,2023-02-13,Hardware,High,53.76,5.0,Kevin Johnson,493e1478,Annette Cooke
+TKT0036,2023-02-05 00:00:00,2023-02-15,Network,Urgent,39.18,3.0,Paula Kennedy,511ec4e3,Larry Callahan
+TKT0037,2023-02-06 00:00:00,2023-02-14,Software,Urgent,55.99,3.0,Daniel Taylor,d61f1982,Angela Malone
+TKT0038,2023-02-07 00:00:00,,Other,Low,,,Paula Kennedy,000dab55,Anthony Duncan
+TKT0039,2023-02-08 00:00:00,2023-02-13,Software,Medium,57.94,1.0,Kevin Johnson,073bf48e,Brooke Arnold
+TKT0040,2023-02-09 00:00:00,2023-02-16,Other,High,55.42,5.0,Joshua Avila,d00f2050,Jeffrey Hendrix
+TKT0041,2023-02-10 00:00:00,2023-02-22,Account,Urgent,50.07,3.0,Kevin Johnson,,Kaitlyn Donovan
+TKT0042,2023-02-11 00:00:00,2023-02-25,Other,Medium,29.52,4.0,Joshua Avila,37696856,Gloria Valentine
+TKT0043,2023-02-12 00:00:00,2023-02-13,Software,Low,24.7,5.0,Eric Stephens,da65f541,Brett Riley
+TKT0044,2023-02-13 00:00:00,2023-02-17,Network,High,46.55,5.0,Ashley Morgan,3cdc46d3,Natalie Parker
+TKT0045,2023-02-14 00:00:00,2023-02-24,Account,Low,49.08,4.0,Daniel Taylor,62ff2524,Mackenzie Page
+TKT0046,2023-02-15 00:00:00,2023-02-26,Hardware,High,55.59,1.0,William Miller,cf7f4c1d,Kenneth Williams
+TKT0047,2023-02-16 00:00:00,2023-02-25,Hardware,Urgent,40.68,1.0,Daniel Taylor,0253fa98,Carl Gregory Jr.
+TKT0048,2023-02-17 00:00:00,2023-03-01,Network,High,56.78,3.0,William Miller,84db6911,James Cook
+TKT0049,2023-02-18 00:00:00,2023-02-27,Hardware,High,54.77,4.0,Paula Kennedy,,Jennifer Robertson
+TKT0050,2023-02-19 00:00:00,,Network,High,,,Ashley Roberts,7b2f9f39,Eileen Flynn
+TKT0051,02-20-2023,2023-03-04,Network,High,53.51,4.0,William Miller,043046c2,Gregory Green
+TKT0052,2023-02-21 00:00:00,2023-03-02,Network,Medium,67.01,1.0,Kevin Johnson,043046c2,David Brock
+TKT0053,2023-02-22 00:00:00,2023-02-28,Account,Urgent,62.63,4.0,Shawn Dixon,e41a98d8,Valerie Villegas
+TKT0054,2023-02-23 00:00:00,,Hardware,Urgent,,,Daniel Taylor,acf91b22,James Hurst
+TKT0055,2023-02-24 00:00:00,2023-03-02,Hardware,Low,70.51,4.0,Joshua Avila,6c80f937,Tyler Davis
+TKT0056,2023-02-25 00:00:00,2023-03-08,Hardware,Urgent,42.68,1.0,Danielle Robinson,9a58a713,Danielle Parker
+TKT0057,2023-02-26 00:00:00,2023-03-06,Hardware,High,41.13,2.0,Ashley Morgan,,Anna Mitchell
+TKT0058,2023-02-27 00:00:00,,Hardware,High,,,Ashley Roberts,03d80265,Donna Matthews
+TKT0059,2023-02-28 00:00:00,2023-03-06,Hardware,Urgent,58.67,3.0,Paula Kennedy,f5290408,Joseph Robbins
+TKT0060,2023-03-01 00:00:00,2023-03-02,Other,Medium,60.42,2.0,Shawn Dixon,e6c33dab,Kendra Hamilton
+TKT0061,2023-03-02 00:00:00,2023-03-11,Account,High,34.57,4.0,Eric Stephens,dbf656d9,Michael Brown
+TKT0062,2023-03-03 00:00:00,2023-03-08,Hardware,High,44.56,4.0,Joshua Avila,9aaccf54,Jennifer Martinez
+TKT0063,2023-03-04 00:00:00,2023-03-10,Software,High,41.71,3.0,Ashley Roberts,d2c50a1c,Michael Todd
+TKT0064,2023-03-05 00:00:00,,Software,Urgent,,,Daniel Taylor,f7108127,Justin Perry
+TKT0065,2023-03-06 00:00:00,,Hardware,High,,,Paula Kennedy,,Charles Copeland
+TKT0066,2023-03-07 00:00:00,2023-03-19,Account,High,67.44,5.0,Ashley Morgan,42f98b3f,Melissa Williams
+TKT0067,2023-03-08 00:00:00,2023-03-17,Other,Medium,40.43,4.0,Joshua Avila,7b665bc4,Todd Rosales
+TKT0068,2023-03-09 00:00:00,,Hardware,Low,,,Paula Kennedy,c4e98aa0,Jeffrey Crosby
+TKT0069,2023-03-10 00:00:00,2023-03-21,Hardware,High,55.73,1.0,William Miller,4e270969,Donald Deleon
+TKT0070,2023-03-11 00:00:00,2023-03-21,Other,High,37.18,5.0,Paula Kennedy,080da6c0,Heather Everett
+TKT0071,2023-03-12 00:00:00,2023-03-23,Hardware,Urgent,26.62,3.0,William Miller,9bafc307,Taylor Krause
+TKT0072,2023-03-13 00:00:00,2023-03-14,Hardware,Low,46.56,3.0,William Miller,b0da8ac8,Tammy Carlson
+TKT0073,2023-03-14 00:00:00,2023-03-24,Software,High,55.25,2.0,Danielle Robinson,,Harold Farmer
+TKT0074,2023-03-15 00:00:00,2023-03-23,Other,Medium,21.15,1.0,Eric Stephens,dcb6e6b4,Daniel Davis
+TKT0075,2023-03-16 00:00:00,,Hardware,Medium,,,Ashley Roberts,d944f077,Jennifer Espinoza
+TKT0076,03-17-2023,2023-03-20,Other,Low,44.53,3.0,Ashley Roberts,4ff95f6f,Maria Wolfe
+TKT0077,2023-03-18 00:00:00,2023-03-28,Network,High,55.31,4.0,Daniel Taylor,4ff95f6f,Carla Wright
+TKT0078,03-19-2023,2023-03-23,Hardware,Medium,44.56,5.0,Ashley Morgan,8a909043,Susan Jones
+TKT0079,03-20-2023,2023-03-22,Hardware,Urgent,38.11,3.0,Eric Stephens,ae70bdc7,Dr. Amanda Cruz
+TKT0080,2023-03-21 00:00:00,2023-03-23,Software,Low,64.12,1.0,Joshua Avila,a7dbf683,Shannon Benjamin
+TKT0081,2023-03-22 00:00:00,2023-03-27,Account,Medium,48.43,1.0,Ashley Morgan,,Paul Booth
+TKT0082,2023-03-23 00:00:00,2023-03-24,Network,High,51.38,3.0,Ashley Morgan,99711fcb,Donna Cole
+TKT0083,2023-03-24 00:00:00,2023-03-30,Other,High,59.29,5.0,Eric Stephens,e72c442c,Brandy Russo
+TKT0084,2023-03-25 00:00:00,,Hardware,Urgent,,,Ashley Morgan,8ac5fd66,Jasmine Jackson
+TKT0085,2023-03-26 00:00:00,2023-04-08,Hardware,Low,44.97,3.0,Danielle Robinson,890efbcc,Jennifer Garrett
+TKT0086,2023-03-27 00:00:00,2023-04-06,Account,Low,50.59,4.0,Joshua Avila,0494d3bc,Jacqueline Baker
+TKT0087,2023-03-28 00:00:00,2023-04-02,Other,Medium,43.96,2.0,Danielle Robinson,050ac4db,Elizabeth Riley
+TKT0088,2023-03-29 00:00:00,2023-04-05,Software,Medium,53.74,5.0,Shawn Dixon,08f36e48,Russell Meadows
+TKT0089,2023-03-30 00:00:00,2023-04-03,Software,Low,47.39,4.0,Daniel Taylor,,Angela Ross
+TKT0090,2023-03-31 00:00:00,2023-04-02,Other,Low,79.64,5.0,Daniel Taylor,5a13f2d1,Michael Macdonald
+TKT0091,2023-04-01 00:00:00,,Network,High,,,Joshua Avila,23b4ff54,Amy Chavez
+TKT0092,2023-04-02 00:00:00,2023-04-05,Hardware,High,59.58,4.0,Paula Kennedy,45a8bf03,Elizabeth Whitney
+TKT0093,2023-04-03 00:00:00,2023-04-07,Other,High,52.85,5.0,Ashley Roberts,bd92f72c,Allison Robinson
+TKT0094,2023-04-04 00:00:00,,Other,Urgent,,,Danielle Robinson,98de8f0a,Linda Conley
+TKT0095,2023-04-05 00:00:00,2023-04-12,Account,Medium,63.71,3.0,William Miller,c0e08806,Richard Reed
+TKT0096,2023-04-06 00:00:00,,Account,High,,,Kevin Johnson,855edb84,Patrick Anderson
+TKT0097,04-07-2023,2023-04-14,Other,High,35.55,5.0,Danielle Robinson,,Dr. Amanda Robertson
+TKT0098,2023-04-08 00:00:00,2023-04-10,Other,Medium,24.76,2.0,Kevin Johnson,30169e98,Derek Edwards
+TKT0099,04-09-2023,,Network,Medium,,,Paula Kennedy,a61b14f5,Tom Baker
+TKT0100,2023-04-10 00:00:00,,Network,Urgent,,,Shawn Dixon,04a3ab3f,Ruth Harding
+TKT0101,2023-04-11 00:00:00,2023-04-16,Account,Urgent,54.91,3.0,Eric Stephens,50caeff8,Candice Rodriguez
+TKT0102,2023-04-12 00:00:00,2023-04-20,Software,Medium,51.65,2.0,Ashley Roberts,50caeff8,Sharon Walker
+TKT0103,2023-04-13 00:00:00,2023-04-17,Account,Low,56.56,2.0,Paula Kennedy,9a5a132b,Wendy Johnson
+TKT0104,04-14-2023,2023-04-23,Software,Medium,56.04,1.0,Ashley Morgan,1cd668f4,Dustin Fitzgerald
+TKT0105,2023-04-15 00:00:00,2023-04-16,Other,Low,41.45,5.0,Ashley Morgan,,Brian Deleon
+TKT0106,2023-04-16 00:00:00,,Hardware,Medium,,,Shawn Dixon,a237b462,Tammy Bowen
+TKT0107,2023-04-17 00:00:00,2023-04-25,Other,Low,44.22,3.0,Kevin Johnson,f02c2d18,Ann Luna
+TKT0108,2023-04-18 00:00:00,2023-04-23,Other,Low,46.58,3.0,Ashley Roberts,4c1372cd,Matthew Warren
+TKT0109,04-19-2023,2023-04-29,Network,High,52.92,3.0,Paula Kennedy,36b64c3b,Jorge Murray
+TKT0110,2023-04-20 00:00:00,2023-04-21,Other,High,59.25,3.0,Eric Stephens,d4f00698,Jeffrey Grant
+TKT0111,2023-04-21 00:00:00,,Hardware,Urgent,,,William Miller,b8c4cc77,Mrs. Robin Gonzalez
+TKT0112,2023-04-22 00:00:00,,Hardware,Urgent,,,Ashley Roberts,b567bf90,Christine Stafford
+TKT0113,2023-04-23 00:00:00,,Hardware,Low,,,William Miller,,Mark Case
+TKT0114,2023-04-24 00:00:00,2023-05-01,Network,Low,67.62,3.0,Shawn Dixon,d7675d0d,Cassandra Jones
+TKT0115,2023-04-25 00:00:00,2023-04-26,Network,Low,35.71,4.0,Eric Stephens,1a54ddfa,Suzanne Perez
+TKT0116,2023-04-26 00:00:00,2023-05-07,Account,High,52.11,5.0,Eric Stephens,45519969,John Walter
+TKT0117,2023-04-27 00:00:00,2023-05-06,Network,Urgent,68.15,2.0,Paula Kennedy,119afbbe,Timothy Richardson
+TKT0118,2023-04-28 00:00:00,2023-05-09,Other,High,16.55,4.0,Kevin Johnson,d6c03636,Richard Adams
+TKT0119,2023-04-29 00:00:00,2023-05-05,Other,Medium,48.47,1.0,William Miller,17a86774,Luis Olson
+TKT0120,2023-04-30 00:00:00,2023-05-14,Software,Low,65.6,3.0,Ashley Roberts,41f61999,Shannon Luna
+TKT0121,2023-05-01 00:00:00,2023-05-09,Account,Medium,46.26,1.0,Eric Stephens,,Heather Davis
+TKT0122,2023-05-02 00:00:00,2023-05-12,Hardware,Medium,20.35,3.0,Daniel Taylor,5b6855f9,Catherine Williams
+TKT0123,2023-05-03 00:00:00,2023-05-15,Network,High,46.23,5.0,Shawn Dixon,27274614,James Harris
+TKT0124,2023-05-04 00:00:00,2023-05-07,Other,Low,41.26,4.0,Paula Kennedy,51f37c6b,Andrew Wright
+TKT0125,2023-05-05 00:00:00,2023-05-15,Software,Low,43.81,1.0,Paula Kennedy,a1660edb,Mr. Timothy Osborn
+TKT0126,2023-05-06 00:00:00,2023-05-18,Hardware,Urgent,47.1,5.0,Ashley Roberts,550de4fa,Ashley Jones
+TKT0127,2023-05-07 00:00:00,2023-05-12,Software,Low,53.58,2.0,Ashley Roberts,550de4fa,Jill Carter
+TKT0128,2023-05-08 00:00:00,2023-05-14,Hardware,Medium,49.84,2.0,Paula Kennedy,d2b14c95,Brooke Chambers
+TKT0129,2023-05-09 00:00:00,2023-05-12,Hardware,Urgent,43.08,3.0,Danielle Robinson,,Shane Green
+TKT0130,2023-05-10 00:00:00,2023-05-20,Other,High,59.44,5.0,Ashley Roberts,beea2ef5,Julie Woodard
+TKT0131,2023-05-11 00:00:00,2023-05-13,Hardware,Low,36.29,4.0,Daniel Taylor,d722ac42,Virginia Gutierrez
+TKT0132,2023-05-12 00:00:00,2023-05-15,Hardware,Urgent,32.26,4.0,Joshua Avila,2db4adcc,Rachel Hansen
+TKT0133,05-13-2023,2023-05-18,Hardware,Low,30.03,1.0,Ashley Morgan,2c92c8b9,Jeremy Smith
+TKT0134,2023-05-14 00:00:00,,Other,Urgent,,,Daniel Taylor,8f38d435,Shane Johnson
+TKT0135,2023-05-15 00:00:00,2023-05-19,Account,Low,52.34,2.0,Shawn Dixon,4c0c5440,Jessica Richard
+TKT0136,2023-05-16 00:00:00,2023-05-17,Other,Low,38.51,5.0,William Miller,41c4accf,Melissa Hutchinson
+TKT0137,2023-05-17 00:00:00,2023-05-30,Other,Low,50.96,4.0,Danielle Robinson,,Dwayne Graham
+TKT0138,2023-05-18 00:00:00,2023-05-23,Hardware,Low,40.75,4.0,Daniel Taylor,bd0b85c7,Mrs. Christy Goodman
+TKT0139,2023-05-19 00:00:00,2023-05-27,Network,Urgent,69.7,2.0,Daniel Taylor,1ac89b76,Brandon Brown
+TKT0140,2023-05-20 00:00:00,2023-05-21,Hardware,High,53.58,3.0,Joshua Avila,945b4f9e,Melissa Elliott
+TKT0141,2023-05-21 00:00:00,2023-05-26,Network,Low,40.18,3.0,Danielle Robinson,9dd2f381,Carly Miller
+TKT0142,05-22-2023,2023-05-23,Network,Medium,49.55,3.0,Ashley Roberts,b63d9b63,Bobby Mclaughlin
+TKT0143,2023-05-23 00:00:00,2023-06-04,Software,High,43.78,4.0,Eric Stephens,02052603,Marilyn Miller
+TKT0144,2023-05-24 00:00:00,,Account,High,,,Shawn Dixon,3a11c776,Patrick Williams
+TKT0145,2023-05-25 00:00:00,2023-06-06,Software,Urgent,35.52,1.0,William Miller,,Brooke Moore
+TKT0146,2023-05-26 00:00:00,2023-05-30,Network,Low,48.79,1.0,Joshua Avila,e7a158d9,Connie Smith
+TKT0147,2023-05-27 00:00:00,2023-05-29,Network,Medium,40.34,4.0,Ashley Morgan,c7b2dc3c,Melanie Hughes
+TKT0148,2023-05-28 00:00:00,,Other,Medium,,,William Miller,bff3604d,Tracy Medina
+TKT0149,2023-05-29 00:00:00,2023-05-30,Network,High,28.41,3.0,William Miller,981fb490,Brandon Andrade
+TKT0150,2023-05-30 00:00:00,2023-06-04,Other,Medium,27.81,4.0,Danielle Robinson,d454ca21,Kenneth Moore
+TKT0151,2023-05-31 00:00:00,2023-06-11,Other,Low,46.8,4.0,Ashley Roberts,f29c80fb,Sandra Moore
+TKT0152,2023-06-01 00:00:00,2023-06-09,Software,Urgent,38.21,4.0,Daniel Taylor,f29c80fb,Daniel Weeks
+TKT0153,2023-06-02 00:00:00,2023-06-16,Other,High,45.48,1.0,Joshua Avila,,Paul Owens
+TKT0154,2023-06-03 00:00:00,2023-06-15,Network,Medium,24.49,3.0,Shawn Dixon,c3e8d3d1,Ryan Nielsen
+TKT0155,2023-06-04 00:00:00,2023-06-05,Other,High,39.94,1.0,Shawn Dixon,82319251,Nicole Sandoval
+TKT0156,2023-06-05 00:00:00,2023-06-11,Network,Medium,64.41,5.0,Ashley Morgan,27a04f54,Jacob Brown
+TKT0157,2023-06-06 00:00:00,2023-06-13,Account,Medium,53.37,1.0,Shawn Dixon,ae297d95,Travis Downs
+TKT0158,2023-06-07 00:00:00,,Hardware,High,,,Eric Stephens,ea4165e7,Thomas Davis
+TKT0159,2023-06-08 00:00:00,2023-06-19,Other,Low,61.93,2.0,William Miller,3893d68f,Stephanie Black
+TKT0160,2023-06-09 00:00:00,2023-06-17,Hardware,Medium,25.09,3.0,Paula Kennedy,72d5f50e,Dennis Nelson
+TKT0161,2023-06-10 00:00:00,2023-06-23,Software,Urgent,47.7,2.0,Kevin Johnson,,Christopher Hodges
+TKT0162,2023-06-11 00:00:00,,Hardware,Urgent,,,Shawn Dixon,1beedbbb,Karen Gentry
+TKT0163,2023-06-12 00:00:00,2023-06-26,Network,Urgent,37.44,3.0,Ashley Morgan,ff992293,Courtney Reed
+TKT0164,2023-06-13 00:00:00,2023-06-23,Hardware,High,33.83,5.0,Joshua Avila,5d880b8b,John Fernandez
+TKT0165,2023-06-14 00:00:00,2023-06-18,Software,Urgent,39.19,4.0,Kevin Johnson,63faf5ef,Shannon Hernandez
+TKT0166,06-15-2023,2023-06-26,Account,High,38.08,2.0,Kevin Johnson,6853aec6,Chelsea Ortega
+TKT0167,06-16-2023,2023-06-23,Software,Medium,36.14,3.0,Joshua Avila,fc1d573a,John Rogers
+TKT0168,2023-06-17 00:00:00,2023-06-29,Account,Low,63.96,5.0,Eric Stephens,f8e37c19,Christopher Barber
+TKT0169,2023-06-18 00:00:00,2023-06-26,Hardware,High,48.15,5.0,Daniel Taylor,,Melinda Roberts
+TKT0170,2023-06-19 00:00:00,2023-06-20,Hardware,Low,60.58,5.0,Shawn Dixon,e6853d4d,Mr. Jonathan Bryant
+TKT0171,2023-06-20 00:00:00,2023-07-01,Hardware,Medium,43.58,3.0,Kevin Johnson,12cf26a0,Devon Romero
+TKT0172,2023-06-21 00:00:00,2023-07-04,Software,Low,59.38,1.0,William Miller,ae7d2c83,Cassandra Strickland
+TKT0173,06-22-2023,2023-06-28,Hardware,Low,39.01,5.0,Ashley Morgan,a1a58da0,Jason Manning
+TKT0174,2023-06-23 00:00:00,2023-06-25,Other,Medium,46.86,5.0,William Miller,7562fc16,Lindsay Maxwell
+TKT0175,06-24-2023,2023-06-27,Hardware,Medium,51.55,5.0,Eric Stephens,60335ede,Lauren Schwartz
+TKT0176,2023-06-25 00:00:00,2023-07-06,Software,Urgent,35.71,5.0,Kevin Johnson,,David Thomas
+TKT0177,2023-06-26 00:00:00,2023-06-29,Network,Low,52.56,1.0,Daniel Taylor,,Jaime Ramsey
+TKT0178,2023-06-27 00:00:00,,Network,High,,,Joshua Avila,2c51cf3f,Michelle Camacho
+TKT0179,2023-06-28 00:00:00,2023-07-03,Other,Urgent,48.34,1.0,Kevin Johnson,e28adc40,Linda Anderson
+TKT0180,2023-06-29 00:00:00,2023-07-06,Network,High,38.56,2.0,Paula Kennedy,688084ca,Matthew Arellano
+TKT0181,2023-06-30 00:00:00,2023-07-08,Software,High,54.64,1.0,Paula Kennedy,2bd9366c,Lisa Jones
+TKT0182,2023-07-01 00:00:00,2023-07-13,Software,Low,41.21,1.0,Shawn Dixon,072a2f49,Joshua Bailey
+TKT0183,2023-07-02 00:00:00,2023-07-04,Software,Urgent,45.21,2.0,Eric Stephens,ad965039,Douglas Johnson
+TKT0184,2023-07-03 00:00:00,2023-07-11,Hardware,Medium,29.02,5.0,Paula Kennedy,76f64a7d,Patricia Burton
+TKT0185,2023-07-04 00:00:00,2023-07-17,Other,Medium,54.8,1.0,Ashley Roberts,,David Wallace
+TKT0186,2023-07-05 00:00:00,2023-07-10,Network,Medium,63.0,1.0,Daniel Taylor,1adb8d4f,Lisa Smith
+TKT0187,2023-07-06 00:00:00,2023-07-11,Hardware,Urgent,55.01,3.0,Ashley Morgan,a9c1ed9c,Janice Mathis
+TKT0188,07-07-2023,,Other,High,,,Ashley Morgan,a1a858cb,Eric Hammond
+TKT0189,2023-07-08 00:00:00,2023-07-17,Hardware,Urgent,38.22,5.0,William Miller,87658d23,Mary Shepherd DVM
+TKT0190,2023-07-09 00:00:00,2023-07-13,Other,Medium,59.95,1.0,Joshua Avila,d27972f4,Katelyn Lopez
+TKT0191,07-10-2023,,Network,Low,,,Kevin Johnson,dfc77fec,Robert Kim
+TKT0192,2023-07-11 00:00:00,2023-07-15,Network,Medium,33.03,2.0,William Miller,f457d5e2,Angela Lowe
+TKT0193,07-12-2023,2023-07-23,Network,High,42.08,5.0,William Miller,,Ryan Garcia
+TKT0194,2023-07-13 00:00:00,,Network,Medium,,,Ashley Roberts,58a410a3,Jeanette Johnston
+TKT0195,2023-07-14 00:00:00,2023-07-18,Software,Medium,45.87,5.0,Kevin Johnson,e1e989e1,Samantha Castro
+TKT0196,2023-07-15 00:00:00,2023-07-25,Other,High,43.82,3.0,Daniel Taylor,f092ee82,Leslie Campbell
+TKT0197,2023-07-16 00:00:00,2023-07-17,Other,Urgent,53.51,4.0,Kevin Johnson,7cd5d618,Donna Hartman
+TKT0198,2023-07-17 00:00:00,2023-07-29,Software,Medium,26.44,4.0,Danielle Robinson,c5bb80a2,Kimberly Ingram
+TKT0199,2023-07-18 00:00:00,2023-07-28,Software,High,47.39,2.0,Daniel Taylor,c987234c,Sean Harrington DDS
+TKT0200,2023-07-19 00:00:00,2023-07-25,Hardware,Low,52.07,1.0,Daniel Taylor,c3f92e6a,David Lee
+TKT0201,2023-07-20 00:00:00,2023-08-03,Network,Low,51.11,4.0,Daniel Taylor,1b208ad2,Tyler Alvarez
+TKT0202,07-21-2023,2023-08-03,Hardware,Medium,62.74,3.0,Kevin Johnson,1b208ad2,Matthew Tate
+TKT0203,2023-07-22 00:00:00,2023-07-31,Hardware,Medium,35.01,2.0,Paula Kennedy,304802cb,Amber Wright
+TKT0204,2023-07-23 00:00:00,2023-08-05,Network,Medium,46.9,1.0,William Miller,35c395d0,Ian Walker
+TKT0205,2023-07-24 00:00:00,2023-08-07,Network,Urgent,63.88,2.0,Daniel Taylor,5729d437,Heather Smith
+TKT0206,2023-07-25 00:00:00,2023-08-04,Other,Urgent,48.98,2.0,Joshua Avila,783b1036,Nathan Price
+TKT0207,2023-07-26 00:00:00,2023-08-08,Account,Medium,66.88,3.0,Ashley Roberts,4f58e082,Bradley Flores
+TKT0208,2023-07-27 00:00:00,2023-08-03,Account,Urgent,30.34,2.0,Paula Kennedy,65130824,Dawn Reed
+TKT0209,2023-07-28 00:00:00,,Account,High,,,Shawn Dixon,,Brett Taylor DDS
+TKT0210,2023-07-29 00:00:00,2023-08-10,Hardware,Low,67.89,1.0,William Miller,b2a82935,Andrew Burns
+TKT0211,2023-07-30 00:00:00,2023-08-07,Hardware,Low,50.46,1.0,Paula Kennedy,5eae6c51,Dawn Small
+TKT0212,2023-07-31 00:00:00,2023-08-13,Software,High,56.29,3.0,Ashley Roberts,ebbdca61,Elizabeth Coleman
+TKT0213,2023-08-01 00:00:00,2023-08-12,Software,High,70.02,3.0,Daniel Taylor,c148255d,Dr. Karen White
+TKT0214,08-02-2023,2023-08-06,Network,Medium,39.32,1.0,Ashley Roberts,e3bbd050,Jason Santiago
+TKT0215,2023-08-03 00:00:00,2023-08-11,Account,Urgent,55.99,2.0,William Miller,f7fa611b,Ashley Adams
+TKT0216,2023-08-04 00:00:00,2023-08-16,Network,Urgent,67.17,5.0,William Miller,f41a5324,Stephen Dennis
+TKT0217,2023-08-05 00:00:00,2023-08-09,Account,Medium,39.52,3.0,Eric Stephens,,Tiffany Copeland
+TKT0218,2023-08-06 00:00:00,2023-08-13,Other,Medium,35.97,1.0,William Miller,7884ba4b,Mark Meadows
+TKT0219,2023-08-07 00:00:00,2023-08-17,Other,Urgent,61.61,2.0,Paula Kennedy,745d68b4,Darlene Stanton
+TKT0220,2023-08-08 00:00:00,2023-08-21,Other,Medium,56.14,2.0,Joshua Avila,7254a89e,David Smith
+TKT0221,2023-08-09 00:00:00,2023-08-14,Account,High,66.91,3.0,Joshua Avila,00418e65,April Brown
+TKT0222,2023-08-10 00:00:00,2023-08-23,Network,Urgent,57.68,5.0,Paula Kennedy,ed592add,Joseph Ortega
+TKT0223,2023-08-11 00:00:00,,Other,Urgent,,,Ashley Roberts,8c7c1d24,Melissa Fowler
+TKT0224,08-12-2023,,Hardware,High,,,Shawn Dixon,b80a3977,Kimberly Richardson
+TKT0225,2023-08-13 00:00:00,,Hardware,Medium,,,William Miller,,Sara Brown
+TKT0226,2023-08-14 00:00:00,2023-08-23,Account,Medium,42.13,5.0,Eric Stephens,f2dd6268,Jordan Lopez
+TKT0227,2023-08-15 00:00:00,2023-08-27,Software,Low,57.0,3.0,Kevin Johnson,f2dd6268,Gregory Black
+TKT0228,08-16-2023,2023-08-19,Account,Low,50.72,2.0,William Miller,898f911f,Kelly Dennis
+TKT0229,2023-08-17 00:00:00,2023-08-20,Hardware,Urgent,55.83,1.0,Daniel Taylor,cccf9faa,Justin Conner
+TKT0230,2023-08-18 00:00:00,2023-08-25,Software,Low,43.95,4.0,Shawn Dixon,df9337d6,Megan Poole
+TKT0231,08-19-2023,2023-08-31,Software,Medium,43.76,3.0,Ashley Morgan,bace4e36,Maria Williams
+TKT0232,2023-08-20 00:00:00,,Software,Medium,,,Paula Kennedy,ae1aa8c2,Laura Mccullough
+TKT0233,2023-08-21 00:00:00,,Account,Urgent,,,Joshua Avila,,Dr. Andrew Carter
+TKT0234,2023-08-22 00:00:00,,Network,High,,,William Miller,39183dea,Travis Holmes
+TKT0235,2023-08-23 00:00:00,2023-09-06,Account,High,39.1,3.0,Shawn Dixon,d995b994,Christopher Lewis
+TKT0236,2023-08-24 00:00:00,2023-09-04,Other,Low,58.17,5.0,Daniel Taylor,25da9519,Stuart Lewis
+TKT0237,2023-08-25 00:00:00,,Hardware,Urgent,,,Danielle Robinson,ad4973d5,Seth Conner
+TKT0238,2023-08-26 00:00:00,2023-08-30,Hardware,Low,43.79,3.0,Joshua Avila,c037c911,Austin Alexander
+TKT0239,2023-08-27 00:00:00,2023-08-29,Account,Urgent,50.88,3.0,Danielle Robinson,48721bd9,Chris Jones
+TKT0240,2023-08-28 00:00:00,2023-09-04,Account,High,42.38,2.0,Kevin Johnson,76c575e6,Timothy Coleman
+TKT0241,2023-08-29 00:00:00,2023-09-10,Hardware,Medium,51.81,5.0,Joshua Avila,,Stacey Morgan
+TKT0242,2023-08-30 00:00:00,,Hardware,Urgent,,,Ashley Morgan,9ef35ae6,Shirley Reynolds
+TKT0243,2023-08-31 00:00:00,,Network,High,,,Ashley Morgan,7fef658e,Robert Little
+TKT0244,09-01-2023,2023-09-14,Software,Medium,55.58,4.0,Joshua Avila,3322e2cc,Richard Figueroa
+TKT0245,2023-09-02 00:00:00,2023-09-07,Network,Urgent,45.36,4.0,Paula Kennedy,2dd74af9,Sara Bean
+TKT0246,2023-09-03 00:00:00,2023-09-14,Account,High,46.93,5.0,Kevin Johnson,5489ae77,Kaitlyn Jones
+TKT0247,2023-09-04 00:00:00,,Software,Medium,,,Joshua Avila,5106c6b4,Robert Bates
+TKT0248,2023-09-05 00:00:00,2023-09-17,Network,Medium,25.99,1.0,Joshua Avila,c334f405,Sandra Reyes
+TKT0249,2023-09-06 00:00:00,2023-09-19,Network,Low,41.47,3.0,Joshua Avila,,Pamela Rivas
+TKT0250,2023-09-07 00:00:00,2023-09-20,Account,Low,60.56,4.0,Shawn Dixon,2872b11a,Cheryl Campbell
+TKT0251,2023-09-08 00:00:00,2023-09-17,Other,Medium,59.46,3.0,Eric Stephens,c0c90168,Gwendolyn Collins
+TKT0252,2023-09-09 00:00:00,2023-09-16,Software,Low,44.54,3.0,Shawn Dixon,c0c90168,Jonathan Martinez
+TKT0253,2023-09-10 00:00:00,2023-09-24,Software,Medium,39.21,1.0,Eric Stephens,7e32c2d7,Charles Sims
+TKT0254,2023-09-11 00:00:00,2023-09-15,Hardware,Medium,68.84,5.0,Ashley Morgan,8f1ddc90,Carrie Reed
+TKT0255,2023-09-12 00:00:00,2023-09-13,Other,Medium,40.93,2.0,Shawn Dixon,0df494cd,Edward Jordan
+TKT0256,2023-09-13 00:00:00,2023-09-27,Account,Medium,46.26,2.0,Joshua Avila,217ef684,Nathaniel Rogers
+TKT0257,2023-09-14 00:00:00,2023-09-28,Network,High,56.16,4.0,Joshua Avila,,Meagan Nixon
+TKT0258,2023-09-15 00:00:00,2023-09-21,Hardware,Medium,56.1,3.0,Danielle Robinson,27ea99d1,Brandon Turner
+TKT0259,2023-09-16 00:00:00,2023-09-30,Hardware,Urgent,53.99,4.0,Shawn Dixon,70916a1a,Kendra Keller
+TKT0260,2023-09-17 00:00:00,2023-09-23,Account,High,46.33,1.0,Ashley Morgan,7139b1dc,Kelly Martin
+TKT0261,09-18-2023,,Software,High,,,Danielle Robinson,c72456db,Robin Porter
+TKT0262,2023-09-19 00:00:00,2023-09-30,Account,Urgent,55.67,5.0,Danielle Robinson,a42d3561,Ann Johnson
+TKT0263,2023-09-20 00:00:00,2023-09-27,Software,Medium,31.68,4.0,William Miller,c1ba71b1,Ashley Sherman
+TKT0264,2023-09-21 00:00:00,2023-09-30,Other,Low,16.93,2.0,Daniel Taylor,742e6f0b,Shawn Weber
+TKT0265,2023-09-22 00:00:00,2023-09-29,Network,Urgent,40.18,2.0,Joshua Avila,,Mrs. Patricia Beck
+TKT0266,2023-09-23 00:00:00,2023-09-27,Network,Low,54.21,3.0,Daniel Taylor,a2ca8453,Jose Copeland
+TKT0267,2023-09-24 00:00:00,,Account,Low,,,Ashley Roberts,3c2d5d98,Lauren Perez
+TKT0268,2023-09-25 00:00:00,2023-10-05,Network,High,59.66,5.0,Ashley Morgan,b2e8b2f5,Carol Green
+TKT0269,2023-09-26 00:00:00,,Account,Low,,,Shawn Dixon,6e2c36d3,Shannon Odom
+TKT0270,2023-09-27 00:00:00,2023-09-29,Software,Urgent,58.65,2.0,Joshua Avila,75c24c89,Wesley Allen
+TKT0271,2023-09-28 00:00:00,,Hardware,Urgent,,,Kevin Johnson,6a6057ca,Albert Taylor
+TKT0272,2023-09-29 00:00:00,2023-10-05,Network,Urgent,25.42,1.0,Shawn Dixon,a5b98ad9,Jessica Pierce
+TKT0273,2023-09-30 00:00:00,2023-10-10,Other,Medium,25.31,2.0,Daniel Taylor,,Cynthia Brennan
+TKT0274,2023-10-01 00:00:00,,Network,Low,,,Ashley Morgan,80813ed6,Samuel Wilson
+TKT0275,2023-10-02 00:00:00,2023-10-11,Account,Medium,51.96,5.0,Eric Stephens,c7f5f979,Blake Rivera
+TKT0276,2023-10-03 00:00:00,,Hardware,Low,,,Daniel Taylor,7466d7dd,Blake Friedman
+TKT0277,2023-10-04 00:00:00,,Network,Medium,,,Ashley Morgan,7466d7dd,Joseph Armstrong
+TKT0278,2023-10-05 00:00:00,2023-10-12,Network,Urgent,40.47,1.0,Ashley Roberts,65af4c59,Alyssa Bailey
+TKT0279,2023-10-06 00:00:00,,Hardware,Urgent,,,Shawn Dixon,be025d2b,Jeffrey Fuller
+TKT0280,2023-10-07 00:00:00,2023-10-20,Software,High,55.74,3.0,Paula Kennedy,a1955903,Michael Bentley
+TKT0281,2023-10-08 00:00:00,2023-10-18,Network,Medium,29.61,2.0,Kevin Johnson,,Michael Swanson
+TKT0282,10-09-2023,2023-10-11,Hardware,Medium,64.39,1.0,Shawn Dixon,c4a8d568,Ashley Mills
+TKT0283,2023-10-10 00:00:00,2023-10-20,Other,Low,48.77,3.0,Daniel Taylor,cb8faa52,Anna Waters
+TKT0284,2023-10-11 00:00:00,2023-10-18,Hardware,Urgent,34.95,1.0,Kevin Johnson,455b2a66,Christine Jones
+TKT0285,10-12-2023,2023-10-25,Account,Urgent,42.39,5.0,Eric Stephens,ee3c89f0,Jared Martinez
+TKT0286,2023-10-13 00:00:00,2023-10-20,Hardware,Medium,59.66,2.0,Danielle Robinson,e8b19440,Jason West
+TKT0287,2023-10-14 00:00:00,2023-10-15,Software,High,55.7,4.0,William Miller,138189a5,Jose Weaver
+TKT0288,2023-10-15 00:00:00,2023-10-27,Network,Urgent,64.25,2.0,Daniel Taylor,d8951570,Chad Gonzales
+TKT0289,10-16-2023,,Other,Medium,,,Shawn Dixon,,Stephen Mercado
+TKT0290,2023-10-17 00:00:00,,Other,High,,,Daniel Taylor,d0553eaa,Donna Burke
+TKT0291,2023-10-18 00:00:00,2023-10-28,Hardware,Medium,37.41,5.0,Paula Kennedy,25926ae2,Terry Thomas
+TKT0292,2023-10-19 00:00:00,2023-10-28,Other,Urgent,37.49,5.0,Daniel Taylor,b56dafd1,Amy Palmer
+TKT0293,2023-10-20 00:00:00,2023-10-21,Account,Urgent,16.23,5.0,Joshua Avila,f63eee7a,Teresa Richardson
+TKT0294,2023-10-21 00:00:00,,Account,High,,,Ashley Morgan,6fe763ed,Travis Morrow
+TKT0295,2023-10-22 00:00:00,2023-10-24,Software,Urgent,57.84,4.0,Paula Kennedy,db042818,Kyle Olsen
+TKT0296,2023-10-23 00:00:00,2023-11-06,Account,Medium,45.94,1.0,William Miller,6689947b,Travis Torres
+TKT0297,10-24-2023,2023-10-27,Network,Medium,31.39,1.0,Daniel Taylor,,Frank Barr
+TKT0298,10-25-2023,,Network,Medium,,,Kevin Johnson,aedd2aef,Brittany Collins
+TKT0299,2023-10-26 00:00:00,2023-10-31,Network,Urgent,33.55,3.0,Ashley Morgan,19bb3676,Travis Kennedy
+TKT0300,10-27-2023,2023-10-31,Network,Medium,22.06,2.0,William Miller,0a6bbf2b,Monica Floyd
